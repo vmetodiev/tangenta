@@ -27,6 +27,7 @@ https://www.mouser.bg/ProductDetail/Amphenol-FCI/10018783-10203TLF?qs=ITt1Sm5HH7
 
 
 https://www.snapeda.com/
+https://grabcad.com/
 https://www.traceparts.com/en/product/gct-usb-connectors-type-a-top-mount-0-offset-through-hole-horizontal?CatalogPath=TRACEPARTS%3ATP10016001002007&Product=90-01072022-031946&PartNumber=USB1035-XX-P-0-B-B
 https://pypi.org/project/JLC2KiCadLib/
 
