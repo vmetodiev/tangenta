@@ -1,3 +1,14 @@
+Lontium:
+https://www.forlinx.net/industrial-news/318.html
+https://community.toradex.com/t/lcd-hdmi-doesnt-display/13836/9
+
+Have a look at this new IC tomorrow:
+https://jlcpcb.com/partdetail/LontiumSemiconductor-LT8911EXB/C2887126
+
+PCIe:
+https://github.com/TheGuyDanish/CM4_MATX/blob/master/CM4_MATX_Schematic.pdf
+
+Others:
 https://docs.toradex.com/108681-verdin-imx8m-mini-datasheet-v1.1
 
 https://docs.toradex.com/110977-verdin_imx8m_plus_v1.1_datasheet.pdf
@@ -24,6 +35,7 @@ https://jlcpcb.com/partdetail/Xunpu-TYPEC_304ACP16/C2982555
 https://jlcpcb.com/partdetail/Onsemi-SMF05CT1G/C15879
 
 https://www.mouser.bg/ProductDetail/Amphenol-FCI/10018783-10203TLF?qs=ITt1Sm5HH7groJgIrkv0sw%3D%3D
+
 
 
 https://www.snapeda.com/
