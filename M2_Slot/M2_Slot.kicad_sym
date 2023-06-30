@@ -1,6 +1,6 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
   (symbol "1-2199230-5" (in_bom yes) (on_board yes)
-    (property "Reference" "C" (at 95.25 12.7 0)
+    (property "Reference" "J" (at 95.25 12.7 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (property "Value" "1-2199230-5" (at 95.25 10.16 0)
