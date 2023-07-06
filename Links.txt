@@ -43,3 +43,11 @@ https://grabcad.com/
 https://www.traceparts.com/en/product/gct-usb-connectors-type-a-top-mount-0-offset-through-hole-horizontal?CatalogPath=TRACEPARTS%3ATP10016001002007&Product=90-01072022-031946&PartNumber=USB1035-XX-P-0-B-B
 https://pypi.org/project/JLC2KiCadLib/
 
+====================================================================================================
+RS485/RS422:
+https://jlcpcb.com/partdetail/TexasInstruments-SN75HVD3082EDR/C140254
+
+CANbus:
+https://jlcpcb.com/partdetail/TexasInstruments-SN65HVD230DR/C12084
+https://jlcpcb.com/partdetail/TexasInstruments-SN65HVD232DR/C30530
+
