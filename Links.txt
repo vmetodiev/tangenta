@@ -19,7 +19,7 @@ https://docs.toradex.com/108140-verdin-carrier-board-design-guide.pdf
 
 https://developer.toradex.com/carrier-board-design/carrier-board-design-guides/
 
-file:///home/ubuntu/Downloads/RTL8367RB-VB-CG_Datasheet_1.1.pdf
+https://datasheet.lcsc.com/lcsc/2103121437_Realtek-Semicon-RTL8367S-CG_C2760849.pdf
 https://easyeda.com/editor#id=a41998c66c7646a19f639278ddf929c6
 
 https://jlcpcb.com/partdetail/TexasInstruments-TPS54231DR/C28023
