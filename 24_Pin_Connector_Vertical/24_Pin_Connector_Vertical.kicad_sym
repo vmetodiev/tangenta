@@ -1,6 +1,6 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
   (symbol "39281243" (in_bom yes) (on_board yes)
-    (property "Reference" "U" (at -4.826 14.224 0)
+    (property "Reference" "J" (at -4.826 14.224 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "39281243" (at -0.254 -21.717 0)
