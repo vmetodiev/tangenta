@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "35CE47AX" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "35CE47AX" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "C" (at -3.302 -0.254 0)
       (effects (font (size 1.27 1.27)))
     )

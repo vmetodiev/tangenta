@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "B540C-13-F" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "B540C-13-F" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "D" (at 0 2.921 0)
       (effects (font (size 1.27 1.27)))
     )
