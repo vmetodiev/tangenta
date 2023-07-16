@@ -479,6 +479,10 @@
     [
       "8215796b-9611-4f43-bcc5-319f8414b8a6",
       "ChassisButtons"
+    ],
+    [
+      "9b1f6f94-444c-4c59-8de9-290bde336856",
+      "PCIExpressSlots"
     ]
   ],
   "text_variables": {}
