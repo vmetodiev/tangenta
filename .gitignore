@@ -1,2 +1,5 @@
 // KiCAD ZIP archives
 *.zip
+
+// Apple DS Stores
+*.DS_Store
