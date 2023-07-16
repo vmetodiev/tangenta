@@ -312,6 +312,23 @@
     )
   )
 
+  (sheet (at 179.705 41.91) (size 29.845 29.845) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9b1f6f94-444c-4c59-8de9-290bde336856)
+    (property "Sheetname" "PCIExpressSlots" (at 179.705 41.1984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "PCIExpressSlots.kicad_sch" (at 179.705 72.3396 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6" (page "4"))
+      )
+    )
+  )
+
   (sheet (at 125.73 41.91) (size 34.29 41.91) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
