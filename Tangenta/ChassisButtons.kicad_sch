@@ -1021,6 +1021,10 @@
     (uuid f9efbebe-c20a-4019-ad70-eea50e68014c)
   )
 
+  (hierarchical_label "PWR" (shape output) (at 96.52 83.82 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 0a34939e-aa4b-46b8-b645-d96c06cd643d)
+  )
   (hierarchical_label "GND" (shape bidirectional) (at 40.64 101.6 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 1fbb933c-c235-4fb0-9acc-db5e8c2ad5c2)
