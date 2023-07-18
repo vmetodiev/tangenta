@@ -274,6 +274,57 @@
     )
   )
 
+  (sheet (at 123.825 133.35) (size 22.225 23.495) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 2bb52479-7b35-496d-9807-27e706c6ef7b)
+    (property "Sheetname" "EthernetSwitch" (at 123.825 132.6384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "EthernetSwitch.kicad_sch" (at 123.825 157.4296 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6" (page "9"))
+      )
+    )
+  )
+
+  (sheet (at 189.865 133.35) (size 22.225 23.495) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 311e518b-ff64-43ec-9466-21ebfb76bf13)
+    (property "Sheetname" "MicroSD" (at 189.865 132.6384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MicroSD.kicad_sch" (at 189.865 157.4296 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6" (page "7"))
+      )
+    )
+  )
+
+  (sheet (at 93.345 133.35) (size 21.59 23.495) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6a8c68b5-4a7d-449e-86f6-34ced6d1cb55)
+    (property "Sheetname" "DSI_HDMI" (at 93.345 132.6384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "DSI_HDMI.kicad_sch" (at 93.345 157.4296 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6" (page "10"))
+      )
+    )
+  )
+
   (sheet (at 63.5 41.91) (size 34.29 41.91) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -324,6 +375,23 @@
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 220.345 133.35) (size 24.13 23.495) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid b1871a4d-6a35-44e2-a9a2-9a4af684371d)
+    (property "Sheetname" "USB" (at 220.345 132.6384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "USB.kicad_sch" (at 220.345 157.4296 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6" (page "6"))
       )
     )
   )
@@ -381,6 +449,40 @@
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 220.345 98.425) (size 24.13 23.495) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid e56d8c10-557c-47b7-a4d3-5b3b43580080)
+    (property "Sheetname" "USB_OTG" (at 220.345 97.7134 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "USB_OTG.kicad_sch" (at 220.345 122.5046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 156.21 133.35) (size 21.59 23.495) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid f1c5822c-e7b8-40ae-bab0-71fd1c2cfc7c)
+    (property "Sheetname" "MobileModem" (at 156.21 132.6384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MobileModem.kicad_sch" (at 156.21 157.4296 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6" (page "8"))
       )
     )
   )

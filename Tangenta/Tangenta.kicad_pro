@@ -500,6 +500,30 @@
     [
       "9b1f6f94-444c-4c59-8de9-290bde336856",
       "PCIExpressSlots"
+    ],
+    [
+      "e56d8c10-557c-47b7-a4d3-5b3b43580080",
+      "USB_OTG"
+    ],
+    [
+      "b1871a4d-6a35-44e2-a9a2-9a4af684371d",
+      "USB"
+    ],
+    [
+      "311e518b-ff64-43ec-9466-21ebfb76bf13",
+      "MicroSD"
+    ],
+    [
+      "f1c5822c-e7b8-40ae-bab0-71fd1c2cfc7c",
+      "MobileModem"
+    ],
+    [
+      "2bb52479-7b35-496d-9807-27e706c6ef7b",
+      "EthernetSwitch"
+    ],
+    [
+      "6a8c68b5-4a7d-449e-86f6-34ced6d1cb55",
+      "DSI_HDMI"
     ]
   ],
   "text_variables": {}
