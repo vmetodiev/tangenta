@@ -362,14 +362,31 @@
     )
   )
 
-  (sheet (at 179.705 41.91) (size 29.845 29.845) (fields_autoplaced)
+  (sheet (at 65.405 133.35) (size 24.13 23.495) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 98e3b24f-9927-4339-b8fd-9deea91a522a)
+    (property "Sheetname" "RS485_422" (at 65.405 132.6384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "RS485_422.kicad_sch" (at 65.405 157.4296 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6" (page "11"))
+      )
+    )
+  )
+
+  (sheet (at 185.42 41.91) (size 29.845 29.845) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 9b1f6f94-444c-4c59-8de9-290bde336856)
-    (property "Sheetname" "PCIExpressSlots" (at 179.705 41.1984 0)
+    (property "Sheetname" "PCIExpressSlots" (at 185.42 41.1984 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "PCIExpressSlots.kicad_sch" (at 179.705 72.3396 0)
+    (property "Sheetfile" "PCIExpressSlots.kicad_sch" (at 185.42 72.3396 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -392,6 +409,23 @@
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 43.18 133.35) (size 18.415 23.495) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid b5394a48-5ef8-44c9-9d56-604d4ce6d7c8)
+    (property "Sheetname" "CANbus" (at 43.18 132.6384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "CANbus.kicad_sch" (at 43.18 157.4296 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6" (page "12"))
       )
     )
   )
@@ -449,6 +483,23 @@
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 19.05 133.35) (size 19.05 23.495) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid db297b0b-35f2-4e86-892c-83973f1ac2db)
+    (property "Sheetname" "Toradex" (at 19.05 132.6384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Toradex.kicad_sch" (at 19.05 157.4296 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6" (page "13"))
       )
     )
   )
