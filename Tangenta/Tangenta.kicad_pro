@@ -524,6 +524,18 @@
     [
       "6a8c68b5-4a7d-449e-86f6-34ced6d1cb55",
       "DSI_HDMI"
+    ],
+    [
+      "98e3b24f-9927-4339-b8fd-9deea91a522a",
+      "RS485_422"
+    ],
+    [
+      "b5394a48-5ef8-44c9-9d56-604d4ce6d7c8",
+      "CANbus"
+    ],
+    [
+      "db297b0b-35f2-4e86-892c-83973f1ac2db",
+      "Toradex"
     ]
   ],
   "text_variables": {}
