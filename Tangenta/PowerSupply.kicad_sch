@@ -1656,7 +1656,7 @@
     (uuid fead3b61-c332-4e9b-85d4-6ca8a7fedd9a)
   )
 
-  (text "24-pin ATX Connector" (at 217.297 19.177 0)
+  (text "24-pin ATX Connector" (at 216.535 20.955 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 846c6958-8d39-4eb4-a866-b0551bbb3106)
   )

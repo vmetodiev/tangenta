@@ -1349,7 +1349,7 @@
 
   (footprint "SFP_Connector:SFP_Connector" (layer "F.Cu")
     (tstamp 138bd3c1-752e-43ae-9efe-7cf47b0c4153)
-    (at 69.427051 142.649152 -90)
+    (at 69.59 140.718 -90)
     (descr "CONN-SMD_20P-P0.80_HCTL_HC-SFP-20P footprint")
     (tags "CONN-SMD_20P-P0.80_HCTL_HC-SFP-20P footprint")
     (property "LCSC" "C2897291")
