@@ -6,7 +6,7 @@
     (property "Value" "GZ2012D101TF" (at 2.921 -5.461 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "footprint:L0805" (at 3.175 -10.16 0)
+    (property "Footprint" "Ferrite_Bead_100:Ferrite_Bead_100" (at 12.573 -10.033 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://item.szlcsc.com/344132.html" (at -4.191 -7.747 0)
