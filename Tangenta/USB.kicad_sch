@@ -760,6 +760,38 @@
     )
   )
 
+  (symbol (lib_id "Device:C_Small") (at 34.29 159.512 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 24c6dfc5-1a3e-4b81-bcb6-4ee44b597a38)
+    (property "Reference" "C1" (at 32.131 157.988 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "18pF" (at 31.115 161.163 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 34.29 159.512 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 34.29 159.512 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 4fb6d6bc-2bad-4c09-8b8f-b5deb2a41d40))
+    (pin "2" (uuid 9c70503e-e7ae-4edc-8f29-c55859bc859b))
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
+          (reference "C1") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
+          (reference "C9") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
+          (reference "C41") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Ferrite_Bead_100:GZ2012D101TF") (at 50.165 21.59 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 315ca2d2-c815-440a-b3eb-7b6d4ad91af2)
@@ -943,6 +975,38 @@
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
           (reference "J12") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:C_Small") (at 43.815 159.512 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 8ea0a3d1-d957-4300-8bb5-0316adf2a5f1)
+    (property "Reference" "C1" (at 41.656 157.988 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "18pF" (at 40.64 161.163 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 43.815 159.512 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 43.815 159.512 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 63a0d120-9b48-4be1-96fa-e0f94d00bc7d))
+    (pin "2" (uuid af813120-ee31-4246-9b87-73ea8e34d62e))
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
+          (reference "C1") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
+          (reference "C9") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
+          (reference "C42") (unit 1)
         )
       )
     )

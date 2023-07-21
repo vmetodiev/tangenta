@@ -59,3 +59,9 @@ https://xdevs.com/doc/_PC_HW/Form_factors/matxspe1.2.pdf
 PCI card tabs:
 https://www.protocase.com/resources/how-to-design-for-motherboards/ 
 
+====================================================================================================
+https://365.altium.com/files/CB8424CC-C92D-11EB-A2F6-0A0ABF5AFC1B?openedFrom=CMWebsite&variant=[No+Variations]
+https://drive.google.com/file/d/1ZDGMbSqfsFvhduu0S3ZxnEvnkp_NfqiL/view
+https://forum.radxa.com/t/usb-usb2514b-not-responding-with-cm3/16143
+https://cdn.sparkfun.com/assets/6/f/1/5/b/Qwiic-USB_Hub.pdf
+https://community.nxp.com/t5/LPC-FAQs/How-to-calculate-the-value-of-crystal-load-capacitors/m-p/464589
