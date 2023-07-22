@@ -1,7 +1,7 @@
 (kicad_pcb (version 20221018) (generator pcbnew)
 
   (general
-    (thickness 1.6062)
+    (thickness 1.5842)
   )
 
   (paper "A3")
@@ -45,11 +45,11 @@
       (layer "F.Paste" (type "Top Solder Paste"))
       (layer "F.Mask" (type "Top Solder Mask") (thickness 0.01))
       (layer "F.Cu" (type "copper") (thickness 0.035))
-      (layer "dielectric 1" (type "prepreg") (thickness 0.2104) (material "FR4") (epsilon_r 4.5) (loss_tangent 0.02))
+      (layer "dielectric 1" (type "prepreg") (thickness 0.0994) (material "FR4") (epsilon_r 4.5) (loss_tangent 0.02))
       (layer "In1.Cu" (type "copper") (thickness 0.0152))
-      (layer "dielectric 2" (type "core") (thickness 1.065) (material "FR4") (epsilon_r 4.5) (loss_tangent 0.02))
+      (layer "dielectric 2" (type "core") (thickness 1.265) (material "FR4") (epsilon_r 4.5) (loss_tangent 0.02))
       (layer "In2.Cu" (type "copper") (thickness 0.0152))
-      (layer "dielectric 3" (type "prepreg") (thickness 0.2104) (material "FR4") (epsilon_r 4.5) (loss_tangent 0.02))
+      (layer "dielectric 3" (type "prepreg") (thickness 0.0994) (material "FR4") (epsilon_r 4.5) (loss_tangent 0.02))
       (layer "B.Cu" (type "copper") (thickness 0.035))
       (layer "B.Mask" (type "Bottom Solder Mask") (thickness 0.01))
       (layer "B.Paste" (type "Bottom Solder Paste"))
@@ -8931,6 +8931,9 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp ddddeeab-13af-41dd-aa1a-218e6efb9468))
   (gr_line locked (start 35.3 27.18) (end 279.14 27.18)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp facd363e-d5db-4d84-86e9-933f557da431))
+  (gr_text "JLC04161H-3313" (at 264.281 269.496) (layer "Eco2.User") (tstamp ea62d72e-67f3-463c-ac19-d6e206b1ca1b)
+    (effects (font (size 1 1) (thickness 0.2) bold) (justify left bottom))
+  )
 
   (segment (start 250.183998 133.5425) (end 250.183998 134.71313) (width 0.25) (layer "F.Cu") (net 1) (tstamp 5d85e36f-9c31-4072-9ffe-1d507e47c5c7))
   (segment (start 250.691995 131.7645) (end 250.691995 133.034503) (width 0.25) (layer "F.Cu") (net 1) (tstamp 5eef4fbb-9bf2-424c-afea-5e5d19619a08))
