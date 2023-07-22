@@ -701,6 +701,30 @@
       {
         "netclass": "USB",
         "pattern": "/USB/USB_MODEM.P"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/MobileModem/USB_MODEM.N"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/MobileModem/USB_MODEM.P"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/USB/USB_UP.P"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/USB/USB_UP.N"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/Toradex/USB_UP.P"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/Toradex/USB_UP.N"
       }
     ]
   },
