@@ -649,6 +649,58 @@
       {
         "netclass": "USB",
         "pattern": ""
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/USB/USB_D1_N"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/USB/USB_D1_P"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/USB/USB_D2_N"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/USB/USB_D2_P"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/USB/USB_D3_N"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/USB/USB_D3_P"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/MobileModem/USB_D4_N"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/MobileModem/USB_D4_P"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/USB/3V3A"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/USB/3V3"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/USB/5V"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/USB/USB_MODEM.N"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/USB/USB_MODEM.P"
       }
     ]
   },
