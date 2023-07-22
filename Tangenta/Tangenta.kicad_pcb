@@ -1720,7 +1720,7 @@
 
   (footprint "MicroSD_Holder:MicroSD_Holder" (layer "F.Cu")
     (tstamp 1be2a41f-b669-46d8-807a-93e224bb8bb9)
-    (at 92.580064 36.925102 180)
+    (at 93.339 35.849988 180)
     (descr "TF-SMD_TF-115K footprint")
     (tags "TF-SMD_TF-115K footprint")
     (property "LCSC" "C266621")
