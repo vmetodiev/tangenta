@@ -617,6 +617,10 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid f496e872-196c-408f-89e7-3112c06169e4)
     )
+    (pin "CHASSIS" bidirectional (at 210.312 108.839 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 5b1092ca-b25b-47d0-885a-5622b05135e7)
+    )
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6" (page "5"))
