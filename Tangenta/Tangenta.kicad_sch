@@ -566,6 +566,23 @@
     )
   )
 
+  (sheet (at 53.594 108.458) (size 19.812 19.812) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid da6cda23-cac5-483b-bd71-d8f2b2c13669)
+    (property "Sheetname" "COMBO_RJ45" (at 53.594 107.7464 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "COMBO_RJ45.kicad_sch" (at 53.594 128.8546 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6" (page "14"))
+      )
+    )
+  )
+
   (sheet (at 19.05 123.19) (size 19.05 33.655) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
