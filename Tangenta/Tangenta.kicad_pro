@@ -746,6 +746,46 @@
       {
         "netclass": "Ground",
         "pattern": "GNDREF"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/Toradex/USB_DR.EN"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/Toradex/USB_DR.nOC"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/Toradex/USB_DR.VBUS"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/Toradex/USB_DR.ID"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/Toradex/USB_DR.N"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/Toradex/USB_DR.P"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/USB_OTG/5V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/USB_OTG/1V8"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/USB_OTG/USB_DR_CC1"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/USB_OTG/USB_DR_CC2"
       }
     ]
   },
