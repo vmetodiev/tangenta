@@ -886,6 +886,10 @@
     [
       "db297b0b-35f2-4e86-892c-83973f1ac2db",
       "Toradex"
+    ],
+    [
+      "da6cda23-cac5-483b-bd71-d8f2b2c13669",
+      "COMBO_RJ45"
     ]
   ],
   "text_variables": {}
