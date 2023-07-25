@@ -974,14 +974,14 @@
   )
 
   (no_connect (at 144.272 101.346) (uuid 0414f2ca-9ca2-4be9-bdb8-34c4f289f4dd))
-  (no_connect (at 124.968 142.494) (uuid 1e543d88-d21e-4353-97cf-e74f359f8b07))
+  (no_connect (at 127.508 142.494) (uuid 1e543d88-d21e-4353-97cf-e74f359f8b07))
   (no_connect (at 103.632 103.886) (uuid 1f5d7bb7-d173-43df-8ab8-c41b5bacbea2))
   (no_connect (at 144.272 106.426) (uuid 203a0039-fe1a-443e-b593-791917719ac8))
   (no_connect (at 196.596 43.942) (uuid 31c78416-2381-4432-a27a-e0f9413567a7))
   (no_connect (at 246.38 103.124) (uuid 47ed7f74-e85f-4430-890f-fd7f2c9fcf2a))
   (no_connect (at 103.632 96.266) (uuid 58cf2df7-8b82-424d-b6a0-ac88b2509142))
   (no_connect (at 103.632 106.426) (uuid 811bb316-0236-4bf7-8f6c-62c11273e909))
-  (no_connect (at 102.108 139.954) (uuid 8ff5af31-a23a-4595-83e7-4a09f3a2577f))
+  (no_connect (at 99.568 139.954) (uuid 8ff5af31-a23a-4595-83e7-4a09f3a2577f))
   (no_connect (at 144.272 98.806) (uuid 91687af4-c927-4c45-95f0-33e5cf044460))
 
   (bus_entry (at 66.548 37.338) (size 2.54 -2.54)
@@ -1485,6 +1485,10 @@
     (uuid fd181e5d-e8a2-4bca-a259-cc29d74d2556)
   )
 
+  (label "GND" (at 249.428 43.942 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 020f1fd5-52ec-4fc7-b4f3-b4982575be6e)
+  )
   (label "1V8" (at 65.024 106.426 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 04e04d32-ef7e-4e82-ab14-ef1e8bc27010)
