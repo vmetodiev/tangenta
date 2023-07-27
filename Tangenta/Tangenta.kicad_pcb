@@ -4927,7 +4927,7 @@
     (property "Sheetfile" "DSI_HDMI.kicad_sch")
     (property "Sheetname" "DSI_HDMI")
     (property "ki_keywords" "C2892102")
-    (path "/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55/8c0027ee-2a0e-4d6d-8b19-bfeea340f25c")
+    (path "/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55/5b5e37cf-dadb-407f-91c5-4745b996a150")
     (attr smd)
     (fp_text reference "U13" (at 0 -5.3) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
