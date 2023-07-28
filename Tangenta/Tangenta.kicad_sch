@@ -110,6 +110,10 @@
     (stroke (width 0) (type default))
     (uuid 94433752-b61b-4036-888a-f86be418ef20)
   )
+  (bus (pts (xy 102.87 133.35) (xy 111.76 133.35))
+    (stroke (width 0) (type default))
+    (uuid a813bde9-9a55-400f-ad0c-c6c90c769558)
+  )
   (bus (pts (xy 322.58 134.62) (xy 344.17 134.62))
     (stroke (width 0) (type default))
     (uuid b82eed49-f4b9-4b65-93d4-7b2078ed74af)
@@ -125,6 +129,10 @@
   (bus (pts (xy 262.89 175.26) (xy 293.37 175.26))
     (stroke (width 0) (type default))
     (uuid ee3986e5-fda8-4000-acd4-144086a7be31)
+  )
+  (bus (pts (xy 111.76 133.35) (xy 111.76 99.06))
+    (stroke (width 0) (type default))
+    (uuid f21d94a0-f854-4574-bb18-f2704ffbc40c)
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 291.465 265.049 0) (unit 1)
@@ -403,6 +411,10 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 576f01a1-27d6-479f-8510-1c34ec264492)
     )
+    (pin "I2S{BCLK SYNC D_OUT}" input (at 111.76 99.06 270)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 21359723-db84-4c75-8243-1910f874c09b)
+    )
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6" (page "10"))
@@ -634,6 +646,10 @@
     (pin "DSI{D0_N D0_P D1_N D1_P D2_N D2_P D3_N D3_P CLK_N CLK_P nRST INT HPD}" output (at 102.87 130.81 0)
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid e441f190-c10a-47e3-93ab-a8597ad857d9)
+    )
+    (pin "I2S{BCLK SYNC D_OUT}" output (at 102.87 133.35 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 20dd7875-0da0-4bbd-b36d-90290b5cde25)
     )
     (instances
       (project "Tangenta"
