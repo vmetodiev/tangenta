@@ -623,13 +623,13 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 118.11 76.2 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 3037a5ed-c202-4e89-8639-bd3ac7e39bd0)
-    (property "Reference" "H10" (at 120.65 74.93 0)
+    (property "Reference" "H10" (at 120.65 76.2 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (at 120.65 77.47 0)
-      (effects (font (size 1.27 1.27)) (justify left))
+      (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad" (at 118.11 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -641,6 +641,30 @@
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/f1c5822c-e7b8-40ae-bab0-71fd1c2cfc7c"
           (reference "H10") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 118.11 83.82 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 9829b56c-af99-4973-93fb-8afa0ba58563)
+    (property "Reference" "H11" (at 120.65 83.82 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (at 120.65 85.09 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad" (at 118.11 83.82 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 118.11 83.82 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/f1c5822c-e7b8-40ae-bab0-71fd1c2cfc7c"
+          (reference "H11") (unit 1)
         )
       )
     )
