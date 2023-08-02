@@ -861,6 +861,102 @@
       {
         "netclass": "USB",
         "pattern": "/USB_OTG/USB_DR_CC2"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/DSI_HDMI/1V8"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "/DSI_HDMI/5V"
+      },
+      {
+        "netclass": "Ground",
+        "pattern": "/DSI_HDMI/CHASSIS"
+      },
+      {
+        "netclass": "DSI",
+        "pattern": "/DSI_HDMI/DSI.D0_N"
+      },
+      {
+        "netclass": "DSI",
+        "pattern": "/DSI_HDMI/DSI.D0_P"
+      },
+      {
+        "netclass": "DSI",
+        "pattern": "/DSI_HDMI/DSI.D1_N"
+      },
+      {
+        "netclass": "DSI",
+        "pattern": "/DSI_HDMI/DSI.D1_P"
+      },
+      {
+        "netclass": "DSI",
+        "pattern": "/DSI_HDMI/DSI.D2_N"
+      },
+      {
+        "netclass": "DSI",
+        "pattern": "/DSI_HDMI/DSI.D2_P"
+      },
+      {
+        "netclass": "DSI",
+        "pattern": "/DSI_HDMI/DSI.D3_N"
+      },
+      {
+        "netclass": "DSI",
+        "pattern": "/DSI_HDMI/DSI.D3_P"
+      },
+      {
+        "netclass": "DSI",
+        "pattern": "/DSI_HDMI/DSI.CLK_N"
+      },
+      {
+        "netclass": "DSI",
+        "pattern": "/DSI_HDMI/DSI.CLK_P"
+      },
+      {
+        "netclass": "DSI",
+        "pattern": "/DSI_HDMI/DSI.nRST"
+      },
+      {
+        "netclass": "DSI",
+        "pattern": "/DSI_HDMI/DSI.INT"
+      },
+      {
+        "netclass": "DSI",
+        "pattern": "/DSI_HDMI/DSI.HPD"
+      },
+      {
+        "netclass": "HDMI",
+        "pattern": "/DSI_HDMI/HDMI_TXC_N"
+      },
+      {
+        "netclass": "HDMI",
+        "pattern": "/DSI_HDMI/HDMI_TXC_P"
+      },
+      {
+        "netclass": "HDMI",
+        "pattern": "/DSI_HDMI/HDMI_TXD0_N"
+      },
+      {
+        "netclass": "HDMI",
+        "pattern": "/DSI_HDMI/HDMI_TXD0_P"
+      },
+      {
+        "netclass": "HDMI",
+        "pattern": "/DSI_HDMI/HDMI_TXD1_N"
+      },
+      {
+        "netclass": "HDMI",
+        "pattern": "/DSI_HDMI/HDMI_TXD1_P"
+      },
+      {
+        "netclass": "HDMI",
+        "pattern": "/DSI_HDMI/HDMI_TXD2_N"
+      },
+      {
+        "netclass": "HDMI",
+        "pattern": "/DSI_HDMI/HDMI_TXD2_P"
       }
     ]
   },
