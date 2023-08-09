@@ -1,0 +1,84 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid d9b7f4df-ecfb-4f6f-b426-6441ffad1cfa)
+
+  (paper "A3")
+
+  (lib_symbols
+  )
+
+
+  (text "Don't forget the RESET signal level shifter (1.8V --> 3.3V)"
+    (at 26.67 41.91 0)
+    (effects (font (size 5 5)) (justify left bottom))
+    (uuid 80cf52b3-4f43-4c40-8f2d-e6f00949a7b3)
+  )
+
+  (sheet (at 124.46 66.04) (size 34.29 132.08) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 04648235-6c5e-4915-ab80-8fea22048f3c)
+    (property "Sheetname" "PCIE_Switch" (at 124.46 65.3284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "PCIE_Switch.kicad_sch" (at 124.46 198.7046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856" (page "18"))
+      )
+    )
+  )
+
+  (sheet (at 187.96 66.04) (size 27.94 33.02) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 79105fff-2111-4675-95ec-60397c562e45)
+    (property "Sheetname" "PCIE_Slot_1" (at 187.96 65.3284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "PCIE_Slot_1.kicad_sch" (at 187.96 99.6446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856" (page "15"))
+      )
+    )
+  )
+
+  (sheet (at 187.96 114.3) (size 27.94 33.02) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 90adec24-c816-45b1-84de-df0a62ed06ad)
+    (property "Sheetname" "PCIE_Slot_2" (at 187.96 113.5884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "PCIE_Slot_2.kicad_sch" (at 187.96 147.9046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856" (page "16"))
+      )
+    )
+  )
+
+  (sheet (at 187.96 165.1) (size 27.94 33.02) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 95d5fed9-c617-43f1-96e2-65308e862f66)
+    (property "Sheetname" "PCIE_Slot_3" (at 187.96 164.3884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "PCIE_Slot_3.kicad_sch" (at 187.96 198.7046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856" (page "17"))
+      )
+    )
+  )
+)
