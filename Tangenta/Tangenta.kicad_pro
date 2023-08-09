@@ -1020,7 +1020,7 @@
     ],
     [
       "9b1f6f94-444c-4c59-8de9-290bde336856",
-      "PCIExpressSlots"
+      "PCIExpress"
     ],
     [
       "e56d8c10-557c-47b7-a4d3-5b3b43580080",
@@ -1061,6 +1061,22 @@
     [
       "da6cda23-cac5-483b-bd71-d8f2b2c13669",
       "COMBO_RJ45"
+    ],
+    [
+      "79105fff-2111-4675-95ec-60397c562e45",
+      "PCIE_Slot_1"
+    ],
+    [
+      "90adec24-c816-45b1-84de-df0a62ed06ad",
+      "PCIE_Slot_2"
+    ],
+    [
+      "95d5fed9-c617-43f1-96e2-65308e862f66",
+      "PCIE_Slot_3"
+    ],
+    [
+      "04648235-6c5e-4915-ab80-8fea22048f3c",
+      "PCIE_Switch"
     ]
   ],
   "text_variables": {}
