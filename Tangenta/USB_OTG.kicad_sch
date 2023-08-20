@@ -983,6 +983,7 @@
   (no_connect (at 103.632 106.426) (uuid 811bb316-0236-4bf7-8f6c-62c11273e909))
   (no_connect (at 99.568 139.954) (uuid 8ff5af31-a23a-4595-83e7-4a09f3a2577f))
   (no_connect (at 144.272 98.806) (uuid 91687af4-c927-4c45-95f0-33e5cf044460))
+  (no_connect (at 246.38 57.404) (uuid a4c8f251-7ae9-4623-8386-19692d9c72df))
 
   (bus_entry (at 66.548 37.338) (size 2.54 -2.54)
     (stroke (width 0) (type default))
