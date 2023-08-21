@@ -957,6 +957,150 @@
       {
         "netclass": "HDMI",
         "pattern": "/DSI_HDMI/HDMI_TXD2_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_X1_CLK.P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_X1_CLK.N"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_X1_DATA.RX_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_X1_DATA.RX_N"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_X1_DATA.TX_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_X1_DATA.TX_N"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_X1_CTRL.nRST"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_X1_CTRL.nWAKE"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Switch/PCIE_PRE_TX_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Switch/PCIE_PRE_TX_N"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Switch/PCIE1_PRE_TX_N"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Switch/PCIE1_PRE_TX_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Switch/PCIE2_PRE_TX_N"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Switch/PCIE2_PRE_TX_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Switch/PCIE3_PRE_TX_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Switch/PCIE3_PRE_TX_N"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Slot_1/PCIE1_TX_N"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Slot_1/PCIE1_TX_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Slot_2/PCIE2_TX_N"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Slot_2/PCIE2_TX_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Slot_3/PCIE3_TX_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Slot_3/PCIE3_TX_N"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Slot_3/PCIE3_RX_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Slot_3/PCIE3_RX_N"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Slot_2/PCIE2_RX_N"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Slot_2/PCIE2_RX_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Slot_1/PCIE1_RX_N"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Slot_1/PCIE1_RX_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Switch/PCIE0_CLK_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Switch/PCIE0_CLK_N"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Slot_1/PCIE1_CLK_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Slot_1/PCIE1_CLK_N"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Slot_2/PCIE2_CLK_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Slot_2/PCIE2_CLK_N"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Slot_3/PCIE3_CLK_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Slot_3/PCIE3_CLK_N"
       }
     ]
   },
