@@ -1101,6 +1101,46 @@
       {
         "netclass": "PCIE",
         "pattern": "/PCIExpress/PCIE_Slot_3/PCIE3_CLK_N"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Switch/RCLK_N"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Switch/RCLK_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Switch/CLK0_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Switch/CLK0_N"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Switch/CLK1_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Switch/CLK1_N"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Switch/CLK2_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Switch/CLK2_N"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Switch/CLK3_P"
+      },
+      {
+        "netclass": "PCIE",
+        "pattern": "/PCIExpress/PCIE_Switch/CLK3_N"
       }
     ]
   },
