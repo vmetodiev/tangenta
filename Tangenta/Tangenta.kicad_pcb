@@ -3521,7 +3521,7 @@
 
   (footprint "CAP_L6:CAP_L6" (layer "F.Cu")
     (tstamp 1d1999d3-effb-4b44-8bae-e53b4ee82a11)
-    (at 373.412053 55.827349)
+    (at 69.844 242.953 -90)
     (descr "CAP-SMD_BD6.3-L6.6-W6.6-LS7.3-FD footprint")
     (tags "CAP-SMD_BD6.3-L6.6-W6.6-LS7.3-FD footprint")
     (property "Capacitance" "47uF")
@@ -3531,15 +3531,15 @@
     (property "ki_keywords" "C179808")
     (path "/9b1f6f94-444c-4c59-8de9-290bde336856/95d5fed9-c617-43f1-96e2-65308e862f66/ee54852d-bea4-4f6c-9ae2-fd49c8c4a69d")
     (attr through_hole)
-    (fp_text reference "C140" (at 0 -5.376149) (layer "F.SilkS")
+    (fp_text reference "C140" (at 0 -5.376149 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dbfbc4ff-81ba-43f7-97e2-bc03469eeb74)
     )
-    (fp_text value "47uF" (at 0 5.375692) (layer "F.Fab")
+    (fp_text value "47uF" (at 0 5.375692 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 31d6aefa-d15f-4a9b-80bf-180a1d860cd7)
     )
-    (fp_text user "REF**" (at 0 7.375692) (layer "F.Fab")
+    (fp_text user "REF**" (at 0 7.375692 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 29024d6e-561b-4ed9-b982-e444b0ca434b)
     )
@@ -3561,9 +3561,9 @@
       (stroke (width 0.1524) (type solid)) (layer "F.SilkS") (tstamp f9d6f3dc-6ee7-4ccc-8de2-aa34424da954))
     (fp_circle (center -3.651638 3.300025) (end -3.621641 3.300025)
       (stroke (width 0.059995) (type solid)) (fill none) (layer "F.SilkS") (tstamp 6e0526b7-7178-445c-9641-f32c28fdebba))
-    (pad "1" smd rect (at -2.670053 0) (size 3.5 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "1" smd rect (at -2.670053 0 270) (size 3.5 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 33 "/PCIExpress/12V") (pintype "passive") (tstamp 639a7c63-4375-4a3f-8640-fca110deaccd))
-    (pad "2" smd rect (at 2.670053 0) (size 3.5 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "2" smd rect (at 2.670053 0 270) (size 3.5 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 5 "GNDREF") (pintype "passive") (tstamp 6a6e9dce-017b-47fc-93ac-e4266d4d4a30))
     (model "${KICAD7_3DMODEL_DIR}/CAP_L6.3dshapes/CAP-SMD_BD6.3-L6.6-W6.6-LS7.3-FD.wrl"
       (offset (xyz 0.000025 0.000025 0.020066))
@@ -4825,7 +4825,7 @@
 
   (footprint "CAP_TANTAL_A:CAP_TANTAL_A" (layer "F.Cu")
     (tstamp 24bf4704-51e5-4f03-9c16-e175f8496379)
-    (at 360.350098 130.148307)
+    (at 70.479 196.09)
     (descr "CASE-A_3216 footprint")
     (tags "CASE-A_3216 footprint")
     (property "Capacitance" "10uF")
@@ -4835,15 +4835,15 @@
     (property "ki_keywords" "C129570")
     (path "/9b1f6f94-444c-4c59-8de9-290bde336856/90adec24-c816-45b1-84de-df0a62ed06ad/b8ce08cf-ba10-422b-a09e-e8724d48f735")
     (attr through_hole)
-    (fp_text reference "C144" (at 0 -2.800102) (layer "F.SilkS")
+    (fp_text reference "C144" (at 0 -2.800102) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8a2f8875-5c8f-4059-89be-717b8d6fa346)
     )
-    (fp_text value "10uF" (at 0 2.800102) (layer "F.Fab")
+    (fp_text value "10uF" (at 0 2.800102) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f6efea7b-f117-42ea-ac64-d5a011d04cbd)
     )
-    (fp_text user "REF**" (at 0 4.800102) (layer "F.Fab")
+    (fp_text user "REF**" (at 0 4.800102) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ae3d80e5-adb9-4e1e-b306-c1e7cd2958e3)
     )
@@ -6001,7 +6001,7 @@
 
   (footprint "CAP_TANTAL_A:CAP_TANTAL_A" (layer "F.Cu")
     (tstamp 344ceb8b-2bef-4bda-8714-943861226b18)
-    (at 380.781898 61.885208)
+    (at 100.07 241.048)
     (descr "CASE-A_3216 footprint")
     (tags "CASE-A_3216 footprint")
     (property "Capacitance" "47uF")
@@ -6011,15 +6011,15 @@
     (property "ki_keywords" "C129570")
     (path "/9b1f6f94-444c-4c59-8de9-290bde336856/95d5fed9-c617-43f1-96e2-65308e862f66/cdd6efab-aee6-4705-a727-a55c25383bc8")
     (attr through_hole)
-    (fp_text reference "C143" (at 0 -2.800102) (layer "F.SilkS")
+    (fp_text reference "C143" (at 0 -2.800102) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8b3768b5-75ac-4dff-8c31-7770db716592)
     )
-    (fp_text value "47uF" (at 0 2.800102) (layer "F.Fab")
+    (fp_text value "47uF" (at 0 2.800102) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c524546d-ab45-46ee-b01f-1ceb043c9c29)
     )
-    (fp_text user "REF**" (at 0 4.800102) (layer "F.Fab")
+    (fp_text user "REF**" (at 0 4.800102) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a19d6d7b-0b6b-4aa7-803f-702ce9299035)
     )
@@ -6265,7 +6265,7 @@
 
   (footprint "CAP_TANTAL_A:CAP_TANTAL_A" (layer "F.Cu")
     (tstamp 388bf6b3-be5e-48b1-a896-da578dcd23dc)
-    (at 360.350098 132.848408)
+    (at 65.272 196.09 180)
     (descr "CASE-A_3216 footprint")
     (tags "CASE-A_3216 footprint")
     (property "Capacitance" "10uF")
@@ -6275,15 +6275,15 @@
     (property "ki_keywords" "C129570")
     (path "/9b1f6f94-444c-4c59-8de9-290bde336856/90adec24-c816-45b1-84de-df0a62ed06ad/76831858-1f97-48e9-b91e-14b97b947380")
     (attr through_hole)
-    (fp_text reference "C145" (at 0 -2.800102) (layer "F.SilkS")
+    (fp_text reference "C145" (at 0 -2.800102) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fadf26de-3683-4959-a604-ce2efbb0ffa1)
     )
-    (fp_text value "10uF" (at 0 2.800102) (layer "F.Fab")
+    (fp_text value "10uF" (at 0 2.800102) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3df924a4-de5b-4a97-91b8-d8a129a9ea97)
     )
-    (fp_text user "REF**" (at 0 4.800102) (layer "F.Fab")
+    (fp_text user "REF**" (at 0 4.800102) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5e13516c-5758-4629-a614-6c386d9235f0)
     )
@@ -6295,9 +6295,9 @@
       (stroke (width 0.08001) (type solid)) (layer "F.SilkS") (tstamp 6ebee39a-f98d-4eed-a538-cc643bf9f95d))
     (fp_circle (center -1.600076 0.8) (end -1.570079 0.8)
       (stroke (width 0.059995) (type solid)) (fill none) (layer "F.SilkS") (tstamp 4c690de5-3077-4e1b-adb7-6c78385f1c10))
-    (pad "1" smd rect (at -1.199898 0) (size 1.5 1.358903) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "1" smd rect (at -1.199898 0 180) (size 1.5 1.358903) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 961 "/PCIExpress/3V3") (pinfunction "1") (pintype "input") (tstamp 88751f99-1ae5-47e9-9935-452cfe94ba00))
-    (pad "2" smd rect (at 1.199898 0) (size 1.5 1.358903) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "2" smd rect (at 1.199898 0 180) (size 1.5 1.358903) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 5 "GNDREF") (pinfunction "2") (pintype "input") (tstamp b26aff03-f9b8-4dff-83de-80d6048d526e))
     (model "/private/tmp/CAP_TANTAL_A/footprint/packages3d/CASE-A_3216.wrl" hide
       (offset (xyz -0.0000761999988556 0 0.8999219865))
@@ -8447,7 +8447,7 @@
 
   (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm" (layer "F.Cu")
     (tstamp 5004dfc7-935e-47c2-9cc2-2ee00010a417)
-    (at 359.4252 135.7332)
+    (at 60.7 202.44)
     (descr "SMD rectangular pad as test Point, square 1.0mm side length")
     (tags "test point SMD pad rectangle square")
     (property "Sheetfile" "PCIE_Slot_2.kicad_sch")
@@ -8456,15 +8456,15 @@
     (property "ki_keywords" "test point tp")
     (path "/9b1f6f94-444c-4c59-8de9-290bde336856/90adec24-c816-45b1-84de-df0a62ed06ad/e9ce8c68-e188-4904-a3d5-84a4ed5f81a1")
     (attr exclude_from_pos_files)
-    (fp_text reference "TP6" (at 0 -1.448) (layer "F.SilkS")
+    (fp_text reference "TP6" (at 0 -1.448) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a05b75a7-f602-4806-9c5e-f8cd8497ccfd)
     )
-    (fp_text value "TestPoint_Small" (at 0 1.55) (layer "F.Fab")
+    (fp_text value "TestPoint_Small" (at 0 1.55) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c9cfe96e-5943-4eb4-8b8d-c02baa9957e1)
     )
-    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 0 -1.45) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f650ed28-65c6-447e-9e09-50be6f651ee2)
     )
@@ -17275,7 +17275,7 @@
 
   (footprint "CAP_TANTAL_A:CAP_TANTAL_A" (layer "F.Cu")
     (tstamp b7f52359-96e5-4d74-85db-91139cfbe68f)
-    (at 380.781898 59.185107)
+    (at 100.07 239.143)
     (descr "CASE-A_3216 footprint")
     (tags "CASE-A_3216 footprint")
     (property "Capacitance" "47uF")
@@ -17285,15 +17285,15 @@
     (property "ki_keywords" "C129570")
     (path "/9b1f6f94-444c-4c59-8de9-290bde336856/95d5fed9-c617-43f1-96e2-65308e862f66/40da67b7-f06f-475e-88f9-53218c05c560")
     (attr through_hole)
-    (fp_text reference "C142" (at 0 -2.800102) (layer "F.SilkS")
+    (fp_text reference "C142" (at 0 -2.800102) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6a4e698d-6194-47ce-85f4-ccfd9f7e635b)
     )
-    (fp_text value "47uF" (at 0 2.800102) (layer "F.Fab")
+    (fp_text value "47uF" (at 0 2.800102) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1d48555a-6cef-4f1c-990c-c239ec039776)
     )
-    (fp_text user "REF**" (at 0 4.800102) (layer "F.Fab")
+    (fp_text user "REF**" (at 0 4.800102) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7dedf37c-c3b5-42ca-82fb-5005d4260ebf)
     )
@@ -19276,7 +19276,7 @@
 
   (footprint "CAP_L6:CAP_L6" (layer "F.Cu")
     (tstamp d304e601-cacd-436f-ba58-762fb21102bf)
-    (at 373.412053 63.73159)
+    (at 62.605 242.953 -90)
     (descr "CAP-SMD_BD6.3-L6.6-W6.6-LS7.3-FD footprint")
     (tags "CAP-SMD_BD6.3-L6.6-W6.6-LS7.3-FD footprint")
     (property "Capacitance" "47uF")
@@ -19286,15 +19286,15 @@
     (property "ki_keywords" "C179808")
     (path "/9b1f6f94-444c-4c59-8de9-290bde336856/95d5fed9-c617-43f1-96e2-65308e862f66/b87a1bd3-0a0e-4fdd-a574-fd95dbf24f1b")
     (attr through_hole)
-    (fp_text reference "C141" (at 0 -5.376149) (layer "F.SilkS")
+    (fp_text reference "C141" (at 0 -5.376149 90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fefdbfc6-d610-4adf-b002-1bc3e4ec6393)
     )
-    (fp_text value "47uF" (at 0 5.375692) (layer "F.Fab")
+    (fp_text value "47uF" (at 0 5.375692 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 89eceb3d-0f1f-437f-b3ff-d330a2c77da2)
     )
-    (fp_text user "REF**" (at 0 7.375692) (layer "F.Fab")
+    (fp_text user "REF**" (at 0 7.375692 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 741e589e-daea-4093-a299-3b8853d78f2e)
     )
@@ -19316,9 +19316,9 @@
       (stroke (width 0.1524) (type solid)) (layer "F.SilkS") (tstamp d44121b3-eb0c-4923-b691-de101791d7d8))
     (fp_circle (center -3.651638 3.300025) (end -3.621641 3.300025)
       (stroke (width 0.059995) (type solid)) (fill none) (layer "F.SilkS") (tstamp 23be2ceb-af67-42d5-9077-72fe07581383))
-    (pad "1" smd rect (at -2.670053 0) (size 3.5 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "1" smd rect (at -2.670053 0 270) (size 3.5 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 33 "/PCIExpress/12V") (pintype "passive") (tstamp a853f980-1e2a-451b-97bd-ae5592de3683))
-    (pad "2" smd rect (at 2.670053 0) (size 3.5 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "2" smd rect (at 2.670053 0 270) (size 3.5 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 5 "GNDREF") (pintype "passive") (tstamp cd2f0d7e-7ac5-4d6f-a324-4e2a432c5a35))
     (model "${KICAD7_3DMODEL_DIR}/CAP_L6.3dshapes/CAP-SMD_BD6.3-L6.6-W6.6-LS7.3-FD.wrl"
       (offset (xyz 0.000025 0.000025 0.020066))
