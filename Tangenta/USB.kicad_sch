@@ -371,10 +371,6 @@
           (name "OCS_N4" (effects (font (size 1 1))))
           (number "21" (effects (font (size 1 1))))
         )
-        (pin unspecified line (at 46.9901 -16.51 180) (length 2.54)
-          (name "SDA/SMBBATA/NON_REM1" (effects (font (size 1 1))))
-          (number "22" (effects (font (size 1 1))))
-        )
         (pin unspecified line (at 46.9901 -13.97 180) (length 2.54)
           (name "VDD33" (effects (font (size 1 1))))
           (number "23" (effects (font (size 1 1))))
@@ -462,6 +458,12 @@
         (pin unspecified line (at -49.5301 -1.27 0) (length 2.54)
           (name "USBDP_DN4/PRT_DIS_P4" (effects (font (size 1 1))))
           (number "9" (effects (font (size 1 1))))
+        )
+      )
+      (symbol "USB2514B-I_M2_1_1"
+        (pin unspecified line (at 46.9901 -16.51 180) (length 2.54)
+          (name "SDA/SMBDATA/NON_REM1" (effects (font (size 1 1))))
+          (number "22" (effects (font (size 1 1))))
         )
       )
     )
@@ -2116,7 +2118,6 @@
     (pin "2" (uuid 5a47a2e8-71d8-43de-9481-53917f5ef250))
     (pin "20" (uuid 32ee2eed-a856-48dc-bfdc-5994ff09327f))
     (pin "21" (uuid be978ef8-3181-4415-8866-3b0c34d13e8b))
-    (pin "22" (uuid fe1984ca-4002-480d-a0e2-f3e739182045))
     (pin "23" (uuid 12ddee71-7d3f-4d8c-a231-73ef42d910e5))
     (pin "24" (uuid 67647faa-f8f3-4228-96df-12f7ae936621))
     (pin "25" (uuid 0b6d067b-efb2-4787-b2d8-1a7cf9d14fa5))
@@ -2139,6 +2140,7 @@
     (pin "7" (uuid ee9cfce8-aa4b-43d1-baf9-9b20894c27d8))
     (pin "8" (uuid 739a5b30-f92a-417f-b9fb-59140bfb7298))
     (pin "9" (uuid 1a10ad5d-28c1-435a-95d8-89e92822853b))
+    (pin "22" (uuid fe1984ca-4002-480d-a0e2-f3e739182045))
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
