@@ -1,3 +1,14 @@
+Ethernet:
+https://datasheet.lcsc.com/lcsc/2103121437_Realtek-Semicon-RTL8367S-CG_C2760849.pdf.
+
+https://easyeda.com/editor#id=a41998c66c7646a19f639278ddf929c6
+
+https://365.altium.com/files/CACC66C1-C92D-11EB-A2F6-0A0ABF5AFC1B?openedFrom=CMWebsite&variant=[No+Variations]
+
+https://pro.lceda.cn/editor#id=94361946b2d945bab578036685376c08,tab=*bd8e4cb9a9434b5080db41445188eb87
+
+Refer to the "Realtek-BananaPI.png" inside DocumentationAndSpecs directory
+
 Lontium:
 https://www.forlinx.net/industrial-news/318.html
 https://community.toradex.com/t/lcd-hdmi-doesnt-display/13836/9
@@ -18,9 +29,6 @@ https://docs.toradex.com/109262-verdin-family-specification.pdf
 https://docs.toradex.com/108140-verdin-carrier-board-design-guide.pdf
 
 https://developer.toradex.com/carrier-board-design/carrier-board-design-guides/
-
-https://datasheet.lcsc.com/lcsc/2103121437_Realtek-Semicon-RTL8367S-CG_C2760849.pdf
-https://easyeda.com/editor#id=a41998c66c7646a19f639278ddf929c6
 
 https://jlcpcb.com/partdetail/TexasInstruments-TPS54231DR/C28023
 
