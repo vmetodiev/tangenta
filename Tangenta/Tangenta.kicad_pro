@@ -1261,6 +1261,22 @@
     [
       "04648235-6c5e-4915-ab80-8fea22048f3c",
       "PCIE_Switch"
+    ],
+    [
+      "107b1895-3302-473d-bd1c-b123cf003d25",
+      "Ethernet_RJ45_Port_1"
+    ],
+    [
+      "a173b5ed-15e0-48c8-8013-e94d7cc777b3",
+      "Ethernet_RJ45_Port_2"
+    ],
+    [
+      "5dd23ea2-ad33-4f2c-a45e-3d59d95f0b2c",
+      "Ethernet_RJ45_Port_3"
+    ],
+    [
+      "8c8da075-62e5-4ec4-9abc-b27287749d5c",
+      "Ethernet_SFP_Port_4"
     ]
   ],
   "text_variables": {}
