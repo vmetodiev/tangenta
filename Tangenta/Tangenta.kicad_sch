@@ -568,14 +568,14 @@
     )
   )
 
-  (sheet (at 213.36 161.29) (size 22.86 22.86) (fields_autoplaced)
+  (sheet (at 121.285 213.995) (size 22.86 22.86) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 2bb52479-7b35-496d-9807-27e706c6ef7b)
-    (property "Sheetname" "EthernetSwitch" (at 213.36 160.5784 0)
+    (property "Sheetname" "EthernetSwitch" (at 121.285 213.2834 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "EthernetSwitch.kicad_sch" (at 213.36 185.3696 0)
+    (property "Sheetfile" "EthernetSwitch.kicad_sch" (at 121.285 238.0746 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (instances
