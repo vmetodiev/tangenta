@@ -73,3 +73,22 @@ https://drive.google.com/file/d/1ZDGMbSqfsFvhduu0S3ZxnEvnkp_NfqiL/view
 https://forum.radxa.com/t/usb-usb2514b-not-responding-with-cm3/16143
 https://cdn.sparkfun.com/assets/6/f/1/5/b/Qwiic-USB_Hub.pdf
 https://community.nxp.com/t5/LPC-FAQs/How-to-calculate-the-value-of-crystal-load-capacitors/m-p/464589
+
+====================================================================================================
+Advertising campaign:
+Toradex Community
+Download.BG (Stefan)
+Dennys (LinkedIn)
+KiCAD Website (Made with KiCAD)
+Olimex
+Oskar Wu (?) 
+Robert F. (Share your project)
+Discord Group (Share your project)
+TechPowerUp
+Hackster.io
+Hackaday
+HardwareBG
+CrowdSupply
+
+Update LinkedIn Profile
+Create Discord Channel
