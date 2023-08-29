@@ -76,14 +76,13 @@ https://community.nxp.com/t5/LPC-FAQs/How-to-calculate-the-value-of-crystal-load
 
 ====================================================================================================
 Advertising campaign:
+Discord HW Engineering Channel (Share your project)
 Toradex Community
 Download.BG (Stefan)
 Dennys (LinkedIn)
 KiCAD Website (Made with KiCAD)
 Olimex
-Oskar Wu (?) 
 Robert F. (Share your project)
-Discord Group (Share your project)
 TechPowerUp
 Hackster.io
 Hackaday
