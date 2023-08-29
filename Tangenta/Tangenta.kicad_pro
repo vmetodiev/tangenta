@@ -1277,6 +1277,10 @@
     [
       "8c8da075-62e5-4ec4-9abc-b27287749d5c",
       "Ethernet_SFP_Port_4"
+    ],
+    [
+      "c653b84e-94ee-4be9-b47c-8c767f88973e",
+      "Ethernet_Switch"
     ]
   ],
   "text_variables": {}
