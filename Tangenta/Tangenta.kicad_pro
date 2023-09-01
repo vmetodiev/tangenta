@@ -1141,6 +1141,242 @@
       {
         "netclass": "PCIE",
         "pattern": "/PCIExpress/PCIE_Switch/CLK3_N"
+      },
+      {
+        "netclass": "SGMII",
+        "pattern": "/Ethernet/Ethernet_SFP_Port_4/HSIN"
+      },
+      {
+        "netclass": "SGMII",
+        "pattern": "/Ethernet/Ethernet_SFP_Port_4/HSIP"
+      },
+      {
+        "netclass": "SGMII",
+        "pattern": "/Ethernet/Ethernet_SFP_Port_4/HSOP"
+      },
+      {
+        "netclass": "SGMII",
+        "pattern": "/Ethernet/Ethernet_SFP_Port_4/HSON"
+      },
+      {
+        "netclass": "SGMII",
+        "pattern": "/Ethernet/Ethernet_SFP_Port_4/SFP_RX_N"
+      },
+      {
+        "netclass": "SGMII",
+        "pattern": "/Ethernet/Ethernet_SFP_Port_4/SFP_RX_P"
+      },
+      {
+        "netclass": "SGMII",
+        "pattern": "/Ethernet/Ethernet_SFP_Port_4/SFP_TX_P"
+      },
+      {
+        "netclass": "SGMII",
+        "pattern": "/Ethernet/Ethernet_SFP_Port_4/SFP_TX_N"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/ETH_UP_MDI.0_N"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/ETH_UP_MDI.0_P"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/ETH_UP_MDI.1_N"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/ETH_UP_MDI.1_P"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/ETH_UP_MDI.2_N"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/ETH_UP_MDI.2_P"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/ETH_UP_MDI.3_N"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/ETH_UP_MDI.3_P"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/ETH_MGMT.MDIO"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/ETH_MGMT.MDC"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/ETH_MGMT.nRST"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/ETH_LED.0"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/ETH_LED.1"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_Switch/P0_MDI_A_P"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_Switch/P0_MDI_A_N"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_Switch/P0_MDI_B_P"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_Switch/P0_MDI_B_N"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_Switch/P0_MDI_C_P"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_Switch/P0_MDI_C_N"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_Switch/P0_MDI_D_P"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_Switch/P0_MDI_D_N"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_1/P2_MDI_A_P"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_1/P2_MDI_A_N"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_1/P2_MDI_B_P"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_1/P2_MDI_B_N"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_1/P2_MDI_C_P"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_1/P2_MDI_C_N"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_1/P2_MDI_D_P"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_1/P2_MDI_D_N"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_1/P2_LED_0"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_1/P2_LED_1"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_2/P3_MDI_A_P"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_2/P3_MDI_A_N"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_2/P3_MDI_B_P"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_2/P3_MDI_B_N"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_2/P3_MDI_C_P"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_2/P3_MDI_C_N"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_2/P3_MDI_D_P"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_2/P3_MDI_D_N"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_2/P3_LED_0"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_2/P3_LED_1"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_3/P4_MDI_A_P"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_3/P4_MDI_A_N"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_3/P4_MDI_B_P"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_3/P4_MDI_B_N"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_3/P4_MDI_C_P"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_3/P4_MDI_C_N"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_3/P4_MDI_D_P"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_3/P4_MDI_D_N"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_3/P4_LED_0"
+      },
+      {
+        "netclass": "ETHERNET",
+        "pattern": "/Ethernet/Ethernet_RJ45_Port_3/P4_LED_1"
       }
     ]
   },
