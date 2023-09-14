@@ -456,7 +456,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -710,6 +710,23 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1524,
+        "via_diameter": 0.5,
+        "via_drill": 0.2,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.127,
+        "diff_pair_gap": 0.127,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.127,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "UART",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.127,
         "via_diameter": 0.5,
         "via_drill": 0.2,
         "wire_width": 6
@@ -1377,6 +1394,54 @@
       {
         "netclass": "ETHERNET",
         "pattern": "/Ethernet/Ethernet_RJ45_Port_3/P4_LED_1"
+      },
+      {
+        "netclass": "UART",
+        "pattern": "/RS485_422/UART_1.RXD"
+      },
+      {
+        "netclass": "UART",
+        "pattern": "/RS485_422/UART_1.TXD"
+      },
+      {
+        "netclass": "UART",
+        "pattern": "/RS485_422/UART_1.RTS"
+      },
+      {
+        "netclass": "UART",
+        "pattern": "/RS485_422/UART_1.CTS"
+      },
+      {
+        "netclass": "UART",
+        "pattern": "/RS485_422/UART_2.RXD"
+      },
+      {
+        "netclass": "UART",
+        "pattern": "/RS485_422/UART_2.TXD"
+      },
+      {
+        "netclass": "UART",
+        "pattern": "/RS485_422/UART_2.RTS"
+      },
+      {
+        "netclass": "UART",
+        "pattern": "/RS485_422/UART_2.CTS"
+      },
+      {
+        "netclass": "UART",
+        "pattern": "/Toradex/UART_3.RXD"
+      },
+      {
+        "netclass": "UART",
+        "pattern": "/Toradex/UART_3.TXD"
+      },
+      {
+        "netclass": "UART",
+        "pattern": "/Toradex/UART_4.RXD"
+      },
+      {
+        "netclass": "UART",
+        "pattern": "/Toradex/UART_4.TXD"
       }
     ]
   },
