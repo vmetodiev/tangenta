@@ -394,6 +394,11 @@
     (uuid fe8b6019-757d-4c4b-8338-7fa685e9cfc3)
   )
 
+  (text "GPIOs/IOs\n\nFANs\n\nReset/Power pins\nand buttons" (at 28.575 75.565 0)
+    (effects (font (size 5 5)) (justify left bottom))
+    (uuid b4afee56-48ac-4a38-9efb-1e4b3977f7d9)
+  )
+
   (label "CHASSIS" (at 307.975 107.315 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 0377a0b9-97ce-422d-b983-ba6008d3e69a)
