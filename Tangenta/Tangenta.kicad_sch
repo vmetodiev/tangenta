@@ -394,8 +394,8 @@
     (uuid fe8b6019-757d-4c4b-8338-7fa685e9cfc3)
   )
 
-  (text "GPIOs/IOs\n\nFANs\n\nReset/Power pins\nand buttons\n\nCR2032 Battery"
-    (at 28.575 91.44 0)
+  (text "GPIOs/IOs\n\nCMOS (Flash)\n\nFANs\n\nReset/Power pins\nand buttons\n\nCR2032 Battery"
+    (at 27.94 100.33 0)
     (effects (font (size 5 5)) (justify left bottom))
     (uuid b4afee56-48ac-4a38-9efb-1e4b3977f7d9)
   )
