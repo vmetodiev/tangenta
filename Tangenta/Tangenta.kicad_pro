@@ -1442,6 +1442,38 @@
       {
         "netclass": "UART",
         "pattern": "/Toradex/UART_4.TXD"
+      },
+      {
+        "netclass": "RS485",
+        "pattern": "/COMBO_RJ45/RS485_CH_1.B"
+      },
+      {
+        "netclass": "RS485",
+        "pattern": "/COMBO_RJ45/RS485_CH_1.A"
+      },
+      {
+        "netclass": "RS485",
+        "pattern": "/COMBO_RJ45/RS485_CH_2.B"
+      },
+      {
+        "netclass": "RS485",
+        "pattern": "/COMBO_RJ45/RS485_CH_2.A"
+      },
+      {
+        "netclass": "RS485",
+        "pattern": "/COMBO_RJ45/RS485_CH_1.P"
+      },
+      {
+        "netclass": "RS485",
+        "pattern": "/COMBO_RJ45/RS485_CH_1.N"
+      },
+      {
+        "netclass": "RS485",
+        "pattern": "/COMBO_RJ45/RS485_CH_2.P"
+      },
+      {
+        "netclass": "RS485",
+        "pattern": "/COMBO_RJ45/RS485_CH_2.N"
       }
     ]
   },
