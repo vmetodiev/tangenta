@@ -212,6 +212,10 @@
     (stroke (width 0) (type default))
     (uuid 65d4ca6e-394e-4021-b8c7-d5abbca92f5c)
   )
+  (wire (pts (xy 46.355 144.145) (xy 52.705 144.145))
+    (stroke (width 0) (type default))
+    (uuid 663b3180-3610-4f10-9366-228cbd1cdef4)
+  )
   (wire (pts (xy 107.315 22.225) (xy 93.98 22.225))
     (stroke (width 0) (type default))
     (uuid 6992e642-0208-483b-b879-601f221bdd3f)
@@ -988,6 +992,10 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 5b7ae526-ccf9-4fc7-ac63-2df5af8e2ee1)
     )
+    (pin "RS_CONN_GND" bidirectional (at 52.705 144.145 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid a12aec98-4040-4da9-9ff2-e4382c8624da)
+    )
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6" (page "11"))
@@ -1192,6 +1200,10 @@
     (pin "RS{R_N R_P D_N D_P}" input (at 46.355 141.605 0)
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid 2f74a579-33e1-4fd1-babe-c4a6377d8f11)
+    )
+    (pin "RS_CONN_GND" bidirectional (at 46.355 144.145 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 6e1a65e4-fdf0-49fe-8332-2653db5b6b63)
     )
     (instances
       (project "Tangenta"
