@@ -317,6 +317,10 @@
     (stroke (width 0) (type default))
     (uuid bba0cd20-1a13-4f73-a7c1-d4b93522c0e1)
   )
+  (bus (pts (xy 46.355 141.605) (xy 52.705 141.605))
+    (stroke (width 0) (type default))
+    (uuid bcb67fee-5d97-4026-8d4a-0c4b7364052f)
+  )
   (bus (pts (xy 401.955 210.185) (xy 401.955 125.73))
     (stroke (width 0) (type default))
     (uuid c1d64f43-a580-4a02-845f-896c1e980280)
@@ -394,8 +398,8 @@
     (uuid fe8b6019-757d-4c4b-8338-7fa685e9cfc3)
   )
 
-  (text "GPIOs/IOs\n\nCMOS (Flash)\n\nFANs\n\nReset/Power pins\nand buttons\n\nCR2032 Battery"
-    (at 27.94 100.33 0)
+  (text "GPIOs/IOs\n\nCMOS (Flash)\n\nFANs\n\nReset/Power pins\nand buttons\n\nCR2032, RTC & Battery"
+    (at 15.875 102.235 0)
     (effects (font (size 5 5)) (justify left bottom))
     (uuid b4afee56-48ac-4a38-9efb-1e4b3977f7d9)
   )
@@ -980,9 +984,9 @@
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid aa19e63b-5b02-40ba-a47d-9ccb2ba10815)
     )
-    (pin "RS485_422{A_N B_P Y_N Z_P}" output (at 52.705 142.875 180)
+    (pin "RS{R_N R_P D_N D_P}" output (at 52.705 141.605 180)
       (effects (font (size 1.27 1.27)) (justify left))
-      (uuid f1587924-3439-4f8f-9493-e09c6fa8e9de)
+      (uuid 5b7ae526-ccf9-4fc7-ac63-2df5af8e2ee1)
     )
     (instances
       (project "Tangenta"
@@ -1175,15 +1179,19 @@
     )
   )
 
-  (sheet (at 13.97 132.08) (size 32.385 50.8) (fields_autoplaced)
+  (sheet (at 13.97 139.065) (size 32.385 43.815) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid da6cda23-cac5-483b-bd71-d8f2b2c13669)
-    (property "Sheetname" "COMBO_RJ45" (at 13.97 131.3684 0)
+    (property "Sheetname" "COMBO_RJ45" (at 13.97 138.3534 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheetfile" "COMBO_RJ45.kicad_sch" (at 13.97 183.4646 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
+    )
+    (pin "RS{R_N R_P D_N D_P}" input (at 46.355 141.605 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 2f74a579-33e1-4fd1-babe-c4a6377d8f11)
     )
     (instances
       (project "Tangenta"
