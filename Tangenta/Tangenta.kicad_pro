@@ -1614,6 +1614,10 @@
     [
       "c653b84e-94ee-4be9-b47c-8c767f88973e",
       "Ethernet_Switch"
+    ],
+    [
+      "d8a5cc68-befd-4a97-adf5-0d42060d054f",
+      "UART_5V"
     ]
   ],
   "text_variables": {}
