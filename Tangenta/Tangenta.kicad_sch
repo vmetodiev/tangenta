@@ -161,6 +161,11 @@
     (stroke (width 0) (type default))
     (uuid 37dd118e-02b0-44bd-89eb-9085708bf6af)
   )
+  (bus (pts (xy 100.965 164.465) (xy 107.315 164.465))
+    (stroke (width 0) (type default))
+    (uuid 38c458cf-768e-4dc8-90b4-10851bb7d17a)
+  )
+
   (wire (pts (xy 254.635 143.51) (xy 267.97 143.51))
     (stroke (width 0) (type default))
     (uuid 39a96075-b68f-4a33-8922-cf7c80ea34da)
@@ -236,6 +241,11 @@
     (stroke (width 0) (type default))
     (uuid 76ca80b1-ce24-4fc2-b318-fce562c6765e)
   )
+  (bus (pts (xy 100.965 167.005) (xy 107.315 167.005))
+    (stroke (width 0) (type default))
+    (uuid 77555bde-33e1-4770-8a46-a52d129dcb86)
+  )
+
   (wire (pts (xy 389.255 41.91) (xy 402.59 41.91))
     (stroke (width 0) (type default))
     (uuid 7831966d-f79c-4efe-96ac-e2cfa1d1087d)
@@ -1339,6 +1349,14 @@
     (pin "UART_3{RXD TXD}" output (at 107.315 153.035 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid e7de6bc3-8c64-4159-bcc8-ddbc86c38c33)
+    )
+    (pin "CAN_2{RX TX}" output (at 107.315 167.005 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 3e6f1fe6-7a42-47b0-aa70-01a759b4904a)
+    )
+    (pin "CAN_1{RX TX}" output (at 107.315 164.465 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid d0738dc9-8ab7-452e-a842-8341f0fa46e3)
     )
     (instances
       (project "Tangenta"
