@@ -1474,6 +1474,22 @@
       {
         "netclass": "RS485",
         "pattern": "/COMBO_RJ45/RS485_CH_2.N"
+      },
+      {
+        "netclass": "CANBUS",
+        "pattern": "/Toradex/CAN_1.RX"
+      },
+      {
+        "netclass": "CANBUS",
+        "pattern": "/Toradex/CAN_1.TX"
+      },
+      {
+        "netclass": "CANBUS",
+        "pattern": "/Toradex/CAN_2.RX"
+      },
+      {
+        "netclass": "CANBUS",
+        "pattern": "/Toradex/CAN_2.TX"
       }
     ]
   },
