@@ -1634,6 +1634,18 @@
     [
       "d8a5cc68-befd-4a97-adf5-0d42060d054f",
       "UART_5V"
+    ],
+    [
+      "3c5ce446-a217-4fc2-ab47-2605a1edb6e1",
+      "UART_Terminal"
+    ],
+    [
+      "96e01dc6-7803-4642-812e-1845a7add5da",
+      "CAN_Channel_1"
+    ],
+    [
+      "9d7e074a-447f-4471-b1b0-91eb27649d54",
+      "CAN_Channel_2"
     ]
   ],
   "text_variables": {}
