@@ -7887,7 +7887,7 @@
 
   (footprint "Choke:Choke" (layer "F.Cu")
     (tstamp 3d903dce-9ecd-4948-b546-44a70a78ce2a)
-    (at 251.073 56.8706 90)
+    (at 251.073 56.8706 -90)
     (descr "IND-SMD_L7.1-W6.6_SLO0650H footprint")
     (tags "IND-SMD_L7.1-W6.6_SLO0650H footprint")
     (property "Inductance" "6.8uH")
@@ -7897,15 +7897,15 @@
     (property "ki_keywords" "C216165")
     (path "/d6c05402-162e-441f-bed8-be7996260fb4/561af273-e400-4a06-9822-ebc1749ca6eb")
     (attr through_hole)
-    (fp_text reference "L1" (at 0.000013 -5.300025 90) (layer "F.SilkS") hide
+    (fp_text reference "L1" (at 0.000013 -5.300025 -90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 282ba29e-8b63-4546-be36-de6934ccfab8)
     )
-    (fp_text value "6.8uH" (at 0.000013 5.300025 90) (layer "F.Fab") hide
+    (fp_text value "6.8uH" (at 0.000013 5.300025 -90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5ba49e96-5200-48f0-9784-58d17b1698fe)
     )
-    (fp_text user "REF**" (at 0.000013 7.300025 90) (layer "F.Fab") hide
+    (fp_text user "REF**" (at 0.000013 7.300025 -90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2a14d4c8-a80a-4718-b33d-9891863e9918)
     )
@@ -7923,10 +7923,10 @@
       (stroke (width 0.254) (type solid)) (layer "F.SilkS") (tstamp c01a90ae-03c0-4e44-95d8-443cd18d6ff8))
     (fp_circle (center -3.550013 3.300025) (end -3.520015 3.300025)
       (stroke (width 0.059995) (type solid)) (fill none) (layer "F.SilkS") (tstamp 36762330-17f2-40db-80f6-977933de1087))
-    (pad "1" smd rect (at -2.921006 0 90) (size 2.4 3.2) (layers "F.Cu" "F.Paste" "F.Mask")
-      (net 408 "/PowerSupply/1V0_PRE") (pinfunction "1") (pintype "unspecified") (tstamp 1a6264b3-3a12-4a81-a2d8-efbcb51f6146))
-    (pad "2" smd rect (at 2.921006 0 90) (size 2.4 3.2) (layers "F.Cu" "F.Paste" "F.Mask")
-      (net 4 "Net-(D1-K)") (pinfunction "2") (pintype "unspecified") (tstamp 42cd3b14-e9ca-485b-ad72-5b71f5b266b3))
+    (pad "1" smd rect (at -2.921006 0 270) (size 2.4 3.2) (layers "F.Cu" "F.Paste" "F.Mask")
+      (net 4 "Net-(D1-K)") (pinfunction "1") (pintype "unspecified") (tstamp 1a6264b3-3a12-4a81-a2d8-efbcb51f6146))
+    (pad "2" smd rect (at 2.921006 0 270) (size 2.4 3.2) (layers "F.Cu" "F.Paste" "F.Mask")
+      (net 408 "/PowerSupply/1V0_PRE") (pinfunction "2") (pintype "unspecified") (tstamp 42cd3b14-e9ca-485b-ad72-5b71f5b266b3))
     (model "${KICAD7_3DMODEL_DIR}/Choke.3dshapes/IND-SMD_L7.1-W6.6_SLO0650H.wrl"
       (offset (xyz 0 0 0.009906))
       (scale (xyz 1 1 1))
@@ -18296,7 +18296,7 @@
 
   (footprint "Choke:Choke" (layer "F.Cu")
     (tstamp 9e18c655-d77a-4e22-96c3-39c3b26a23b2)
-    (at 220.593 56.8706 90)
+    (at 220.593 56.8706 -90)
     (descr "IND-SMD_L7.1-W6.6_SLO0650H footprint")
     (tags "IND-SMD_L7.1-W6.6_SLO0650H footprint")
     (property "Inductance" "6.8uH")
@@ -18306,15 +18306,15 @@
     (property "ki_keywords" "C216165")
     (path "/d6c05402-162e-441f-bed8-be7996260fb4/62c0d84d-9291-4b5c-9f8e-7a68e7d5949b")
     (attr through_hole)
-    (fp_text reference "L2" (at 0.000013 -5.300025 90) (layer "F.SilkS") hide
+    (fp_text reference "L2" (at 0.000013 -5.300025 -90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2471bd06-2543-4eb5-994e-5443476c6ce8)
     )
-    (fp_text value "6.8uH" (at 0.000013 5.300025 90) (layer "F.Fab") hide
+    (fp_text value "6.8uH" (at 0.000013 5.300025 -90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8aea44aa-5ad6-4ad1-a89d-79f6123cf784)
     )
-    (fp_text user "REF**" (at 0.000013 7.300025 90) (layer "F.Fab") hide
+    (fp_text user "REF**" (at 0.000013 7.300025 -90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6f44cdd3-a4b7-42e5-ae62-d8cebe42b97e)
     )
@@ -18332,10 +18332,10 @@
       (stroke (width 0.254) (type solid)) (layer "F.SilkS") (tstamp 6d175a02-43d2-45fe-9757-c4f0b657cad7))
     (fp_circle (center -3.550013 3.300025) (end -3.520015 3.300025)
       (stroke (width 0.059995) (type solid)) (fill none) (layer "F.SilkS") (tstamp 6763ed0b-8ade-4af3-8b3b-e3ad2d137ca1))
-    (pad "1" smd rect (at -2.921006 0 90) (size 2.4 3.2) (layers "F.Cu" "F.Paste" "F.Mask")
-      (net 409 "/PowerSupply/1V1_PRE") (pinfunction "1") (pintype "unspecified") (tstamp 701caeeb-a672-4ab6-be87-f55e0b507794))
-    (pad "2" smd rect (at 2.921006 0 90) (size 2.4 3.2) (layers "F.Cu" "F.Paste" "F.Mask")
-      (net 16 "Net-(D2-K)") (pinfunction "2") (pintype "unspecified") (tstamp fc60cdeb-c053-4243-b7b1-cf3eafc35ce1))
+    (pad "1" smd rect (at -2.921006 0 270) (size 2.4 3.2) (layers "F.Cu" "F.Paste" "F.Mask")
+      (net 16 "Net-(D2-K)") (pinfunction "1") (pintype "unspecified") (tstamp 701caeeb-a672-4ab6-be87-f55e0b507794))
+    (pad "2" smd rect (at 2.921006 0 270) (size 2.4 3.2) (layers "F.Cu" "F.Paste" "F.Mask")
+      (net 409 "/PowerSupply/1V1_PRE") (pinfunction "2") (pintype "unspecified") (tstamp fc60cdeb-c053-4243-b7b1-cf3eafc35ce1))
     (model "${KICAD7_3DMODEL_DIR}/Choke.3dshapes/IND-SMD_L7.1-W6.6_SLO0650H.wrl"
       (offset (xyz 0 0 0.009906))
       (scale (xyz 1 1 1))
@@ -21267,7 +21267,7 @@
 
   (footprint "Choke:Choke" (layer "F.Cu")
     (tstamp b9a1d84b-c8d9-44b7-b83a-4ec7e6d14ca2)
-    (at 190.113 56.8706 90)
+    (at 190.113 56.8706 -90)
     (descr "IND-SMD_L7.1-W6.6_SLO0650H footprint")
     (tags "IND-SMD_L7.1-W6.6_SLO0650H footprint")
     (property "Inductance" "6.8uH")
@@ -21277,15 +21277,15 @@
     (property "ki_keywords" "C216165")
     (path "/d6c05402-162e-441f-bed8-be7996260fb4/edbec80d-e563-4886-8b9c-c3f31ff1a55b")
     (attr through_hole)
-    (fp_text reference "L3" (at 0.000013 -5.300025 90) (layer "F.SilkS") hide
+    (fp_text reference "L3" (at 0.000013 -5.300025 -90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6a2d82d2-4d25-4fa9-8bd1-3fe81a3578b4)
     )
-    (fp_text value "6.8uH" (at 0.000013 5.300025 90) (layer "F.Fab") hide
+    (fp_text value "6.8uH" (at 0.000013 5.300025 -90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 74bc5b9c-4de2-4415-b0bd-2d822cc886b1)
     )
-    (fp_text user "REF**" (at 0.000013 7.300025 90) (layer "F.Fab") hide
+    (fp_text user "REF**" (at 0.000013 7.300025 -90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 837617b9-9fda-4729-b222-f08d5af041e3)
     )
@@ -21303,10 +21303,10 @@
       (stroke (width 0.254) (type solid)) (layer "F.SilkS") (tstamp 18e741db-d3cb-4ef7-aef7-ca69e4b4c61c))
     (fp_circle (center -3.550013 3.300025) (end -3.520015 3.300025)
       (stroke (width 0.059995) (type solid)) (fill none) (layer "F.SilkS") (tstamp 6fd6bea3-7a41-43b9-9345-9fdaf2e91142))
-    (pad "1" smd rect (at -2.921006 0 90) (size 2.4 3.2) (layers "F.Cu" "F.Paste" "F.Mask")
-      (net 410 "/PowerSupply/1V8_PRE") (pinfunction "1") (pintype "unspecified") (tstamp c799835f-2b89-4daa-8ad8-0365c466a5d4))
-    (pad "2" smd rect (at 2.921006 0 90) (size 2.4 3.2) (layers "F.Cu" "F.Paste" "F.Mask")
-      (net 22 "Net-(D3-K)") (pinfunction "2") (pintype "unspecified") (tstamp 884176b6-cffe-4024-8bcb-fb16fee5c7ed))
+    (pad "1" smd rect (at -2.921006 0 270) (size 2.4 3.2) (layers "F.Cu" "F.Paste" "F.Mask")
+      (net 22 "Net-(D3-K)") (pinfunction "1") (pintype "unspecified") (tstamp c799835f-2b89-4daa-8ad8-0365c466a5d4))
+    (pad "2" smd rect (at 2.921006 0 270) (size 2.4 3.2) (layers "F.Cu" "F.Paste" "F.Mask")
+      (net 410 "/PowerSupply/1V8_PRE") (pinfunction "2") (pintype "unspecified") (tstamp 884176b6-cffe-4024-8bcb-fb16fee5c7ed))
     (model "${KICAD7_3DMODEL_DIR}/Choke.3dshapes/IND-SMD_L7.1-W6.6_SLO0650H.wrl"
       (offset (xyz 0 0 0.009906))
       (scale (xyz 1 1 1))
@@ -21424,7 +21424,7 @@
 
   (footprint "Choke:Choke" (layer "F.Cu")
     (tstamp bbdac37c-51e7-462a-af59-c7f6095f3f64)
-    (at 159.633 56.8706 90)
+    (at 159.633 56.8706 -90)
     (descr "IND-SMD_L7.1-W6.6_SLO0650H footprint")
     (tags "IND-SMD_L7.1-W6.6_SLO0650H footprint")
     (property "Inductance" "6.8uH")
@@ -21434,15 +21434,15 @@
     (property "ki_keywords" "C216165")
     (path "/d6c05402-162e-441f-bed8-be7996260fb4/13755309-9a42-4830-932b-f1318db680f9")
     (attr through_hole)
-    (fp_text reference "L4" (at 0.000013 -5.300025 90) (layer "F.SilkS") hide
+    (fp_text reference "L4" (at 0.000013 -5.300025 -90) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0256f9b8-b394-4f17-a7cc-559d7dbb74fb)
     )
-    (fp_text value "6.8uH" (at 0.000013 5.300025 90) (layer "F.Fab") hide
+    (fp_text value "6.8uH" (at 0.000013 5.300025 -90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0715e6f5-23db-4416-8be2-a141beb3b5f1)
     )
-    (fp_text user "REF**" (at 0.000013 7.300025 90) (layer "F.Fab") hide
+    (fp_text user "REF**" (at 0.000013 7.300025 -90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1bfdbed2-97a7-4b47-b489-8bfb0691970d)
     )
@@ -21460,10 +21460,10 @@
       (stroke (width 0.254) (type solid)) (layer "F.SilkS") (tstamp 1ea4969f-cdb4-40ae-8951-006afcc85b4b))
     (fp_circle (center -3.550013 3.300025) (end -3.520015 3.300025)
       (stroke (width 0.059995) (type solid)) (fill none) (layer "F.SilkS") (tstamp 0d31c208-41af-4b96-a381-b8219d76309d))
-    (pad "1" smd rect (at -2.921006 0 90) (size 2.4 3.2) (layers "F.Cu" "F.Paste" "F.Mask")
-      (net 411 "/PowerSupply/2V5_PRE") (pinfunction "1") (pintype "unspecified") (tstamp ef12dc3f-4852-4fd8-97c3-3101f96a0e7d))
-    (pad "2" smd rect (at 2.921006 0 90) (size 2.4 3.2) (layers "F.Cu" "F.Paste" "F.Mask")
-      (net 28 "Net-(D4-K)") (pinfunction "2") (pintype "unspecified") (tstamp 1cc8fe85-9cbc-4f1d-9798-ebc3b6ea651e))
+    (pad "1" smd rect (at -2.921006 0 270) (size 2.4 3.2) (layers "F.Cu" "F.Paste" "F.Mask")
+      (net 28 "Net-(D4-K)") (pinfunction "1") (pintype "unspecified") (tstamp ef12dc3f-4852-4fd8-97c3-3101f96a0e7d))
+    (pad "2" smd rect (at 2.921006 0 270) (size 2.4 3.2) (layers "F.Cu" "F.Paste" "F.Mask")
+      (net 411 "/PowerSupply/2V5_PRE") (pinfunction "2") (pintype "unspecified") (tstamp 1cc8fe85-9cbc-4f1d-9798-ebc3b6ea651e))
     (model "${KICAD7_3DMODEL_DIR}/Choke.3dshapes/IND-SMD_L7.1-W6.6_SLO0650H.wrl"
       (offset (xyz 0 0 0.009906))
       (scale (xyz 1 1 1))
