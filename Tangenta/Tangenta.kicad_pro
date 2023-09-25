@@ -1522,6 +1522,22 @@
       {
         "netclass": "CANBUS",
         "pattern": "/CANbus/CAN_2_ISO.L"
+      },
+      {
+        "netclass": "CANBUS",
+        "pattern": "/CANbus/CAN_Channel_1/TX_SHIFT"
+      },
+      {
+        "netclass": "CANBUS",
+        "pattern": "/CANbus/CAN_Channel_1/RX_SHIFT"
+      },
+      {
+        "netclass": "CANBUS",
+        "pattern": "/CANbus/CAN_Channel_2/TX_SHIFT"
+      },
+      {
+        "netclass": "CANBUS",
+        "pattern": "/CANbus/CAN_Channel_2/RX_SHIFT"
       }
     ]
   },
