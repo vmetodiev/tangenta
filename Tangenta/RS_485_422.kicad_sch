@@ -2469,47 +2469,6 @@
     )
   )
 
-  (symbol (lib_id "Device:R_Small_US") (at 213.36 95.25 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 0fcb5d3d-6b79-466c-9cfd-bc4fc13ae349)
-    (property "Reference" "R2" (at 219.71 93.98 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "120R" (at 219.71 96.52 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 213.36 95.25 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 213.36 95.25 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 76dc4600-ab0f-4ec4-8c6f-e44e98cd8e3c))
-    (pin "2" (uuid 67776788-b5a1-4df3-a47d-55a65566cfd0))
-    (instances
-      (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "R2") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "R18") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "R26") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "R41") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/db297b0b-35f2-4e86-892c-83973f1ac2db"
-          (reference "R41") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/98e3b24f-9927-4339-b8fd-9deea91a522a"
-          (reference "R168") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "Device:R_Small_US") (at 206.375 75.565 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1d7b0a57-463b-42e4-bb5c-1daa89a5c991)
@@ -2659,6 +2618,35 @@
     )
   )
 
+  (symbol (lib_id "Device:R_Small_US") (at 213.36 79.375 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 44dfce91-b10e-4ab7-af3e-ed6877d4a050)
+    (property "Reference" "R4" (at 217.17 78.105 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "120R" (at 217.17 80.645 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 213.36 79.375 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 213.36 79.375 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid b8deb285-6430-4b48-ba87-fb29ae627372))
+    (pin "2" (uuid 444f6e5f-3c17-46ff-8fc5-6f29a96c77dc))
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
+          (reference "R4") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/98e3b24f-9927-4339-b8fd-9deea91a522a"
+          (reference "R182") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:C_Small") (at 266.7 36.195 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 45e3d708-d10b-4133-85d5-12dccbf8cfce)
@@ -2701,47 +2689,6 @@
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/98e3b24f-9927-4339-b8fd-9deea91a522a"
           (reference "C181") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R_Small_US") (at 213.36 79.375 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 59f5486b-57d3-412b-9015-f6d962997188)
-    (property "Reference" "R2" (at 219.71 78.105 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "120R" (at 219.71 80.645 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 213.36 79.375 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 213.36 79.375 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 1c7142fd-7a4f-4ec4-af1a-5e501bdc6b1a))
-    (pin "2" (uuid c3dd265d-839c-4cba-a1e6-8985251c6ce7))
-    (instances
-      (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "R2") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "R18") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "R26") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "R41") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/db297b0b-35f2-4e86-892c-83973f1ac2db"
-          (reference "R41") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/98e3b24f-9927-4339-b8fd-9deea91a522a"
-          (reference "R151") (unit 1)
         )
       )
     )
@@ -3670,6 +3617,35 @@
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/98e3b24f-9927-4339-b8fd-9deea91a522a"
           (reference "J22") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:R_Small_US") (at 213.36 95.25 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid f7149cba-04c9-4e1d-9327-a119ddc60f1a)
+    (property "Reference" "R4" (at 217.17 93.98 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "120R" (at 217.17 96.52 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 213.36 95.25 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 213.36 95.25 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 9710020b-62f3-46f6-8072-dfa7c1741673))
+    (pin "2" (uuid c00da3b5-4683-489e-ae3c-b881da3eac1c))
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
+          (reference "R4") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/98e3b24f-9927-4339-b8fd-9deea91a522a"
+          (reference "R183") (unit 1)
         )
       )
     )
