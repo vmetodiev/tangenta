@@ -1490,6 +1490,38 @@
       {
         "netclass": "CANBUS",
         "pattern": "/Toradex/CAN_2.TX"
+      },
+      {
+        "netclass": "CANBUS",
+        "pattern": "/CANbus/CAN_1.RX"
+      },
+      {
+        "netclass": "CANBUS",
+        "pattern": "/CANbus/CAN_1.TX"
+      },
+      {
+        "netclass": "CANBUS",
+        "pattern": "/CANbus/CAN_2.RX"
+      },
+      {
+        "netclass": "CANBUS",
+        "pattern": "/CANbus/CAN_2.TX"
+      },
+      {
+        "netclass": "CANBUS",
+        "pattern": "/CANbus/CAN_1_ISO.H"
+      },
+      {
+        "netclass": "CANBUS",
+        "pattern": "/CANbus/CAN_1_ISO.L"
+      },
+      {
+        "netclass": "CANBUS",
+        "pattern": "/CANbus/CAN_2_ISO.H"
+      },
+      {
+        "netclass": "CANBUS",
+        "pattern": "/CANbus/CAN_2_ISO.L"
       }
     ]
   },
