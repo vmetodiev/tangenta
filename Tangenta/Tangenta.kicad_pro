@@ -1538,6 +1538,34 @@
       {
         "netclass": "CANBUS",
         "pattern": "/CANbus/CAN_Channel_2/RX_SHIFT"
+      },
+      {
+        "netclass": "SDIO",
+        "pattern": "/MicroSD/SD.nCD"
+      },
+      {
+        "netclass": "SDIO",
+        "pattern": "/MicroSD/SD.CMD"
+      },
+      {
+        "netclass": "SDIO",
+        "pattern": "/MicroSD/SD.CLK"
+      },
+      {
+        "netclass": "SDIO",
+        "pattern": "/MicroSD/SD.D3"
+      },
+      {
+        "netclass": "SDIO",
+        "pattern": "/MicroSD/SD.D2"
+      },
+      {
+        "netclass": "SDIO",
+        "pattern": "/MicroSD/SD.D1"
+      },
+      {
+        "netclass": "SDIO",
+        "pattern": "/MicroSD/SD.D0"
       }
     ]
   },
