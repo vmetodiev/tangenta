@@ -1722,6 +1722,10 @@
     [
       "9d7e074a-447f-4471-b1b0-91eb27649d54",
       "CAN_Channel_2"
+    ],
+    [
+      "4c10d55d-61fc-4b02-a77f-04d975295bf4",
+      "RTC"
     ]
   ],
   "text_variables": {}
