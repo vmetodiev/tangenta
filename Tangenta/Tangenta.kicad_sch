@@ -204,7 +204,7 @@
     (stroke (width 0) (type default))
     (uuid 429da026-e87e-4aae-9e49-d7f61b21531b)
   )
-  (bus (pts (xy 207.01 210.185) (xy 401.955 210.185))
+  (bus (pts (xy 207.01 213.36) (xy 401.955 213.36))
     (stroke (width 0) (type default))
     (uuid 4b4257b3-1c1c-4bf7-ac1e-57583d4ed928)
   )
@@ -320,7 +320,7 @@
     (stroke (width 0) (type default))
     (uuid 930be01b-2281-4b1c-828e-83158978ad8e)
   )
-  (bus (pts (xy 207.01 205.105) (xy 207.01 210.185))
+  (bus (pts (xy 207.01 205.105) (xy 207.01 213.36))
     (stroke (width 0) (type default))
     (uuid 93442745-7e9b-47fe-94b1-c85e67982755)
   )
@@ -380,7 +380,7 @@
     (stroke (width 0) (type default))
     (uuid bcb67fee-5d97-4026-8d4a-0c4b7364052f)
   )
-  (bus (pts (xy 401.955 210.185) (xy 401.955 125.73))
+  (bus (pts (xy 401.955 213.36) (xy 401.955 125.73))
     (stroke (width 0) (type default))
     (uuid c1d64f43-a580-4a02-845f-896c1e980280)
   )
@@ -478,7 +478,7 @@
     (uuid fe8b6019-757d-4c4b-8338-7fa685e9cfc3)
   )
 
-  (text "GPIOs/IOs\n\nCMOS (Flash)\n\nFANs\n\nReset/Power pins\nand buttons\n\nCR2032, RTC & Battery"
+  (text "GPIOs/IOs\n\nCMOS (Flash)\n\nFANs\n\nReset/Power pins\nand buttons\n\nCR2032 & RTC"
     (at -100.965 160.655 0)
     (effects (font (size 5 5)) (justify left bottom))
     (uuid b4afee56-48ac-4a38-9efb-1e4b3977f7d9)
