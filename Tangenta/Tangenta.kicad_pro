@@ -1726,6 +1726,10 @@
     [
       "4c10d55d-61fc-4b02-a77f-04d975295bf4",
       "RTC"
+    ],
+    [
+      "77fcdbef-6473-4a17-8292-00f2f46bc845",
+      "DualCMOS"
     ]
   ],
   "text_variables": {}
