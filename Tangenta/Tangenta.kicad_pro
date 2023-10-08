@@ -580,6 +580,23 @@
       },
       {
         "bus_width": 12,
+        "clearance": 0.127,
+        "diff_pair_gap": 0.127,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.127,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "JTAG",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.127,
+        "via_diameter": 0.5,
+        "via_drill": 0.2,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
         "clearance": 0.1016,
         "diff_pair_gap": 0.1524,
         "diff_pair_via_gap": 0.25,
@@ -1566,6 +1583,30 @@
       {
         "netclass": "SDIO",
         "pattern": "/MicroSD/SD.D0"
+      },
+      {
+        "netclass": "JTAG",
+        "pattern": "/JTAG/JTAG.TMS"
+      },
+      {
+        "netclass": "JTAG",
+        "pattern": "/JTAG/JTAG.TCK"
+      },
+      {
+        "netclass": "JTAG",
+        "pattern": "/JTAG/JTAG.TDO"
+      },
+      {
+        "netclass": "JTAG",
+        "pattern": "/JTAG/JTAG.TDI"
+      },
+      {
+        "netclass": "JTAG",
+        "pattern": "/JTAG/JTAG.nTRST"
+      },
+      {
+        "netclass": "JTAG",
+        "pattern": "/JTAG/JTAG.VREF"
       }
     ]
   },
@@ -1730,6 +1771,10 @@
     [
       "77fcdbef-6473-4a17-8292-00f2f46bc845",
       "DualCMOS"
+    ],
+    [
+      "9473c61f-5125-4990-b2e3-10b596e2b9c8",
+      "JTAG"
     ]
   ],
   "text_variables": {}
