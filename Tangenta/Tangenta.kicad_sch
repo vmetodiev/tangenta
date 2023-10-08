@@ -517,7 +517,7 @@
     (uuid fe8b6019-757d-4c4b-8338-7fa685e9cfc3)
   )
 
-  (text "JTAG\n\nGPIOs/IOs\n\nFANs\n\nADC" (at -100.965 160.655 0)
+  (text "JTAG and recovery\n\nGPIOs (SPI IOs)\n\nFANs\n\nADC" (at -100.965 160.655 0)
     (effects (font (size 5 5)) (justify left bottom))
     (uuid b4afee56-48ac-4a38-9efb-1e4b3977f7d9)
   )
