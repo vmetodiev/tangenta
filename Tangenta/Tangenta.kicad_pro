@@ -1775,6 +1775,10 @@
     [
       "9473c61f-5125-4990-b2e3-10b596e2b9c8",
       "JTAG"
+    ],
+    [
+      "19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee",
+      "FANs"
     ]
   ],
   "text_variables": {}
