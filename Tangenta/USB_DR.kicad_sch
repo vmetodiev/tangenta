@@ -1705,7 +1705,7 @@
           (reference "C47") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "C51") (unit 1)
+          (reference "C43") (unit 1)
         )
       )
     )
@@ -1740,7 +1740,7 @@
           (reference "R32") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "R38") (unit 1)
+          (reference "R29") (unit 1)
         )
       )
     )
@@ -1749,7 +1749,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:TYPEC-304-ACP16") (at 112.268 147.574 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0c07e7cc-c05c-4d5b-93aa-b549f10c50e7)
-    (property "Reference" "J11" (at 114.046 135.89 0)
+    (property "Reference" "J3" (at 114.046 135.89 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TYPEC-304-ACP16" (at 113.538 162.56 0)
@@ -1780,7 +1780,7 @@
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "J11") (unit 1)
+          (reference "J3") (unit 1)
         )
       )
     )
@@ -1815,7 +1815,7 @@
           (reference "C47") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "C54") (unit 1)
+          (reference "C47") (unit 1)
         )
       )
     )
@@ -1843,7 +1843,7 @@
           (reference "#PWR013") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "#PWR036") (unit 1)
+          (reference "#PWR035") (unit 1)
         )
       )
     )
@@ -1878,7 +1878,7 @@
           (reference "C47") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "C52") (unit 1)
+          (reference "C42") (unit 1)
         )
       )
     )
@@ -1906,7 +1906,7 @@
           (reference "#PWR013") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "#PWR037") (unit 1)
+          (reference "#PWR040") (unit 1)
         )
       )
     )
@@ -1979,7 +1979,7 @@
           (reference "R32") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "R36") (unit 1)
+          (reference "R31") (unit 1)
         )
       )
     )
@@ -2053,7 +2053,7 @@
           (reference "R32") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "R37") (unit 1)
+          (reference "R28") (unit 1)
         )
       )
     )
@@ -2088,7 +2088,7 @@
           (reference "C48") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "C58") (unit 1)
+          (reference "C48") (unit 1)
         )
       )
     )
@@ -2123,7 +2123,7 @@
           (reference "R32") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "R34") (unit 1)
+          (reference "R32") (unit 1)
         )
       )
     )
@@ -2151,7 +2151,7 @@
           (reference "#PWR013") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "#PWR041") (unit 1)
+          (reference "#PWR036") (unit 1)
         )
       )
     )
@@ -2179,7 +2179,7 @@
           (reference "#PWR013") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "#PWR038") (unit 1)
+          (reference "#PWR039") (unit 1)
         )
       )
     )
@@ -2214,7 +2214,7 @@
           (reference "C47") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "C55") (unit 1)
+          (reference "C45") (unit 1)
         )
       )
     )
@@ -2249,7 +2249,7 @@
           (reference "R32") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "R35") (unit 1)
+          (reference "R30") (unit 1)
         )
       )
     )
@@ -2284,7 +2284,7 @@
           (reference "R32") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "R39") (unit 1)
+          (reference "R27") (unit 1)
         )
       )
     )
@@ -2319,7 +2319,7 @@
           (reference "C47") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "C50") (unit 1)
+          (reference "C44") (unit 1)
         )
       )
     )
@@ -2347,7 +2347,7 @@
           (reference "#PWR013") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "#PWR039") (unit 1)
+          (reference "#PWR038") (unit 1)
         )
       )
     )
@@ -2415,7 +2415,7 @@
           (reference "C47") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "C57") (unit 1)
+          (reference "C40") (unit 1)
         )
       )
     )
@@ -2450,7 +2450,7 @@
           (reference "C47") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "C56") (unit 1)
+          (reference "C41") (unit 1)
         )
       )
     )
@@ -2488,7 +2488,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:PUSB2X4Y-N") (at 246.38 110.744 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ec5b1dd3-abab-4823-bcee-d76bb5e0362a)
-    (property "Reference" "U9" (at 247.65 120.142 0)
+    (property "Reference" "U13" (at 247.65 120.142 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "PUSB2X4Y-N" (at 247.65 122.682 0)
@@ -2512,7 +2512,7 @@
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "U9") (unit 1)
+          (reference "U13") (unit 1)
         )
       )
     )
@@ -2547,7 +2547,7 @@
           (reference "C47") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "C53") (unit 1)
+          (reference "C46") (unit 1)
         )
       )
     )
@@ -2575,7 +2575,7 @@
           (reference "#PWR013") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/e56d8c10-557c-47b7-a4d3-5b3b43580080"
-          (reference "#PWR040") (unit 1)
+          (reference "#PWR037") (unit 1)
         )
       )
     )

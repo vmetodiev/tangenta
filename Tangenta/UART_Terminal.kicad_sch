@@ -860,7 +860,7 @@
           (reference "Q10") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/3c5ce446-a217-4fc2-ab47-2605a1edb6e1"
-          (reference "Q19") (unit 1)
+          (reference "Q15") (unit 1)
         )
       )
     )
@@ -896,7 +896,7 @@
           (reference "Q10") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/3c5ce446-a217-4fc2-ab47-2605a1edb6e1"
-          (reference "Q20") (unit 1)
+          (reference "Q16") (unit 1)
         )
       )
     )
@@ -937,7 +937,7 @@
           (reference "R159") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/3c5ce446-a217-4fc2-ab47-2605a1edb6e1"
-          (reference "R191") (unit 1)
+          (reference "R183") (unit 1)
         )
       )
     )
@@ -973,7 +973,7 @@
           (reference "Q10") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/3c5ce446-a217-4fc2-ab47-2605a1edb6e1"
-          (reference "Q22") (unit 1)
+          (reference "Q18") (unit 1)
         )
       )
     )
@@ -1017,7 +1017,7 @@
           (reference "R158") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/3c5ce446-a217-4fc2-ab47-2605a1edb6e1"
-          (reference "R190") (unit 1)
+          (reference "R179") (unit 1)
         )
       )
     )
@@ -1085,7 +1085,7 @@
           (reference "R159") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/3c5ce446-a217-4fc2-ab47-2605a1edb6e1"
-          (reference "R195") (unit 1)
+          (reference "R185") (unit 1)
         )
       )
     )
@@ -1126,7 +1126,7 @@
           (reference "R159") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/3c5ce446-a217-4fc2-ab47-2605a1edb6e1"
-          (reference "R194") (unit 1)
+          (reference "R184") (unit 1)
         )
       )
     )
@@ -1135,7 +1135,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:Conn_01x03_Pin") (at 155.575 31.115 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 88bcaae1-563b-4e6b-9ccb-6cfeaa825006)
-    (property "Reference" "J27" (at 155.575 30.48 0)
+    (property "Reference" "J28" (at 155.575 30.48 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "Conn_01x03_Pin" (at 156.845 29.21 0)
@@ -1153,7 +1153,7 @@
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/3c5ce446-a217-4fc2-ab47-2605a1edb6e1"
-          (reference "J27") (unit 1)
+          (reference "J28") (unit 1)
         )
       )
     )
@@ -1162,7 +1162,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:Conn_01x03_Pin") (at 210.82 147.32 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 89a7aa23-4b13-4614-9bfc-08e6f999566e)
-    (property "Reference" "J26" (at 211.455 147.32 0)
+    (property "Reference" "J31" (at 211.455 147.32 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "Conn_01x03_Pin" (at 212.725 148.59 0)
@@ -1180,7 +1180,7 @@
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/3c5ce446-a217-4fc2-ab47-2605a1edb6e1"
-          (reference "J26") (unit 1)
+          (reference "J31") (unit 1)
         )
       )
     )
@@ -1216,7 +1216,7 @@
           (reference "Q10") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/3c5ce446-a217-4fc2-ab47-2605a1edb6e1"
-          (reference "Q21") (unit 1)
+          (reference "Q17") (unit 1)
         )
       )
     )
@@ -1260,7 +1260,7 @@
           (reference "R158") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/3c5ce446-a217-4fc2-ab47-2605a1edb6e1"
-          (reference "R188") (unit 1)
+          (reference "R178") (unit 1)
         )
       )
     )
@@ -1297,7 +1297,7 @@
           (reference "#PWR077") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/3c5ce446-a217-4fc2-ab47-2605a1edb6e1"
-          (reference "#PWR085") (unit 1)
+          (reference "#PWR090") (unit 1)
         )
       )
     )
@@ -1341,7 +1341,7 @@
           (reference "R158") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/3c5ce446-a217-4fc2-ab47-2605a1edb6e1"
-          (reference "R193") (unit 1)
+          (reference "R181") (unit 1)
         )
       )
     )
@@ -1382,7 +1382,7 @@
           (reference "R159") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/3c5ce446-a217-4fc2-ab47-2605a1edb6e1"
-          (reference "R189") (unit 1)
+          (reference "R182") (unit 1)
         )
       )
     )
@@ -1391,7 +1391,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:Conn_01x03_Pin") (at 210.82 73.66 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ef39d17a-2003-4c14-9db5-6e52a5890b7c)
-    (property "Reference" "J25" (at 211.455 73.66 0)
+    (property "Reference" "J30" (at 211.455 73.66 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "Conn_01x03_Pin" (at 212.725 74.93 0)
@@ -1409,7 +1409,7 @@
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/3c5ce446-a217-4fc2-ab47-2605a1edb6e1"
-          (reference "J25") (unit 1)
+          (reference "J30") (unit 1)
         )
       )
     )
@@ -1453,7 +1453,7 @@
           (reference "R158") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/3c5ce446-a217-4fc2-ab47-2605a1edb6e1"
-          (reference "R192") (unit 1)
+          (reference "R180") (unit 1)
         )
       )
     )

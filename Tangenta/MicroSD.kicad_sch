@@ -634,7 +634,7 @@
           (reference "C35") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/311e518b-ff64-43ec-9466-21ebfb76bf13"
-          (reference "C204") (unit 1)
+          (reference "C64") (unit 1)
         )
       )
     )
@@ -674,7 +674,7 @@
           (reference "#PWR059") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/311e518b-ff64-43ec-9466-21ebfb76bf13"
-          (reference "#PWR093") (unit 1)
+          (reference "#PWR048") (unit 1)
         )
       )
     )
@@ -714,7 +714,7 @@
           (reference "#PWR059") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/311e518b-ff64-43ec-9466-21ebfb76bf13"
-          (reference "#PWR092") (unit 1)
+          (reference "#PWR047") (unit 1)
         )
       )
     )
@@ -749,7 +749,7 @@
           (reference "C35") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/311e518b-ff64-43ec-9466-21ebfb76bf13"
-          (reference "C205") (unit 1)
+          (reference "C66") (unit 1)
         )
       )
     )
@@ -784,7 +784,7 @@
           (reference "C35") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/311e518b-ff64-43ec-9466-21ebfb76bf13"
-          (reference "C208") (unit 1)
+          (reference "C67") (unit 1)
         )
       )
     )
@@ -793,7 +793,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:TF-115K") (at 173.99 93.345 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b731e24c-9c47-4aff-b1c9-8eb87f4fb8f9)
-    (property "Reference" "J16" (at 160.02 74.295 0)
+    (property "Reference" "J6" (at 160.02 74.295 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TF-115K" (at 191.77 94.615 0)
@@ -824,7 +824,7 @@
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/311e518b-ff64-43ec-9466-21ebfb76bf13"
-          (reference "J16") (unit 1)
+          (reference "J6") (unit 1)
         )
       )
     )
@@ -859,7 +859,7 @@
           (reference "C35") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/311e518b-ff64-43ec-9466-21ebfb76bf13"
-          (reference "C209") (unit 1)
+          (reference "C69") (unit 1)
         )
       )
     )
@@ -894,7 +894,7 @@
           (reference "C35") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/311e518b-ff64-43ec-9466-21ebfb76bf13"
-          (reference "C207") (unit 1)
+          (reference "C65") (unit 1)
         )
       )
     )
@@ -929,7 +929,7 @@
           (reference "C35") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/311e518b-ff64-43ec-9466-21ebfb76bf13"
-          (reference "C206") (unit 1)
+          (reference "C68") (unit 1)
         )
       )
     )

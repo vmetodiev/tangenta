@@ -614,7 +614,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:BAT54C") (at 129.54 80.01 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2325f3ed-aa1b-4724-ad46-2e7be2edfc21)
-    (property "Reference" "D8" (at 131.445 75.565 90)
+    (property "Reference" "D7" (at 131.445 75.565 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BAT54C" (at 127 80.01 0)
@@ -632,7 +632,7 @@
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/4c10d55d-61fc-4b02-a77f-04d975295bf4"
-          (reference "D8") (unit 1)
+          (reference "D7") (unit 1)
         )
       )
     )
@@ -675,7 +675,7 @@
           (reference "#PWR092") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/4c10d55d-61fc-4b02-a77f-04d975295bf4"
-          (reference "#PWR094") (unit 1)
+          (reference "#PWR099") (unit 1)
         )
       )
     )
@@ -718,7 +718,7 @@
           (reference "#PWR092") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/4c10d55d-61fc-4b02-a77f-04d975295bf4"
-          (reference "#PWR095") (unit 1)
+          (reference "#PWR0100") (unit 1)
         )
       )
     )
@@ -761,7 +761,7 @@
           (reference "#PWR092") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/4c10d55d-61fc-4b02-a77f-04d975295bf4"
-          (reference "#PWR096") (unit 1)
+          (reference "#PWR0101") (unit 1)
         )
       )
     )
@@ -834,7 +834,7 @@
           (reference "C207") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/4c10d55d-61fc-4b02-a77f-04d975295bf4"
-          (reference "C212") (unit 1)
+          (reference "C215") (unit 1)
         )
       )
     )
@@ -906,7 +906,7 @@
           (reference "#PWR092") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/4c10d55d-61fc-4b02-a77f-04d975295bf4"
-          (reference "#PWR097") (unit 1)
+          (reference "#PWR0102") (unit 1)
         )
       )
     )
@@ -944,7 +944,7 @@
           (reference "C207") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/4c10d55d-61fc-4b02-a77f-04d975295bf4"
-          (reference "C211") (unit 1)
+          (reference "C214") (unit 1)
         )
       )
     )
@@ -982,7 +982,7 @@
           (reference "C204") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/4c10d55d-61fc-4b02-a77f-04d975295bf4"
-          (reference "C210") (unit 1)
+          (reference "C213") (unit 1)
         )
       )
     )

@@ -972,7 +972,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:MountingHole") (at 295.91 273.685 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0c12bdb0-b0d8-4cc5-8b7f-f44e01975e2b)
-    (property "Reference" "H6" (at 294.64 270.51 0)
+    (property "Reference" "H8" (at 294.64 270.51 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (at 299.085 274.955 0)
@@ -987,7 +987,7 @@
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6"
-          (reference "H6") (unit 1)
+          (reference "H8") (unit 1)
         )
       )
     )
@@ -1020,7 +1020,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:MountingHole") (at 295.91 267.335 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 296f1be1-a595-4c32-a7d1-2051ab99da01)
-    (property "Reference" "H3" (at 294.64 264.16 0)
+    (property "Reference" "H7" (at 294.64 264.16 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (at 299.085 268.605 0)
@@ -1035,7 +1035,7 @@
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6"
-          (reference "H3") (unit 1)
+          (reference "H7") (unit 1)
         )
       )
     )
@@ -1091,7 +1091,7 @@
           (reference "C88") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6"
-          (reference "C221") (unit 1)
+          (reference "C1") (unit 1)
         )
       )
     )
@@ -1123,7 +1123,7 @@
           (reference "R53") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6"
-          (reference "R207") (unit 1)
+          (reference "R1") (unit 1)
         )
       )
     )
@@ -1132,7 +1132,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:MountingHole") (at 289.56 280.035 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b125ec70-1378-4ae5-b382-d6038803ddb0)
-    (property "Reference" "H8" (at 288.29 276.86 0)
+    (property "Reference" "H6" (at 288.29 276.86 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (at 292.735 281.305 0)
@@ -1147,7 +1147,7 @@
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6"
-          (reference "H8") (unit 1)
+          (reference "H6") (unit 1)
         )
       )
     )
@@ -1156,7 +1156,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:MountingHole") (at 283.21 280.035 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d0204572-b6dd-4645-906a-307bc0dee71f)
-    (property "Reference" "H7" (at 281.94 276.86 0)
+    (property "Reference" "H3" (at 281.94 276.86 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (at 286.385 281.305 0)
@@ -1171,7 +1171,7 @@
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6"
-          (reference "H7") (unit 1)
+          (reference "H3") (unit 1)
         )
       )
     )
@@ -1180,7 +1180,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:MountingHole") (at 283.21 267.335 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d0af9631-e302-4640-b5f5-df8803a6fda9)
-    (property "Reference" "H1" (at 281.94 264.16 0)
+    (property "Reference" "H2" (at 281.94 264.16 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (at 286.385 268.605 0)
@@ -1195,7 +1195,7 @@
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6"
-          (reference "H1") (unit 1)
+          (reference "H2") (unit 1)
         )
       )
     )
@@ -1204,7 +1204,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:MountingHole_Pad") (at 281.94 273.685 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e8a41e70-7303-4fe5-9716-9087c8e5acb2)
-    (property "Reference" "H4" (at 281.94 270.51 90)
+    (property "Reference" "H1" (at 281.94 270.51 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole_Pad" (at 281.94 276.225 0)
@@ -1220,7 +1220,7 @@
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6"
-          (reference "H4") (unit 1)
+          (reference "H1") (unit 1)
         )
       )
     )
@@ -1229,7 +1229,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:MountingHole") (at 289.56 267.335 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f7add687-d34b-4c0e-ada3-6f763080012c)
-    (property "Reference" "H2" (at 288.29 264.16 0)
+    (property "Reference" "H4" (at 288.29 264.16 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole" (at 292.735 268.605 0)
@@ -1244,7 +1244,7 @@
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6"
-          (reference "H2") (unit 1)
+          (reference "H4") (unit 1)
         )
       )
     )
