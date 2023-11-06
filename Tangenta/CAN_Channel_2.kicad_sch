@@ -1229,7 +1229,7 @@
     (uuid fdce38f4-4a98-41ae-b93c-cfc833712927)
   )
 
-  (label "CAN_2_L" (at 154.94 74.93 0) (fields_autoplaced)
+  (label "CAN_2_L_IC" (at 154.94 74.93 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 000dde5b-18ec-4ff3-a655-72e6ad0bc472)
   )
@@ -1261,7 +1261,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5281ad4a-27fe-49b6-a931-6c08530b3ff4)
   )
-  (label "CAN_2_H" (at 154.94 72.39 0) (fields_autoplaced)
+  (label "CAN_2_H_IC" (at 154.94 72.39 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5c5c10de-d4f1-40c9-b930-05dae63abedc)
   )
