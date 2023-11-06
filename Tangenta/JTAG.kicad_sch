@@ -5,7 +5,7 @@
   (paper "A4")
 
   (lib_symbols
-    (symbol "Connector_Generic:Conn_02x05_Odd_Even" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+    (symbol "CholaSymbolsPrjLib:Conn_02x05_Odd_Even" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 1.27 7.62 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -373,7 +373,7 @@
     )
   )
 
-  (symbol (lib_id "Connector_Generic:Conn_02x05_Odd_Even") (at 167.005 81.28 0) (mirror y) (unit 1)
+  (symbol (lib_id "CholaSymbolsPrjLib:Conn_02x05_Odd_Even") (at 167.005 81.28 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8ec02879-4641-4f08-b0cc-fa24be026797)
     (property "Reference" "J28" (at 165.735 73.66 0)

@@ -5,7 +5,7 @@
   (paper "A4")
 
   (lib_symbols
-    (symbol "Device:C_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
+    (symbol "CholaSymbolsPrjLib:C_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 0.254 1.778 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -56,7 +56,7 @@
         )
       )
     )
-    (symbol "MicroSD_Holder:TF-115K" (in_bom yes) (on_board yes)
+    (symbol "CholaSymbolsPrjLib:TF-115K" (in_bom yes) (on_board yes)
       (property "Reference" "J" (at -13.97 19.05 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -605,7 +605,7 @@
     (uuid fa0ce941-da45-49d7-869a-fd1dde1484b7)
   )
 
-  (symbol (lib_id "Device:C_Small") (at 166.37 120.015 180) (unit 1)
+  (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 166.37 120.015 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3194e4b8-5f56-445f-a5a6-de4cdaf3de54)
     (property "Reference" "C1" (at 163.195 118.11 0)
@@ -720,7 +720,7 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 176.53 120.015 180) (unit 1)
+  (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 176.53 120.015 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 535a2d09-05d4-40b3-9951-17a980124c68)
     (property "Reference" "C1" (at 173.355 118.11 0)
@@ -755,7 +755,7 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 176.53 132.08 180) (unit 1)
+  (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 176.53 132.08 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7ac63986-e5b9-4412-8a32-291c1ceb6259)
     (property "Reference" "C1" (at 173.355 130.175 0)
@@ -790,7 +790,7 @@
     )
   )
 
-  (symbol (lib_id "MicroSD_Holder:TF-115K") (at 173.99 93.345 0) (unit 1)
+  (symbol (lib_id "CholaSymbolsPrjLib:TF-115K") (at 173.99 93.345 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b731e24c-9c47-4aff-b1c9-8eb87f4fb8f9)
     (property "Reference" "J16" (at 160.02 74.295 0)
@@ -830,7 +830,7 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 186.69 132.08 180) (unit 1)
+  (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 186.69 132.08 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c0b82026-6a00-497a-89f1-e6af412e4bcd)
     (property "Reference" "C1" (at 183.515 130.175 0)
@@ -865,7 +865,7 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 166.37 132.08 180) (unit 1)
+  (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 166.37 132.08 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cadea0ea-3ff5-451a-a815-b91658ff0f59)
     (property "Reference" "C1" (at 163.195 130.175 0)
@@ -900,7 +900,7 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 186.69 120.015 180) (unit 1)
+  (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 186.69 120.015 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cd57bd80-76c3-451d-bd3d-393f5f29fbb1)
     (property "Reference" "C1" (at 183.515 118.11 0)

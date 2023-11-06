@@ -5,7 +5,7 @@
   (paper "A4")
 
   (lib_symbols
-    (symbol "Device:C_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
+    (symbol "CholaSymbolsPrjLib:C_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 0.254 1.778 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -56,7 +56,7 @@
         )
       )
     )
-    (symbol "RJ45_MAGJACK:HY911130A" (pin_names hide) (in_bom yes) (on_board yes)
+    (symbol "CholaSymbolsPrjLib:HY911130A" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at -7.62 17.78 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -836,7 +836,7 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 124.46 70.485 270) (unit 1)
+  (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 124.46 70.485 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2bb05b5d-432a-4803-83d7-3df04aa50e25)
     (property "Reference" "C1" (at 120.65 69.215 90)
@@ -886,7 +886,7 @@
     )
   )
 
-  (symbol (lib_id "RJ45_MAGJACK:HY911130A") (at 147.32 81.915 0) (unit 1)
+  (symbol (lib_id "CholaSymbolsPrjLib:HY911130A") (at 147.32 81.915 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3a3bb555-df2c-4f7c-9110-921c0b7a84bc)
     (property "Reference" "J5" (at 147.32 63.754 0)
