@@ -367,7 +367,7 @@
           (reference "#PWR085") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9473c61f-5125-4990-b2e3-10b596e2b9c8"
-          (reference "#PWR0104") (unit 1)
+          (reference "#PWR0109") (unit 1)
         )
       )
     )
@@ -376,7 +376,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:Conn_02x05_Odd_Even") (at 167.005 81.28 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8ec02879-4641-4f08-b0cc-fa24be026797)
-    (property "Reference" "J28" (at 165.735 73.66 0)
+    (property "Reference" "J34" (at 165.735 73.66 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_02x05_Odd_Even" (at 165.735 72.39 0)
@@ -401,7 +401,7 @@
     (instances
       (project "Tangenta"
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9473c61f-5125-4990-b2e3-10b596e2b9c8"
-          (reference "J28") (unit 1)
+          (reference "J34") (unit 1)
         )
       )
     )
@@ -441,7 +441,7 @@
           (reference "#PWR085") (unit 1)
         )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9473c61f-5125-4990-b2e3-10b596e2b9c8"
-          (reference "#PWR0103") (unit 1)
+          (reference "#PWR0108") (unit 1)
         )
       )
     )
