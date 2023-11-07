@@ -1,5 +1,8 @@
 // KiCAD ZIP archives
 *.zip
 
+// KiCAD Caches
+*fp-info-cache
+
 // Apple DS Stores
 *.DS_Store
