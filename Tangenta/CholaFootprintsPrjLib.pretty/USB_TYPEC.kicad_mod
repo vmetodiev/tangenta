@@ -93,7 +93,7 @@
   (pad "B6" smd rect (at 0.750064 -2.410084) (size 0.3 1.150013) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 19cd316f-f189-442d-8eb9-96a5487f893a))
   (pad "B7" smd rect (at -0.750064 -2.410084) (size 0.3 1.150013) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9e01ef45-1d3a-4015-83fc-40b0fddb0c2e))
   (pad "B8" smd rect (at -1.750064 -2.410084) (size 0.3 1.150013) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 14af7c85-042c-41c6-b62b-2ff9eec693ff))
-  (model "${KICAD7_3DMODEL_DIR}/USB_TYPEC.3dshapes/USB-C-SMD_TYPE-C-16P-1.wrl"
+  (model "../GlobalLibs/USB_TYPEC/USB_TYPEC.3dshapes/USB-C-SMD_TYPE-C-16P-1.wrl"
     (offset (xyz 0 -1.289025 1.57988))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
