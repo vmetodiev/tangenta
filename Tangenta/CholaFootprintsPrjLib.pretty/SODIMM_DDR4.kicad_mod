@@ -319,17 +319,17 @@
   (pad "260" smd rect (at 33.375 -12.025) (size 0.3 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ae900e91-9149-4d40-833a-eec65695f1c7))
   (pad "MP1" smd rect (at -33.8 4.075) (size 3.5 4.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6fb0dd18-68ab-4b63-ace8-af21c7a01e85))
   (pad "MP2" smd rect (at 33.8 4.075) (size 3.5 4.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 73e282f0-52b0-418a-a61e-b4910870452e))
-  (model ":KICAD7_3DMODEL_DIR:SODIMM_DDR4.3dshapes/2309410-1.stp"
+  (model "../GlobalLibs/SODIMM_DDR4/SODIMM_DDR4.3dshapes/2309410-1.stp"
     (offset (xyz 0 -13 2))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 180 180))
   )
-  (model "${KICAD7_3DMODEL_DIR}/SODIMM_DDR4.3dshapes/Verdin Module Maximum Components Height.STEP"
+  (model "../GlobalLibs/SODIMM_DDR4/SODIMM_DDR4.3dshapes/Verdin Module Maximum Components Height.STEP"
     (offset (xyz -34.8 8 2))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -180 180))
   )
-  (model "${KICAD7_3DMODEL_DIR}/SODIMM_DDR4.3dshapes/Verdin Industrial Heatsink Type 1 V1.0B.STEP"
+  (model "../GlobalLibs/SODIMM_DDR4/SODIMM_DDR4.3dshapes/Verdin Industrial Heatsink Type 1 V1.0B.STEP"
     (offset (xyz 34.8 -27 7))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 -180 0))
