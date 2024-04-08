@@ -3584,7 +3584,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 191.135 234.315 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0144f727-4f03-4f9f-bc4b-e08dcf2e35fc)
-    (property "Reference" "R4" (at 189.865 238.76 90)
+    (property "Reference" "R160" (at 189.865 238.76 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 189.865 231.775 90)
@@ -3600,12 +3600,6 @@
     (pin "2" (uuid 936673ef-f6a0-4fcc-a25c-2aba263524e6))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "R4") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "R122") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "R160") (unit 1)
         )
@@ -3616,7 +3610,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 213.995 234.315 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 064f9732-b87f-45a1-ba9d-4a1d53806ee0)
-    (property "Reference" "R4" (at 212.725 238.76 90)
+    (property "Reference" "R164" (at 212.725 238.76 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 212.725 231.775 90)
@@ -3632,12 +3626,6 @@
     (pin "2" (uuid dec32848-79fa-4534-8818-2495da4014db))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "R4") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "R126") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "R164") (unit 1)
         )
@@ -3648,7 +3636,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 331.47 235.585 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0bc731ee-64ba-4e25-baa6-9d3f611baee1)
-    (property "Reference" "C1" (at 328.9299 233.6799 0)
+    (property "Reference" "C186" (at 328.9299 233.6799 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 328.295 237.49 0)
@@ -3664,24 +3652,6 @@
     (pin "2" (uuid a9e52eeb-6b55-4bf9-bcbb-9d6bcaa13448))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C40") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "C81") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "C95") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C154") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C186") (unit 1)
         )
@@ -3692,7 +3662,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 345.44 235.585 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0e55db44-d3a0-4351-84fd-9b6156a83020)
-    (property "Reference" "C1" (at 342.8999 233.6799 0)
+    (property "Reference" "C190" (at 342.8999 233.6799 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 342.265 237.49 0)
@@ -3708,24 +3678,6 @@
     (pin "2" (uuid 00f68961-8ef4-4521-bda6-3fa2248798eb))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C40") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "C81") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "C97") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C156") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C190") (unit 1)
         )
@@ -3736,7 +3688,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 73.025 67.31 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 160d2aeb-54ca-43a5-8041-3b40981a1b73)
-    (property "Reference" "C1" (at 69.215 66.04 90)
+    (property "Reference" "C176" (at 69.215 66.04 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 76.835 66.04 90)
@@ -3752,29 +3704,8 @@
     (pin "2" (uuid 26184ca5-3bde-471b-9c65-aade8bf66190))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C40") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "C81") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "C98") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C157") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C176") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/8c8da075-62e5-4ec4-9abc-b27287749d5c"
-          (reference "C164") (unit 1)
         )
       )
     )
@@ -3783,7 +3714,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 316.23 235.585 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 27d1384c-eaf0-46d5-a3b2-b1b2eaf52fbb)
-    (property "Reference" "C1" (at 313.6899 233.6799 0)
+    (property "Reference" "C182" (at 313.6899 233.6799 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10uF" (at 313.6899 237.4899 0)
@@ -3799,24 +3730,6 @@
     (pin "2" (uuid c6d4fd8f-945c-40c2-a2ae-174ba861acf8))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C40") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "C81") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "C89") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C152") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C182") (unit 1)
         )
@@ -3827,7 +3740,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 222.25 269.24 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2c0ed4ab-0529-4bef-aa6b-a99bb2f542ae)
-    (property "Reference" "C1" (at 226.695 269.24 0)
+    (property "Reference" "C178" (at 226.695 269.24 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "18pF" (at 226.695 271.145 0)
@@ -3843,18 +3756,6 @@
     (pin "2" (uuid 7f2d1363-6a06-4507-ac37-af7d23ee8f77))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C41") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C159") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C178") (unit 1)
         )
@@ -3865,7 +3766,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 337.82 220.98 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2f132364-30bf-43a1-ba11-a57998fbb86a)
-    (property "Reference" "C1" (at 335.2799 219.0749 0)
+    (property "Reference" "C187" (at 335.2799 219.0749 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 334.645 222.885 0)
@@ -3881,24 +3782,6 @@
     (pin "2" (uuid 77078384-2f18-4ac2-943e-193f177cb3fa))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C40") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "C81") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "C96") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C149") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C187") (unit 1)
         )
@@ -3909,7 +3792,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 99.695 275.59 90) (unit 1)
     (in_bom no) (on_board yes) (dnp yes)
     (uuid 2f3507b6-54a8-4e9c-b9f8-4f0c00a21cc0)
-    (property "Reference" "R4" (at 95.25 274.32 90)
+    (property "Reference" "R155" (at 95.25 274.32 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0R" (at 102.235 274.32 90)
@@ -3925,12 +3808,6 @@
     (pin "2" (uuid b3b87690-a33b-4528-abcd-cbf280d703a5))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "R4") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "R120") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "R155") (unit 1)
         )
@@ -3941,7 +3818,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 73.025 74.93 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 30973019-2106-4b6c-9c69-b05739b0f098)
-    (property "Reference" "C1" (at 69.215 73.66 90)
+    (property "Reference" "C177" (at 69.215 73.66 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 76.835 73.66 90)
@@ -3957,29 +3834,8 @@
     (pin "2" (uuid 5557e844-15dd-4ae7-bcc7-b1485e13a97b))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C40") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "C81") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "C98") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C157") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C177") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/8c8da075-62e5-4ec4-9abc-b27287749d5c"
-          (reference "C164") (unit 1)
         )
       )
     )
@@ -3988,7 +3844,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 99.695 270.51 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 31c7a75c-00d7-4b9e-bb37-272c6dbbd385)
-    (property "Reference" "R4" (at 95.25 269.24 90)
+    (property "Reference" "R154" (at 95.25 269.24 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0R" (at 102.235 269.24 90)
@@ -4004,12 +3860,6 @@
     (pin "2" (uuid 9229039d-d2e5-4fef-b905-85af86996596))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "R4") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "R120") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "R154") (unit 1)
         )
@@ -4020,7 +3870,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 62.23 49.53 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3401ac41-541d-4673-9b75-a84c553b7532)
-    (property "Reference" "C1" (at 58.42 48.26 90)
+    (property "Reference" "C170" (at 58.42 48.26 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 66.04 48.26 90)
@@ -4036,29 +3886,8 @@
     (pin "2" (uuid f4c3edb3-5ed3-4589-a3cb-6e13cc620559))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C40") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "C81") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "C98") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C157") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C170") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/8c8da075-62e5-4ec4-9abc-b27287749d5c"
-          (reference "C164") (unit 1)
         )
       )
     )
@@ -4067,7 +3896,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 323.85 235.585 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 35988333-39d3-4e97-812a-1299155ac3c3)
-    (property "Reference" "C1" (at 321.3099 233.6799 0)
+    (property "Reference" "C184" (at 321.3099 233.6799 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 320.675 237.49 0)
@@ -4083,24 +3912,6 @@
     (pin "2" (uuid cccb98e6-8ce6-450f-a2d4-f72dca2f8ff0))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C40") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "C81") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "C94") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C153") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C184") (unit 1)
         )
@@ -4111,7 +3922,7 @@
   (symbol (lib_id "power:GNDREF") (at 30.48 33.02 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 38127840-22dc-45d0-b028-d1cf2b67913c)
-    (property "Reference" "#PWR013" (at 24.13 33.02 0)
+    (property "Reference" "#PWR084" (at 24.13 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 26.67 33.02 90)
@@ -4126,18 +3937,6 @@
     (pin "1" (uuid 8f620565-367d-414e-b053-a54147edca4d))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "#PWR013") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856"
-          (reference "#PWR050") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "#PWR050") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "#PWR059") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "#PWR084") (unit 1)
         )
@@ -4148,7 +3947,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 278.765 99.695 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4236cfc0-d555-4ad1-9cf2-a82a846d7d9b)
-    (property "Reference" "R4" (at 283.21 98.425 0)
+    (property "Reference" "R169" (at 283.21 98.425 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "4.7k" (at 282.575 100.33 0)
@@ -4164,12 +3963,6 @@
     (pin "2" (uuid 9956a7c8-8a31-4925-9624-f45b9096adf5))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "R4") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "R129") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "R169") (unit 1)
         )
@@ -4180,7 +3973,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:RTL8367S-CG") (at 184.785 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 477a51e7-490b-43a5-939a-25af8d05ccfa)
-    (property "Reference" "U18" (at 234.315 64.77 0)
+    (property "Reference" "U21" (at 234.315 64.77 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "RTL8367S-CG" (at 234.315 67.945 0)
@@ -4325,9 +4118,6 @@
     (pin "99" (uuid 226711be-f230-41ec-be71-815bddacc5da))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "U18") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "U21") (unit 1)
         )
@@ -4338,7 +4128,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 264.795 138.43 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4a68ab56-0b5a-4494-ba48-d9535d4a9d0a)
-    (property "Reference" "R4" (at 260.35 137.16 90)
+    (property "Reference" "R168" (at 260.35 137.16 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "4.7k" (at 267.335 137.16 90)
@@ -4354,12 +4144,6 @@
     (pin "2" (uuid 82133dba-c3d7-457c-8b3b-77b28ce29f62))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "R4") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "R127") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "R168") (unit 1)
         )
@@ -4370,7 +4154,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 351.79 235.585 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5c661f17-49fc-4879-9344-0a527712da68)
-    (property "Reference" "C1" (at 349.2499 233.6799 0)
+    (property "Reference" "C192" (at 349.2499 233.6799 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 348.615 237.49 0)
@@ -4386,24 +4170,6 @@
     (pin "2" (uuid 16ac4a52-0da4-4424-9469-ff3319938506))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C40") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "C81") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "C98") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C157") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C192") (unit 1)
         )
@@ -4438,9 +4204,6 @@
     (pin "4" (uuid e144adf0-e5b6-4a12-8cd2-0fdc854e8389))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "X2") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "X2") (unit 1)
         )
@@ -4451,7 +4214,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 193.675 234.315 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 62c166aa-cdd0-46a5-97f6-079adbf95cf7)
-    (property "Reference" "R4" (at 192.405 238.76 90)
+    (property "Reference" "R161" (at 192.405 238.76 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 192.405 231.775 90)
@@ -4467,12 +4230,6 @@
     (pin "2" (uuid 76823dde-75e1-495c-b59a-21e73c18b0b7))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "R4") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "R123") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "R161") (unit 1)
         )
@@ -4483,7 +4240,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 316.23 220.98 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 63380724-d94c-483a-9302-59a5572018a3)
-    (property "Reference" "C1" (at 313.6899 219.0749 0)
+    (property "Reference" "C181" (at 313.6899 219.0749 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10uF" (at 313.6899 222.8849 0)
@@ -4499,24 +4256,6 @@
     (pin "2" (uuid d14e9857-2681-4d0c-99b2-a3fc71021c32))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C40") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "C81") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "C89") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C146") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C181") (unit 1)
         )
@@ -4527,7 +4266,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 188.595 234.315 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 69d11c4e-a027-4dae-952d-bc80bd1c0238)
-    (property "Reference" "R4" (at 187.325 238.76 90)
+    (property "Reference" "R159" (at 187.325 238.76 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 187.325 231.775 90)
@@ -4543,12 +4282,6 @@
     (pin "2" (uuid 9aad0266-086c-464b-88a7-98ccd8555a98))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "R4") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "R121") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "R159") (unit 1)
         )
@@ -4559,7 +4292,7 @@
   (symbol (lib_id "power:GNDREF") (at 222.25 253.365 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 71b3be5d-ab37-486a-bfd2-5e469e614a56)
-    (property "Reference" "#PWR034" (at 222.25 259.715 0)
+    (property "Reference" "#PWR085" (at 222.25 259.715 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 222.25 258.445 0)
@@ -4574,12 +4307,6 @@
     (pin "1" (uuid 9c9f285d-019d-4d1d-bd40-75b1ec6f88d7))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "#PWR034") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "#PWR060") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "#PWR085") (unit 1)
         )
@@ -4590,7 +4317,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 232.41 266.7 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 77de96b7-860c-4fb0-a596-130d99be0976)
-    (property "Reference" "R2" (at 230.505 265.43 90)
+    (property "Reference" "R165" (at 230.505 265.43 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1M" (at 236.855 265.43 90)
@@ -4606,18 +4333,6 @@
     (pin "2" (uuid cd197bfa-fdbf-4d50-b2c9-a7109163f22f))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "R2") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "R18") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "R24") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "R130") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "R165") (unit 1)
         )
@@ -4628,7 +4343,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 100.965 110.49 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7d717830-4eb2-4b16-9610-f9584a701b69)
-    (property "Reference" "R4" (at 96.52 109.22 90)
+    (property "Reference" "R156" (at 96.52 109.22 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "2.49k 1%" (at 107.315 109.22 90)
@@ -4644,12 +4359,6 @@
     (pin "2" (uuid 0116e764-adc4-455e-9763-213c247103c7))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "R4") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "R120") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "R156") (unit 1)
         )
@@ -4660,7 +4369,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:CA45-A-6_3V-47UF-K") (at 361.95 236.22 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7e97c436-77c5-4937-8db5-c3fcd7f7ca13)
-    (property "Reference" "C17" (at 367.665 234.315 90)
+    (property "Reference" "C194" (at 367.665 234.315 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "47uF" (at 367.665 238.125 90)
@@ -4682,9 +4391,6 @@
     (pin "2" (uuid f15ea2b2-167c-41a5-ba5c-c9697e11b6b5))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C17") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C194") (unit 1)
         )
@@ -4695,7 +4401,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 99.695 264.16 90) (unit 1)
     (in_bom no) (on_board yes) (dnp yes)
     (uuid 928b5036-4131-4549-a7a7-de2e0fecbf06)
-    (property "Reference" "R4" (at 95.25 262.89 90)
+    (property "Reference" "R153" (at 95.25 262.89 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0R" (at 102.235 262.89 90)
@@ -4711,12 +4417,6 @@
     (pin "2" (uuid 965284f6-aafe-430f-845c-54c09d853dbf))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "R4") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "R120") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "R153") (unit 1)
         )
@@ -4727,7 +4427,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 203.835 234.315 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9500c477-a0dc-41db-8380-cfd307cbe4a3)
-    (property "Reference" "R4" (at 202.565 238.76 90)
+    (property "Reference" "R163" (at 202.565 238.76 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 202.565 231.775 90)
@@ -4743,12 +4443,6 @@
     (pin "2" (uuid c12324e4-b3ff-4948-806a-f37e60c17656))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "R4") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "R125") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "R163") (unit 1)
         )
@@ -4759,7 +4453,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 73.025 52.07 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9893fe6f-f722-4c23-94d0-58b772b62439)
-    (property "Reference" "C1" (at 69.215 50.8 90)
+    (property "Reference" "C174" (at 69.215 50.8 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 76.835 50.8 90)
@@ -4775,29 +4469,8 @@
     (pin "2" (uuid 6e4a9b9f-d725-4e37-84f9-89eb5ae0dfcf))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C40") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "C81") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "C98") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C157") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C174") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/8c8da075-62e5-4ec4-9abc-b27287749d5c"
-          (reference "C164") (unit 1)
         )
       )
     )
@@ -4806,7 +4479,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 101.6 252.73 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 999e87f2-d80c-48c9-a7ef-2986f564029d)
-    (property "Reference" "R4" (at 97.155 251.46 90)
+    (property "Reference" "R158" (at 97.155 251.46 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "4.7k" (at 104.14 251.46 90)
@@ -4822,12 +4495,6 @@
     (pin "2" (uuid 9cb3ccb9-4594-4336-9e0b-abc03e48ae3d))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "R4") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "R132") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "R158") (unit 1)
         )
@@ -4838,7 +4505,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 201.295 234.315 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9a7e127d-cf24-4dc1-a921-e0affa4148e7)
-    (property "Reference" "R4" (at 200.025 238.76 90)
+    (property "Reference" "R162" (at 200.025 238.76 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 200.025 231.775 90)
@@ -4854,12 +4521,6 @@
     (pin "2" (uuid 5422ee6b-90d5-4cdd-b052-ad398116470b))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "R4") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "R124") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "R162") (unit 1)
         )
@@ -4870,7 +4531,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 99.695 259.08 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9b8a9f16-29ec-474e-8c89-9b43b1bc2ea4)
-    (property "Reference" "R4" (at 95.25 257.81 90)
+    (property "Reference" "R152" (at 95.25 257.81 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0R" (at 102.235 257.81 90)
@@ -4886,12 +4547,6 @@
     (pin "2" (uuid ed6dfa4f-e061-4cc0-846a-7324e5e75e5d))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "R4") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "R120") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "R152") (unit 1)
         )
@@ -4902,7 +4557,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 101.6 247.65 90) (unit 1)
     (in_bom no) (on_board yes) (dnp yes)
     (uuid 9c5ef395-cd99-4895-a9a1-97900db38dde)
-    (property "Reference" "R4" (at 97.155 246.38 90)
+    (property "Reference" "R157" (at 97.155 246.38 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "4.7k" (at 104.14 246.38 90)
@@ -4918,12 +4573,6 @@
     (pin "2" (uuid 8a006e40-c4e3-44de-8244-fff648f72c32))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "R4") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "R131") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "R157") (unit 1)
         )
@@ -4934,7 +4583,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:Conn_01x08_Pin") (at 144.78 265.43 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a2578d09-c5b4-48ba-947b-001cfcd9416a)
-    (property "Reference" "J20" (at 147.955 254.635 0)
+    (property "Reference" "J26" (at 147.955 254.635 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x08_Pin" (at 145.415 255.27 0)
@@ -4956,9 +4605,6 @@
     (pin "8" (uuid ade70408-487a-4e74-bab4-6a8d828b3847))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "J20") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "J26") (unit 1)
         )
@@ -5001,7 +4647,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 337.82 235.585 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a506030d-1c2f-4607-adcf-89c1d883664c)
-    (property "Reference" "C1" (at 335.2799 233.6799 0)
+    (property "Reference" "C188" (at 335.2799 233.6799 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 334.645 237.49 0)
@@ -5017,24 +4663,6 @@
     (pin "2" (uuid b07470a2-aa6e-4ff7-b129-81329afb99d9))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C40") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "C81") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "C96") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C155") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C188") (unit 1)
         )
@@ -5045,7 +4673,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 278.765 110.49 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a9e4462a-bf1e-48b3-aa24-189e8543f14a)
-    (property "Reference" "C1" (at 283.21 109.22 0)
+    (property "Reference" "C180" (at 283.21 109.22 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 283.845 111.125 0)
@@ -5061,24 +4689,6 @@
     (pin "2" (uuid 6b58bf26-c609-40fa-ba5b-9b522e7173db))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C40") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "C81") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "C98") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C158") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C180") (unit 1)
         )
@@ -5089,7 +4699,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 62.23 72.39 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid aebc2f10-e96a-42b5-b8d1-e853116608ba)
-    (property "Reference" "C1" (at 58.42 71.12 90)
+    (property "Reference" "C173" (at 58.42 71.12 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 66.04 71.12 90)
@@ -5105,29 +4715,8 @@
     (pin "2" (uuid 96a3b40b-f974-4be7-8401-dda41337213f))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C40") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "C81") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "C98") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C157") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C173") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/8c8da075-62e5-4ec4-9abc-b27287749d5c"
-          (reference "C164") (unit 1)
         )
       )
     )
@@ -5136,7 +4725,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 351.79 220.98 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b9e55b53-c31c-4c97-840d-dc46ac385fbd)
-    (property "Reference" "C1" (at 349.2499 219.0749 0)
+    (property "Reference" "C191" (at 349.2499 219.0749 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 348.615 222.885 0)
@@ -5152,24 +4741,6 @@
     (pin "2" (uuid 195ef6b7-dde5-4ae6-b1a5-0737844eac54))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C40") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "C81") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "C98") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C151") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C191") (unit 1)
         )
@@ -5180,7 +4751,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 62.23 64.77 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c0df35a6-3e28-431a-b39c-acd2e00247ef)
-    (property "Reference" "C1" (at 58.42 63.5 90)
+    (property "Reference" "C172" (at 58.42 63.5 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 66.04 63.5 90)
@@ -5196,29 +4767,8 @@
     (pin "2" (uuid 30a600ff-f1f4-46eb-bf3b-d7b8576cb6aa))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C40") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "C81") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "C98") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C157") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C172") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/8c8da075-62e5-4ec4-9abc-b27287749d5c"
-          (reference "C164") (unit 1)
         )
       )
     )
@@ -5227,7 +4777,7 @@
   (symbol (lib_id "power:GNDREF") (at 241.3 274.955 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c75d3daa-46d4-45ad-bedf-d395abdf2a04)
-    (property "Reference" "#PWR031" (at 241.3 281.305 0)
+    (property "Reference" "#PWR088" (at 241.3 281.305 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 241.3 280.035 0)
@@ -5242,12 +4792,6 @@
     (pin "1" (uuid ff0cb6c5-746c-494f-9711-695f4134d474))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "#PWR031") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "#PWR063") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "#PWR088") (unit 1)
         )
@@ -5258,7 +4802,7 @@
   (symbol (lib_id "power:GNDREF") (at 222.25 274.955 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c7c744bb-ecb8-460f-a260-c5e6e9500f44)
-    (property "Reference" "#PWR032" (at 222.25 281.305 0)
+    (property "Reference" "#PWR086" (at 222.25 281.305 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 222.25 280.035 0)
@@ -5273,12 +4817,6 @@
     (pin "1" (uuid ed9a38cd-84ac-433b-933c-a6896a22bce5))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "#PWR032") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "#PWR061") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "#PWR086") (unit 1)
         )
@@ -5289,7 +4827,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 264.795 123.19 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d0a2efb1-6457-46d7-bf0b-f837238379f2)
-    (property "Reference" "R4" (at 260.35 121.92 90)
+    (property "Reference" "R166" (at 260.35 121.92 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "4.7k" (at 267.335 121.92 90)
@@ -5305,12 +4843,6 @@
     (pin "2" (uuid c4ba239b-dd33-4197-a88d-2e06462b9230))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "R4") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "R127") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "R166") (unit 1)
         )
@@ -5321,7 +4853,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 264.795 130.81 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d3521682-c560-4cb8-a10b-81e68d9962cb)
-    (property "Reference" "R4" (at 260.35 129.54 90)
+    (property "Reference" "R167" (at 260.35 129.54 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "4.7k" (at 267.335 129.54 90)
@@ -5337,12 +4869,6 @@
     (pin "2" (uuid 5767f267-d3e0-435a-a039-2f2e472e55d0))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "R4") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "R128") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "R167") (unit 1)
         )
@@ -5353,7 +4879,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 345.44 220.98 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d41d9bbe-4be2-426f-aa80-e450ad3d63e0)
-    (property "Reference" "C1" (at 342.8999 219.0749 0)
+    (property "Reference" "C189" (at 342.8999 219.0749 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 342.265 222.885 0)
@@ -5369,24 +4895,6 @@
     (pin "2" (uuid faaf3391-f960-488d-9d4d-3f610b641b35))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C40") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "C81") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "C97") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C150") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C189") (unit 1)
         )
@@ -5397,7 +4905,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:CA45-A-6_3V-47UF-K") (at 361.95 221.615 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d97c0e93-46c9-49bc-bd7a-30511103b85d)
-    (property "Reference" "C17" (at 367.665 219.71 90)
+    (property "Reference" "C193" (at 367.665 219.71 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "47uF" (at 367.665 223.52 90)
@@ -5419,9 +4927,6 @@
     (pin "2" (uuid 6e58209a-5d67-4af9-88c0-c0f67663be40))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C17") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C193") (unit 1)
         )
@@ -5432,7 +4937,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 62.23 57.15 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e142a40d-e082-4a2d-8767-e98b759e7105)
-    (property "Reference" "C1" (at 58.42 55.88 90)
+    (property "Reference" "C171" (at 58.42 55.88 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 66.04 55.88 90)
@@ -5448,29 +4953,8 @@
     (pin "2" (uuid 69eedbc4-ffe3-4768-8a32-b20c62fae37e))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C40") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "C81") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "C98") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C157") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C171") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/8c8da075-62e5-4ec4-9abc-b27287749d5c"
-          (reference "C164") (unit 1)
         )
       )
     )
@@ -5511,7 +4995,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 241.3 269.24 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e61d2804-924a-4366-bfb5-2909dc2b275a)
-    (property "Reference" "C1" (at 236.855 269.24 0)
+    (property "Reference" "C179" (at 236.855 269.24 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "18pF" (at 236.855 271.145 0)
@@ -5527,18 +5011,6 @@
     (pin "2" (uuid c6f1ff16-759c-42a5-a249-149c773678a5))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C42") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C160") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C179") (unit 1)
         )
@@ -5549,7 +5021,7 @@
   (symbol (lib_id "power:GNDREF") (at 239.395 259.08 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eae4043d-a10d-4b3a-b6ed-6c71a4bb1fca)
-    (property "Reference" "#PWR033" (at 239.395 265.43 0)
+    (property "Reference" "#PWR087" (at 239.395 265.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 239.395 264.16 0)
@@ -5564,12 +5036,6 @@
     (pin "1" (uuid a40672ff-8ea7-4acc-87f6-875a82a49032))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "#PWR033") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "#PWR062") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "#PWR087") (unit 1)
         )
@@ -5580,7 +5046,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 323.85 220.98 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid eb1390c2-ea9f-4e10-88ab-bc13d7d35136)
-    (property "Reference" "C1" (at 321.3099 219.0749 0)
+    (property "Reference" "C183" (at 321.3099 219.0749 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 320.675 222.885 0)
@@ -5596,24 +5062,6 @@
     (pin "2" (uuid 0a9e2c5b-273d-4d7d-b4f9-d89bd9c6482f))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C40") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "C81") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "C94") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C147") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C183") (unit 1)
         )
@@ -5624,7 +5072,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 331.47 220.98 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f27b9111-d0df-4a66-b27b-dc2b67ea3cf3)
-    (property "Reference" "C1" (at 328.9299 219.0749 0)
+    (property "Reference" "C185" (at 328.9299 219.0749 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 328.295 222.885 0)
@@ -5640,24 +5088,6 @@
     (pin "2" (uuid e620549b-ecb3-4ae9-8f0a-f1d6b1009d8d))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C40") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "C81") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "C95") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C148") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C185") (unit 1)
         )
@@ -5668,7 +5098,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 73.025 59.69 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f60920e6-5aa4-47f7-9a9c-1b78e7674348)
-    (property "Reference" "C1" (at 69.215 58.42 90)
+    (property "Reference" "C175" (at 69.215 58.42 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 76.835 58.42 90)
@@ -5684,29 +5114,8 @@
     (pin "2" (uuid 8b711d4d-bcd7-4cbb-b1b1-9269a2ec1e84))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C40") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
-          (reference "C81") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "C98") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "C157") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
           (reference "C175") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/8c8da075-62e5-4ec4-9abc-b27287749d5c"
-          (reference "C164") (unit 1)
         )
       )
     )

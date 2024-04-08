@@ -421,7 +421,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:16CE47FSS") (at 46.99 36.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 07a07545-d08c-4dd0-b9a3-a7ee29f58923)
-    (property "Reference" "C178" (at 48.26 34.925 0)
+    (property "Reference" "C105" (at 48.26 34.925 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "47uF" (at 48.26 38.735 0)
@@ -443,12 +443,6 @@
     (pin "2" (uuid 32103743-c928-4c35-922b-3ec5cc2605f1))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
-          (reference "C178") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/98e3b24f-9927-4339-b8fd-9deea91a522a"
-          (reference "C184") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b5394a48-5ef8-44c9-9d56-604d4ce6d7c8"
           (reference "C105") (unit 1)
         )
@@ -459,7 +453,7 @@
   (symbol (lib_id "power:GNDREF") (at 46.99 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8db5e1f1-2b6b-421f-b18c-1b7dca421583)
-    (property "Reference" "#PWR030" (at 46.99 48.26 0)
+    (property "Reference" "#PWR060" (at 46.99 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 46.99 46.99 0)
@@ -474,15 +468,6 @@
     (pin "1" (uuid 24dc8b1d-2b06-4d8a-970c-7e09a597a310))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "#PWR030") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/f1c5822c-e7b8-40ae-bab0-71fd1c2cfc7c"
-          (reference "#PWR035") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/98e3b24f-9927-4339-b8fd-9deea91a522a"
-          (reference "#PWR081") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b5394a48-5ef8-44c9-9d56-604d4ce6d7c8"
           (reference "#PWR060") (unit 1)
         )
@@ -493,7 +478,7 @@
   (symbol (lib_id "power:GNDREF") (at 36.83 25.4 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ceb72c33-1899-4e43-9770-a1e25b0d440d)
-    (property "Reference" "#PWR030" (at 43.18 25.4 0)
+    (property "Reference" "#PWR059" (at 43.18 25.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 41.91 25.4 0)
@@ -508,15 +493,6 @@
     (pin "1" (uuid b614195d-d006-4a3a-83dd-624295094976))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "#PWR030") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/f1c5822c-e7b8-40ae-bab0-71fd1c2cfc7c"
-          (reference "#PWR035") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/98e3b24f-9927-4339-b8fd-9deea91a522a"
-          (reference "#PWR076") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b5394a48-5ef8-44c9-9d56-604d4ce6d7c8"
           (reference "#PWR059") (unit 1)
         )

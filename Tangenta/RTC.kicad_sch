@@ -641,7 +641,7 @@
   (symbol (lib_id "power:GNDREF") (at 25.4 29.21 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 37fb4a64-9ab8-42f1-a800-b27d6ad07209)
-    (property "Reference" "#PWR013" (at 19.05 29.21 0)
+    (property "Reference" "#PWR099" (at 19.05 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 21.59 29.21 90)
@@ -656,24 +656,6 @@
     (pin "1" (uuid ceffada9-9759-440c-90a0-86b5a895c964))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "#PWR013") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856"
-          (reference "#PWR050") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "#PWR050") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "#PWR064") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
-          (reference "#PWR059") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/311e518b-ff64-43ec-9466-21ebfb76bf13"
-          (reference "#PWR092") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/4c10d55d-61fc-4b02-a77f-04d975295bf4"
           (reference "#PWR099") (unit 1)
         )
@@ -684,7 +666,7 @@
   (symbol (lib_id "power:GNDREF") (at 114.935 95.25 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 715ff666-e2fb-4b31-a965-c7ba8113f5bb)
-    (property "Reference" "#PWR013" (at 114.935 101.6 0)
+    (property "Reference" "#PWR0100" (at 114.935 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 114.935 99.06 90)
@@ -699,24 +681,6 @@
     (pin "1" (uuid 7ae58020-0032-4e38-a85a-60f02557b40a))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "#PWR013") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856"
-          (reference "#PWR050") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "#PWR050") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "#PWR064") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
-          (reference "#PWR059") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/311e518b-ff64-43ec-9466-21ebfb76bf13"
-          (reference "#PWR092") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/4c10d55d-61fc-4b02-a77f-04d975295bf4"
           (reference "#PWR0100") (unit 1)
         )
@@ -727,7 +691,7 @@
   (symbol (lib_id "power:GNDREF") (at 189.865 95.25 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a30222d1-04c0-4e29-b1dd-2a5400f4f107)
-    (property "Reference" "#PWR013" (at 189.865 101.6 0)
+    (property "Reference" "#PWR0101" (at 189.865 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 189.865 99.06 90)
@@ -742,24 +706,6 @@
     (pin "1" (uuid 1b894bdc-4611-42e3-9b11-832fae5542f0))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "#PWR013") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856"
-          (reference "#PWR050") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "#PWR050") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "#PWR064") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
-          (reference "#PWR059") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/311e518b-ff64-43ec-9466-21ebfb76bf13"
-          (reference "#PWR092") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/4c10d55d-61fc-4b02-a77f-04d975295bf4"
           (reference "#PWR0101") (unit 1)
         )
@@ -805,7 +751,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 220.345 91.44 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid af7b1e3a-19b4-478c-b9b0-962a59fce351)
-    (property "Reference" "C1" (at 217.17 89.535 0)
+    (property "Reference" "C215" (at 217.17 89.535 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10uF" (at 217.17 93.091 0)
@@ -821,18 +767,6 @@
     (pin "2" (uuid 1d8f4669-d14f-47a6-b803-ca3128351e7a))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C35") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/311e518b-ff64-43ec-9466-21ebfb76bf13"
-          (reference "C207") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/4c10d55d-61fc-4b02-a77f-04d975295bf4"
           (reference "C215") (unit 1)
         )
@@ -872,7 +806,7 @@
   (symbol (lib_id "power:GNDREF") (at 210.82 95.25 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c7cab029-c301-49d1-9fda-8d1d7e456cec)
-    (property "Reference" "#PWR013" (at 210.82 101.6 0)
+    (property "Reference" "#PWR0102" (at 210.82 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 210.82 99.06 90)
@@ -887,24 +821,6 @@
     (pin "1" (uuid c43d5dcf-9440-4a72-b220-5c56b91ffe24))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "#PWR013") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856"
-          (reference "#PWR050") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/9b1f6f94-444c-4c59-8de9-290bde336856/04648235-6c5e-4915-ab80-8fea22048f3c"
-          (reference "#PWR050") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b"
-          (reference "#PWR064") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/2bb52479-7b35-496d-9807-27e706c6ef7b/c653b84e-94ee-4be9-b47c-8c767f88973e"
-          (reference "#PWR059") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/311e518b-ff64-43ec-9466-21ebfb76bf13"
-          (reference "#PWR092") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/4c10d55d-61fc-4b02-a77f-04d975295bf4"
           (reference "#PWR0102") (unit 1)
         )
@@ -915,7 +831,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 210.82 91.44 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c9fc7181-d911-40c3-8dff-285377ffa009)
-    (property "Reference" "C1" (at 207.645 89.535 0)
+    (property "Reference" "C214" (at 207.645 89.535 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10nF" (at 207.645 93.091 0)
@@ -931,18 +847,6 @@
     (pin "2" (uuid acfa64cb-5bd4-4c76-bf8e-fae19365e405))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C35") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/311e518b-ff64-43ec-9466-21ebfb76bf13"
-          (reference "C207") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/4c10d55d-61fc-4b02-a77f-04d975295bf4"
           (reference "C214") (unit 1)
         )
@@ -953,7 +857,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 201.295 91.44 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f189d376-7d07-49e7-bc92-576510979929)
-    (property "Reference" "C1" (at 198.12 89.535 0)
+    (property "Reference" "C213" (at 198.12 89.535 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 198.12 93.091 0)
@@ -969,18 +873,6 @@
     (pin "2" (uuid 79095574-bd85-4c45-b25b-51a62ab4f7b9))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
-          (reference "C1") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
-          (reference "C9") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
-          (reference "C35") (unit 1)
-        )
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/311e518b-ff64-43ec-9466-21ebfb76bf13"
-          (reference "C204") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/4c10d55d-61fc-4b02-a77f-04d975295bf4"
           (reference "C213") (unit 1)
         )

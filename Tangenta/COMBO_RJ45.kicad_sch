@@ -457,7 +457,7 @@
   (symbol (lib_id "CholaSymbolsPrjLib:RC01133") (at 167.64 97.155 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 251a8228-1f86-4752-85f3-94579721be87)
-    (property "Reference" "J14" (at 185.42 95.885 0)
+    (property "Reference" "J17" (at 185.42 95.885 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "RC01133" (at 182.88 95.885 0)
@@ -484,9 +484,6 @@
     (pin "9" (uuid ec5d282a-2077-4b39-96ed-ec2ed5a7700f))
     (instances
       (project "Tangenta"
-        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/98e3b24f-9927-4339-b8fd-9deea91a522a"
-          (reference "J14") (unit 1)
-        )
         (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/da6cda23-cac5-483b-bd71-d8f2b2c13669"
           (reference "J17") (unit 1)
         )
