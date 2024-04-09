@@ -9282,7 +9282,7 @@
     (property "Value" "TPS54331DR" (at 0 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "TPS54331DR:TPS54331DR" (at 0 -10.16 0)
+    (property "Footprint" "CholaFootprintsPrjLib:TPS54331DR" (at 0 -10.16 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://item.szlcsc.com/417287.html" (at -2.286 0.127 0)

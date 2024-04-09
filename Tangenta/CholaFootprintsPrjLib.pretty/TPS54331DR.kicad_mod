@@ -57,7 +57,7 @@
   (pad "6" smd oval (at 0.635001 -2.705105) (size 0.568402 1.950216) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1d7c52c8-7d1b-4714-b9ea-a8ef86d3def8))
   (pad "7" smd oval (at -0.635001 -2.705105) (size 0.568402 1.950216) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1983046d-f6ba-41c6-be6d-12a0a0e5a89d))
   (pad "8" smd oval (at -1.905004 -2.705105) (size 0.568402 1.950216) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fdb08e5a-97ed-4fc7-81f8-c9f3b29728c4))
-  (model ":KICAD7_3DMODEL_DIR:TPS54331DR.3dshapes/TPS54331DR.wrl"
+  (model "../GlobalLibs/TPS54331DR/TPS54331DR.3dshapes/TPS54331DR.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

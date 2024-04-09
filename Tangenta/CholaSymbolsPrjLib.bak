@@ -2372,7 +2372,7 @@
     (property "Value" "39281243" (at -0.254 -21.717 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "24_Pin_Connector_Vertical:24_Pin_Connector_Vertical" (at 19.685 -30.099 0)
+    (property "Footprint" "CholaFootprintsPrjLib:24_Pin_Connector_Vertical" (at 19.685 -30.099 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://item.szlcsc.com/115327.html" (at -5.842 -27.305 0)
