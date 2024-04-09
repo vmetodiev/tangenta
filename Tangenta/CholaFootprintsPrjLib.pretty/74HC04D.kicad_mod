@@ -49,7 +49,7 @@
   (pad "12" smd oval (at -1.270003 -2.769063) (size 0.57399 2.037998) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c3826ecc-e789-4bf3-9448-9a0173faa330))
   (pad "13" smd oval (at -2.540005 -2.769063) (size 0.57399 2.037998) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 164dc6f0-85cb-416a-be02-9f8b69b0411a))
   (pad "14" smd oval (at -3.810008 -2.769063) (size 0.57399 2.037998) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 89251b25-b9c7-48a1-bdec-0acc6324451c))
-  (model "${KICAD7_3DMODEL_DIR}/74HC04D.3dshapes/SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL.wrl"
+  (model "../GlobalLibs/74HC04D/74HC04D.3dshapes/SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL.wrl"
     (offset (xyz 0 -0.000025 0.099314))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
