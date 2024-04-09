@@ -36,7 +36,7 @@
     (stroke (width 0.059995) (type solid)) (fill none) (layer "F.SilkS") (tstamp 9895d7e9-7933-431c-9906-a367343b13eb))
   (pad "1" smd rect (at -2.921006 0) (size 2.4 3.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8316a48c-f1d7-406f-b54c-aa1a0b34f201))
   (pad "2" smd rect (at 2.921006 0) (size 2.4 3.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0cf71e23-b5de-4088-812e-c3f21cb9c291))
-  (model "${KICAD7_3DMODEL_DIR}/Choke.3dshapes/IND-SMD_L7.1-W6.6_SLO0650H.wrl"
+  (model "../GlobalLibs/Choke/Choke.3dshapes/IND-SMD_L7.1-W6.6_SLO0650H.wrl"
     (offset (xyz 0 0 0.009906))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

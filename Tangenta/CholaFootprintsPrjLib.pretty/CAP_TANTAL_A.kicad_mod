@@ -35,7 +35,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${KICAD7_3DMODEL_DIR}/CAP_TANTAL_A.3dshapes/CASE-A_3216.wrl"
+  (model "../GlobalLibs/CAP_TANTAL_A/CAP_TANTAL_A.3dshapes/CASE-A_3216.wrl"
     (offset (xyz -0.000076 0 0.899922))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
