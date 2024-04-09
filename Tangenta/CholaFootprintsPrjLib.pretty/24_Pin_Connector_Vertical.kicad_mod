@@ -71,7 +71,7 @@
   (pad "22" thru_hole circle (at 14.700025 2.750064) (size 2.9 2.9) (drill 1.500025) (layers "*.Cu" "*.Mask") (tstamp ec480683-4f8b-4eca-a343-571c307913f3))
   (pad "23" thru_hole circle (at 18.899924 2.750064) (size 2.9 2.9) (drill 1.500025) (layers "*.Cu" "*.Mask") (tstamp 7e590cd3-8dfa-4e8b-a8fa-ab96ab59adbd))
   (pad "24" thru_hole circle (at 23.100076 2.750064) (size 2.9 2.9) (drill 1.500025) (layers "*.Cu" "*.Mask") (tstamp 8664e407-29e0-41e3-8e93-5293b95764c7))
-  (model "${KICAD7_3DMODEL_DIR}/24_Pin_Connector_Vertical.3dshapes/CONN-TH_39281243.wrl"
+  (model "../GlobalLibs/24_Pin_Connector_Vertical/24_Pin_Connector_Vertical.3dshapes/CONN-TH_39281243.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

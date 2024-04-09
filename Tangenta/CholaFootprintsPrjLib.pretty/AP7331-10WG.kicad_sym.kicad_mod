@@ -44,7 +44,7 @@
   (pad "3" smd rect (at 0.949962 1.299975) (size 0.5 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7b51800f-8533-4965-b394-a3f03a64aeee))
   (pad "4" smd rect (at 0.949962 -1.299975) (size 0.5 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp db8cbd33-a071-4f39-a5b5-69fef94d16b4))
   (pad "5" smd rect (at -0.949962 -1.299975) (size 0.5 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2879e84d-3de6-4f18-bf51-095d4612c172))
-  (model "/home/dido/PROJECTS/VARBAN_MB/tangenta/GlobalLibs/AP7331-10WG/AP7331-10WG.3dshapes/SOT-25_L3.0-W1.6-P0.95-LS2.8-BL.wrl"
+  (model "../GlobalLibs/AP7331-10WG/AP7331-10WG.3dshapes/SOT-25_L3.0-W1.6-P0.95-LS2.8-BL.wrl"
     (offset (xyz 0 0 0.12))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

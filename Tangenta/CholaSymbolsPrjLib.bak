@@ -3866,7 +3866,7 @@
     (property "Value" "AP7331-10WG-7" (at 0 -6.35 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "AP7331-10WG:AP7331-10WG.kicad_sym" (at 8.89 -12.7 0)
+    (property "Footprint" "CholaFootprintsPrjLib:AP7331-10WG.kicad_sym" (at 8.89 -12.7 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://item.szlcsc.com/464949.html" (at -10.16 -15.24 0)
