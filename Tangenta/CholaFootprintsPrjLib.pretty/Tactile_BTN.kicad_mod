@@ -43,7 +43,7 @@
   (pad "2" smd rect (at 3.249936 -1.5) (size 1.4 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 802b1b16-2994-49d4-a212-1947d7f15123))
   (pad "3" smd rect (at -3.249936 1.5) (size 1.4 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3df29bc4-6f59-400e-9860-ca7c49cc4cda))
   (pad "4" smd rect (at 3.249936 1.5) (size 1.4 1.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b3a137b8-5084-409b-9cb6-70e08fb6e996))
-  (model "${KICAD7_3DMODEL_DIR}/Tactile_BTN.3dshapes/SW-SMD_4P-L4.5-W4.5-P3.00-LS6.8.wrl"
+  (model "../GlobalLibs/Tactile_BTN/Tactile_BTN.3dshapes/SW-SMD_4P-L4.5-W4.5-P3.00-LS6.8.wrl"
     (offset (xyz 0 0 2.905))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
