@@ -40,7 +40,7 @@
     (stroke (width 0.059995) (type solid)) (fill none) (layer "F.SilkS") (tstamp fd1ba756-6896-4188-bc2c-cfbd4ac7ef8f))
   (pad "1" smd rect (at -2.670053 0) (size 3.5 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a640b7b5-c7a6-4ee8-bbf0-f30f7127dd88))
   (pad "2" smd rect (at 2.670053 0) (size 3.5 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f7b2c12b-7de3-436e-85a6-08a4a0cf9470))
-  (model "${KICAD7_3DMODEL_DIR}/CAP_L6.3dshapes/CAP-SMD_BD6.3-L6.6-W6.6-LS7.3-FD.wrl"
+  (model "../GlobalLibs/CAP_L6/CAP_L6.3dshapes/CAP-SMD_BD6.3-L6.6-W6.6-LS7.3-FD.wrl"
     (offset (xyz 0.000025 0.000025 0.020066))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -180))
