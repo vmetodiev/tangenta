@@ -6846,7 +6846,7 @@
     (property "Value" "M24C04-RMN6TP" (at 0 -7.62 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "M24C04-RMN6TP:M24C04-RMN6TP" (at -1.27 -16.51 0)
+    (property "Footprint" "CholaFootprintsPrjLib:M24C04-RMN6TP" (at -1.27 -16.51 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://item.szlcsc.com/417287.html" (at -17.78 -13.97 0)
