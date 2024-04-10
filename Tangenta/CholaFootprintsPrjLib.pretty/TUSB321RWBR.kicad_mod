@@ -53,7 +53,7 @@
   (pad "10" smd rect (at 0.199848 -0.750038 270) (size 0.505004 0.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9d07acda-f645-4121-a4bd-7bf32d154733))
   (pad "11" smd rect (at -0.199898 -0.750038 270) (size 0.505004 0.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5555c92c-112c-447c-966e-bfb1e08a958f))
   (pad "12" smd rect (at -0.6 -0.750038 270) (size 0.505004 0.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b549d2a0-da88-4d3a-a532-bcdf60bd1379))
-  (model "${KICAD7_3DMODEL_DIR}/TUSB321RWBR.3dshapes/X2QFN-12_L1.6-W1.6-P0.40-TL.wrl"
+  (model "../GlobalLibs/TUSB321RWBR/TUSB321RWBR.3dshapes/X2QFN-12_L1.6-W1.6-P0.40-TL.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

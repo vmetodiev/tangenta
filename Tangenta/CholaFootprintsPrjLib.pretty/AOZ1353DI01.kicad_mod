@@ -40,7 +40,7 @@
   (pad "10" smd rect (at -0.372365 -1.320041) (size 0.250013 0.450013) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c09030dc-1eb5-4f42-bbbe-de1a8dc028f0))
   (pad "12" smd rect (at -1.127508 -1.320041) (size 0.750013 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ba85fde5-162c-4374-a85a-59113f0969df))
   (pad "13" smd rect (at -0.122428 0) (size 2.5 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d882310b-fab3-4271-8b36-e4b12223c23b))
-  (model "${KICAD7_3DMODEL_DIR}/AOZ1353DI01.3dshapes/DFN-12_L3.0-W3.0-P0.50-BL-EP.wrl"
+  (model "../GlobalLibs/AOZ1353DI01/AOZ1353DI01.3dshapes/DFN-12_L3.0-W3.0-P0.50-BL-EP.wrl"
     (offset (xyz -0.034011 0.029997 0.020066))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

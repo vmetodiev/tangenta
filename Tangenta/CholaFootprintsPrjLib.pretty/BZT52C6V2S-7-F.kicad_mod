@@ -33,7 +33,7 @@
     (stroke (width 0.059995) (type solid)) (fill none) (layer "F.SilkS") (tstamp efe9cabd-8ae9-4b7e-843d-57bf5b5816e3))
   (pad "1" smd rect (at -1.172593 0) (size 1 0.750013) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7076da72-b49d-475d-804e-31363cbd51c2))
   (pad "2" smd rect (at 1.172593 0) (size 1 0.750013) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 490ed528-0611-449f-9d35-5ba8de68cba2))
-  (model "${KICAD7_3DMODEL_DIR}/BZT52C6V2S-7-F.3dshapes/SOD-323_L1.8-W1.3-LS2.5-RD.wrl"
+  (model "../GlobalLibs/BZT52C6V2S-7-F/BZT52C6V2S-7-F.3dshapes/SOD-323_L1.8-W1.3-LS2.5-RD.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))
