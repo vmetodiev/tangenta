@@ -164,7 +164,7 @@
   (pad "127" smd oval (at -7.599695 5.800102 270) (size 0.2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 455056e1-e5b4-4b43-b16f-a5b331c64ef3))
   (pad "128" smd oval (at -7.599695 6.200152 270) (size 0.2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 999bfd76-2ce3-4fd6-8e78-fb29a8d99001))
   (pad "129" smd rect (at 0 0 180) (size 5.8 5.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fa90e927-6b7e-4a68-a3f2-508156bd08ac))
-  (model "${KICAD7_3DMODEL_DIR}/PCIE_Switch.3dshapes/LQFP-128_L14.0-W14.0-P0.40-LS16.0-BL-EP5.8.wrl"
+  (model "../GlobalLibs/PCIE_Switch/PCIE_Switch.3dshapes/LQFP-128_L14.0-W14.0-P0.40-LS16.0-BL-EP5.8.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

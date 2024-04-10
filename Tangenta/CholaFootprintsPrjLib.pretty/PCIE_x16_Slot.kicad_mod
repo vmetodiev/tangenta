@@ -257,7 +257,7 @@
   (pad "B80" thru_hole circle (at 81 4.5) (size 1.2 1.2) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp b559b9a4-fcb4-4d98-a75c-030af616ffdf))
   (pad "B81" thru_hole circle (at 82 2.5) (size 1.2 1.2) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 00141355-79a0-40a0-b4cd-65da61439dd2))
   (pad "B82" thru_hole circle (at 83 4.5) (size 1.2 1.2) (drill 0.7) (layers "*.Cu" "*.Mask") (tstamp 1b8ac4c3-991b-4858-8a69-d1c3d9f981ec))
-  (model "${KICAD7_3DMODEL_DIR}/PCIE_x16_Slot.3dshapes/PCIE_x16_Slot.stp"
+  (model "../GlobalLibs/PCIE_x16_Slot/PCIE_x16_Slot.3dshapes/PCIE_x16_Slot.stp"
     (offset (xyz 11.465 -1.256 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

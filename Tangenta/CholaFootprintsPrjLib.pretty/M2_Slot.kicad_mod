@@ -128,12 +128,12 @@
   (pad "75" smd rect (at 9.25 -3.887) (size 0.3 1.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1e08ebd9-6940-4d35-85f2-d27d009b136f))
   (pad "MP1" smd rect (at -10.35 -3.113) (size 1.2 2.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ce0f11d5-b6b9-42b0-ac5a-970aa8946761))
   (pad "MP2" smd rect (at 10.35 -3.113) (size 1.2 2.75) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e3961944-91a7-41da-a322-a4cbd599b68b))
-  (model ":KICAD7_3DMODEL_DIR:M2_Slot.3dshapes/1-2199230-5.stp"
+  (model "../GlobalLibs/M2_Slot/M2_Slot.3dshapes/1-2199230-5.stp"
     (offset (xyz 0.019 -4 2.2))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 180 180))
   )
-  (model "${KICAD7_3DMODEL_DIR}/M2_Slot.3dshapes/sk hynix nvme step.STEP" hide
+  (model "../GlobalLibs/M2_Slot/M2_Slot.3dshapes/sk hynix nvme step.STEP" hide
     (offset (xyz -0.1 -39.5 2.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 180 0))
