@@ -88,7 +88,7 @@
   (pad "37" thru_hole circle (at 1 -1) (size 1 1) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp 0237fb16-a2ec-4969-bcbd-75e6152a0151))
   (pad "37" smd rect (at 1 0) (size 0.85 0.85) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp da6dfe52-c7e7-4053-931f-b4c44cf7028f))
   (pad "37" thru_hole circle (at 1 1) (size 1 1) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp bf5081d5-b469-4ccb-a693-6d69009b5573))
-  (model "${KICAD7_3DMODEL_DIR}/USB_HUB.3dshapes/SQFN-36_L6.0-W6.0-P0.50-BL-EP.wrl"
+  (model "../GlobalLibs/USB_HUB/USB_HUB.3dshapes/SQFN-36_L6.0-W6.0-P0.50-BL-EP.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

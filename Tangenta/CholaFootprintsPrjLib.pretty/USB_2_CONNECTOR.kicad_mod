@@ -99,7 +99,7 @@
   (pad "8" thru_hole circle (at 3.500127 0.324994) (size 1.6 1.6) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 4a82c59d-fd8d-4bb9-9ae6-43e46e77ecf2))
   (pad "9" thru_hole oval (at 6.400051 1.874905) (size 1.5 2.4) (drill oval 1.100025 2) (layers "*.Cu" "*.Mask") (tstamp 8deaa0a8-d5fc-43d8-a701-5cfab4c41862))
   (pad "10" thru_hole oval (at -6.400051 1.874905) (size 1.5 2.4) (drill oval 1.100025 2) (layers "*.Cu" "*.Mask") (tstamp acd1e9af-1ac9-46ed-85e9-e33329ef53c6))
-  (model "${KICAD7_3DMODEL_DIR}/USB_2_CONNECTOR.3dshapes/USB-A-TH_907-211A1019D10200.wrl"
+  (model "../GlobalLibs/USB_2_CONNECTOR/USB_2_CONNECTOR.3dshapes/USB-A-TH_907-211A1019D10200.wrl"
     (offset (xyz 0 -0.849909 4.05003))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
