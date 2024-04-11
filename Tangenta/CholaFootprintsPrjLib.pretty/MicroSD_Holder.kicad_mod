@@ -56,7 +56,7 @@
   (pad "11" smd rect (at -7.750064 5.300102) (size 1.2 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 422515c2-4091-43d8-8b9f-67adbe0a19af))
   (pad "12" smd rect (at 6.849886 -4.300102) (size 1.6 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f3b41b0d-8c4b-4e08-a608-ced589959107))
   (pad "13" smd rect (at 7.750064 5.300102) (size 1.2 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8ff58713-8225-4378-af00-f92c1f215fe5))
-  (model "${KICAD7_3DMODEL_DIR}/MicroSD_Holder.3dshapes/TF-SMD_TF-115K.wrl"
+  (model "../GlobalLibs/MicroSD_Holder/MicroSD_Holder.3dshapes/TF-SMD_TF-115K.wrl"
     (offset (xyz 0.000025 -2.445944 -0.000051))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

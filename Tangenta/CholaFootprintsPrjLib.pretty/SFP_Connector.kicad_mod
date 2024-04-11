@@ -79,7 +79,7 @@
   (pad "18" smd rect (at -2.200152 -4.099949 90) (size 2 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6450dcd1-76a7-4081-b7ce-530db80aaaaf))
   (pad "19" smd rect (at -3 -4.099949 90) (size 2 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3e8a8978-67f4-41c6-995a-2497af685cb7))
   (pad "20" smd rect (at -3.800102 -4.099949 90) (size 2 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp da3e5d35-d0bb-4d06-960e-f57f55dd50df))
-  (model "${KICAD7_3DMODEL_DIR}/SFP_Connector.3dshapes/CONN-SMD_20P-P0.80_HCTL_HC-SFP-20P.wrl"
+  (model "../GlobalLibs/SFP_Connector/SFP_Connector.3dshapes/CONN-SMD_20P-P0.80_HCTL_HC-SFP-20P.wrl"
     (offset (xyz -0.000203 0.049962 0.015265))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

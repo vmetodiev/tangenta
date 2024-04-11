@@ -89,7 +89,7 @@
   (pad "18" thru_hole circle (at -18.549911 1.455169) (size 1.650013 1.650013) (drill 1.049987) (layers "*.Cu" "*.Mask") (tstamp 5cd6b7d4-4a12-45b1-bf32-2d9df43689e4))
   (pad "19" thru_hole circle (at 1.450089 3.955042) (size 1.650013 1.650013) (drill 1.049987) (layers "*.Cu" "*.Mask") (tstamp f543a1e6-814e-4cc9-9bc0-68cf47c64064))
   (pad "20" thru_hole circle (at 1.450089 -1.445009) (size 1.650013 1.650013) (drill 1.049987) (layers "*.Cu" "*.Mask") (tstamp d69c2d51-e2ef-48d8-9e69-04e8eaa6350f))
-  (model "${KICAD7_3DMODEL_DIR}/SFP_CAGE.3dshapes/TH_HC-SFP-01L.wrl"
+  (model "../GlobalLibs/SFP_CAGE/SFP_CAGE.3dshapes/TH_HC-SFP-01L.wrl"
     (offset (xyz -5.650001315 0 9.949941851))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

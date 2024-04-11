@@ -179,7 +179,7 @@
   (pad "126" smd rect (at -7.629921 5.400051) (size 1.459995 0.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 079d1dd0-ceca-4f24-bed2-81aa6da31665))
   (pad "127" smd rect (at -7.629921 5.800102) (size 1.459995 0.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 11646806-b55b-49ec-ab0e-06d55a48b8f1))
   (pad "128" smd rect (at -7.629921 6.199898) (size 1.459995 0.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 650e2c7b-4f3e-4dbb-ac6f-69cd3c56f67d))
-  (model "${KICAD7_3DMODEL_DIR}/RTL8367S_CG.3dshapes/RTL8367S-CG-LQFP-128_L14.wrl"
+  (model "../GlobalLibs/RTL8367S_CG/RTL8367S_CG.3dshapes/RTL8367S-CG-LQFP-128_L14.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

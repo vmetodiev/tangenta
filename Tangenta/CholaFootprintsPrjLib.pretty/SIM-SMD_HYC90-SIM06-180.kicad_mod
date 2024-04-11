@@ -79,7 +79,7 @@
   (pad "9" smd rect (at -7.450089 -1.904496 90) (size 1.5 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 45bbe7eb-3efa-4f26-94bf-ad819cd14782))
   (pad "10" smd rect (at 7.450089 0.79553 90) (size 1.5 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3a72cf2b-cecd-425b-8a9d-4bd739e296d2))
   (pad "11" smd rect (at 7.450089 -1.904496 90) (size 1.5 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b5e8eccc-7bbb-4a2c-a5fa-79a0ce323123))
-  (model "${KICAD7_3DMODEL_DIR}/SIM_Holder.3dshapes/HYC90-SIM06-180.STEP"
+  (model "../GlobalLibs/SIM_Holder/SIM_Holder.3dshapes/HYC90-SIM06-180.STEP"
     (offset (xyz 0 -6.648999 0.050038))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 180 180))
