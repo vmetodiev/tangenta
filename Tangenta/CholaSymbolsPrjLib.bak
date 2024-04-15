@@ -6551,7 +6551,7 @@
     (property "Value" "LT8912B" (at 0 -12.7 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "LT8912B:LT8912B" (at -6.35 -19.05 0)
+    (property "Footprint" "CholaFootprintsPrjLib:LT8912B" (at -6.35 -19.05 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/2301292030_LONTIUM-SEMICONDUCTOR-LT8912B_C2892102.pdf" (at -15.24 -21.59 0)

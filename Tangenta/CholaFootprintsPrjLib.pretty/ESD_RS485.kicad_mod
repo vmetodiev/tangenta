@@ -36,7 +36,7 @@
   (pad "1" smd rect (at 1.235077 0.949962) (size 1.070003 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e75a0f06-7306-44aa-aa97-a3c6574a14ff))
   (pad "2" smd rect (at 1.235077 -0.949962) (size 1.070003 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 43bc5bb6-f83b-44cf-aa1a-332827bc8777))
   (pad "3" smd rect (at -1.235077 0) (size 1.070003 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp dac72471-3008-40e7-9138-546f665282fb))
-  (model "${KICAD7_3DMODEL_DIR}/ESD_RS485.3dshapes/SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR.wrl"
+  (model "../GlobalLibs/ESD_RS485/ESD_RS485.3dshapes/SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -180))

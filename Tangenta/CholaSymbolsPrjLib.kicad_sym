@@ -9118,7 +9118,7 @@
     (property "Value" "TPCDSOT23-SM712" (at 0.127 -6.731 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "ESD_RS485:ESD_RS485" (at 1.905 -14.986 0)
+    (property "Footprint" "CholaFootprintsPrjLib:ESD_RS485" (at 1.905 -14.986 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://item.szlcsc.com/14454.html" (at -9.017 -12.446 0)
