@@ -41,7 +41,7 @@
   (pad "2" smd rect (at 1.100076 0.875032) (size 1.4 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3ebddc45-ffc0-43c2-b780-b565b3ef3f8e))
   (pad "3" smd rect (at 1.100076 -0.875032) (size 1.4 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 82b287b3-c398-4704-93ef-ed87b8a2c0ab))
   (pad "4" smd rect (at -1.100076 -0.875032) (size 1.4 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 372decd2-33a3-4e07-914b-ddf3e23a68f1))
-  (model "${KICAD7_3DMODEL_DIR}/25MHZ_OSCILLATOR.3dshapes/OSC-SMD_4P-L3.2-W2.5-BL.wrl"
+  (model "../GlobalLibs/25MHZ_OSCILLATOR/25MHZ_OSCILLATOR.3dshapes/OSC-SMD_4P-L3.2-W2.5-BL.wrl"
     (offset (xyz 0 0 0.009906))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

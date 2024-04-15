@@ -328,7 +328,7 @@
   (pad "65" thru_hole circle (at 1.9 -1.9) (size 1 1) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp cf2a058c-b6d3-4b34-894e-b8a8f2163924))
   (pad "65" thru_hole circle (at 1.9 0) (size 1 1) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp 7da9ebc8-ce23-4ee1-b3de-93d96465b8e2))
   (pad "65" thru_hole circle (at 1.9 1.9) (size 1 1) (drill 0.5) (layers "*.Cu" "*.Mask") (tstamp 3f952049-b9f1-4397-b72b-0f6b4a1f1dd3))
-  (model ":KICAD7_3DMODEL_DIR:LT8912B.3dshapes/QFN-64_L7.5-W7.5-P0.4-LT-EP6.2.wrl"
+  (model "../GlobalLibs/LT8912B/LT8912B.3dshapes/QFN-64_L7.5-W7.5-P0.4-LT-EP6.2.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
