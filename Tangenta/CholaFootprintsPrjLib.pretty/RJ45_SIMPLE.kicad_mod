@@ -49,7 +49,7 @@
   (pad "8" thru_hole circle (at 3.569977 0.889891) (size 1.295403 1.295403) (drill 0.900025) (layers "*.Cu" "*.Mask") (tstamp d55fbca7-1a93-4cba-a174-7d161626f9a0))
   (pad "9" thru_hole circle (at 8.050038 -0.000127) (size 2.4 2.4) (drill 1.6) (layers "*.Cu" "*.Mask") (tstamp 5ac78397-79db-4b71-b67a-076189cd046e))
   (pad "10" thru_hole circle (at -8.050038 -0.000127) (size 2.4 2.4) (drill 1.6) (layers "*.Cu" "*.Mask") (tstamp 46ab01dc-6c4c-4361-a979-d72dc248bc6d))
-  (model "${KICAD7_3DMODEL_DIR}/RJ45_SIMPLE.3dshapes/RJ45-TH_RC01133.wrl"
+  (model "../GlobalLibs/RJ45_SIMPLE/RJ45_SIMPLE.3dshapes/RJ45-TH_RC01133.wrl"
     (offset (xyz 0 0.762025 6.800062))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -180))

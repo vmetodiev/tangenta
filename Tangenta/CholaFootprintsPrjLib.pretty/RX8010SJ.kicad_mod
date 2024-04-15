@@ -45,7 +45,7 @@
   (pad "6" smd oval (at 0.635001 -3.098806 180) (size 0.7 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9fcabdd6-b40c-46da-87c8-0a0c68c524e1))
   (pad "7" smd oval (at -0.635001 -3.098806 180) (size 0.7 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a42f6df7-e679-49eb-945d-64a515f6105e))
   (pad "8" smd oval (at -1.905004 -3.098806 180) (size 0.7 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e36a2061-6f6e-4014-84a5-87f8889bd873))
-  (model "${KICAD7_3DMODEL_DIR}/RX8010SJ.3dshapes/SOP-8_L7.0-W3.9-P1.27-LS6.2-BL.wrl"
+  (model "../GlobalLibs/RX8010SJ/RX8010SJ.3dshapes/SOP-8_L7.0-W3.9-P1.27-LS6.2-BL.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -57,7 +57,7 @@
   (pad "6" smd oval (at 0.635001 -2.705105) (size 0.568402 1.950216) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ae341b40-ab63-4d5d-9091-8e6edeaa9cba))
   (pad "7" smd oval (at -0.635001 -2.705105) (size 0.568402 1.950216) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d3c64673-0500-44a6-9bd5-cb50a939fe17))
   (pad "8" smd oval (at -1.905004 -2.705105) (size 0.568402 1.950216) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cef0a160-b1e6-492f-a3aa-494b17110efa))
-  (model "${KICAD7_3DMODEL_DIR}/CMOS_EEPROM.3dshapes/SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL.wrl"
+  (model "../GlobalLibs/CMOS_EEPROM/CMOS_EEPROM.3dshapes/SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
