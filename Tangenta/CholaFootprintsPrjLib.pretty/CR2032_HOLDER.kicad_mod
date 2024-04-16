@@ -31,7 +31,7 @@
     (stroke (width 0.059995) (type solid)) (fill none) (layer "F.SilkS") (tstamp 24295e5e-379b-4bd2-a0b7-f56d7ebf1393))
   (pad "1" thru_hole circle (at -9.999873 -0.000025) (size 1.8 1.8) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 134153de-5d03-4143-9e82-b4c6db057f6a))
   (pad "2" thru_hole circle (at 9.999873 -0.000025) (size 1.8 1.8) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp fbb6c55c-99db-4cc9-a31b-0fa4acb77d2c))
-  (model "${KICAD7_3DMODEL_DIR}/CR2032_HOLDER.3dshapes/BAT-TH_BS-02-A1AJ010.wrl"
+  (model "../GlobalLibs/CR2032_HOLDER/CR2032_HOLDER.3dshapes/BAT-TH_BS-02-A1AJ010.wrl"
     (offset (xyz -2 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

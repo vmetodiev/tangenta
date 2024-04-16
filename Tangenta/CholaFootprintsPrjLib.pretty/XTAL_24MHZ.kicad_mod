@@ -40,7 +40,7 @@
   (pad "2" smd rect (at 1.100076 0.850013) (size 1.4 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fba7f4c9-177b-42fb-90ea-cd6992edd407))
   (pad "3" smd rect (at 1.100076 -0.850013) (size 1.4 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1686e532-e885-487e-bfb4-05e18c8886c9))
   (pad "4" smd rect (at -1.100076 -0.850013) (size 1.4 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d9a67be3-0911-4b21-8637-119078fa4aad))
-  (model "${KICAD7_3DMODEL_DIR}/XTAL_24MHZ.3dshapes/CRYSTAL-SMD_4P-L3.2-W2.5-BL.wrl"
+  (model "../GlobalLibs/XTAL_24MHZ/XTAL_24MHZ.3dshapes/CRYSTAL-SMD_4P-L3.2-W2.5-BL.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
