@@ -1,5 +1,5 @@
 // KiCAD ZIP archives
-*.zip
+//*.zip
 
 // KiCAD Caches
 *fp-info-cache
