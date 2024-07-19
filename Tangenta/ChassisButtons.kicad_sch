@@ -1103,6 +1103,12 @@
     (uuid c7e438fc-5d2a-495b-9306-98454a34a4be)
   )
 
+  (text "Inverted logic could be implemented in future versions via:\n1) Removing (or effectively bypassing) the inverter\n2) Changing the PWR button circuit to switch 5V_STANDBY"
+    (at 39.37 140.97 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 28529820-bdaf-470d-9340-2c63d2f869e4)
+  )
+
   (label "VCC_LOGIC" (at 175.26 60.96 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0214ec1e-7c16-4a47-aeef-347d765b3018)
@@ -1276,7 +1282,7 @@
   )
 
   (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 68.58 74.93 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 0bc7b11f-77d9-47e0-86b5-0619fd61cd04)
     (property "Reference" "R16" (at 71.12 73.66 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2001,7 +2007,7 @@
   )
 
   (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 52.07 83.82 90) (unit 1)
-    (in_bom no) (on_board yes) (dnp yes)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid bf7988ff-76a8-4f1e-ad62-4b2d6e7b37f0)
     (property "Reference" "R15" (at 50.8 82.55 90)
       (effects (font (size 1.27 1.27)) (justify left))
