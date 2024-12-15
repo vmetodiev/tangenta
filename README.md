@@ -1,6 +1,9 @@
 # Tangenta
 Micro ATX motherboard for Toradex Verdin iMX8M Mini
 
+# Alternative Idea
+To be used a base for developing a RaspberriPI compute motherboard...
+
 # Project Features
 
 ## USB Hub Integration
@@ -17,6 +20,11 @@ Micro ATX motherboard for Toradex Verdin iMX8M Mini
 ## PCIe Expansion
 - 2x PCIe slots and an M.2 slot for SSD expansion, powered by a Pericom switch.
 - PCIe slots are full-length x16, operating at x1 speed (Gen 2) for enhanced compatibility and performance.
+
+## Industrial Connectivity
+- 2x Isolated CAN transceivers
+- 1x Isolated RS-422 (could be used as RS-485 as well)
+- All of the above exposed over a single RJ-45 connector (to fit the maximum allowed ATX rear panel lenght)
 
 # A few images
 ![screenshot](Images/tangenta.png)
