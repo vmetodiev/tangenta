@@ -2,7 +2,7 @@
 Micro ATX motherboard for Toradex Verdin iMX8M Mini
 
 # Alternative Idea
-To be used a base for developing a Raspberry PI CM5 compute motherboard...
+To be used as a base for developing a Raspberry PI CM5 mATX motherboard...
 
 # Project Features
 
