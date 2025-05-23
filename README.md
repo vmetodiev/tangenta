@@ -14,8 +14,8 @@ To be used as a base for developing mATX motherboards for other (similar) SoMs.
 - LVDS to HDMI via Lontium
 
 ## Ethernet (via Realtek switch)
-- 1000BASE-T
-- SFP 1000BASE-X
+- 3x RJ-45 with integrated magnetics (1000BASE-T)
+- 1x SFP (1000BASE-X)
 
 ## PCIe (via Pericom switch)
 - 2x PCIe slots (full-length x16, operating at x1 speed, Gen 2)
