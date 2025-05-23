@@ -8,7 +8,7 @@ To be used as a base for developing mATX motherboards for other (similar) SoMs.
 
 ## USB (via Microchip hub)
 - 3x USB ports exposed on the rear panel - for mouse, keyboard, storage drive
-- One of the USB ports connects to an M.2 slot with a SIM card (for a mobile modem)
+- 1x USB port connects to an M.2 slot with a SIM card (for a mobile modem)
 
 ## HDMI
 - LVDS to HDMI via Lontium
@@ -19,7 +19,7 @@ To be used as a base for developing mATX motherboards for other (similar) SoMs.
 
 ## PCIe (via Pericom switch)
 - 2x PCIe slots (full-length x16, operating at x1 speed, Gen 2)
-- M.2 slot for SSD expansion (operating at x1 speed, Gen 2)
+- 1x M.2 slot for SSD expansion (operating at x1 speed, Gen 2)
 
 ## Industrial Connectivity
 - 2x Isolated CAN transceivers
