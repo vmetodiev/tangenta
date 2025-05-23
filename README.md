@@ -2,22 +2,22 @@
 Micro ATX motherboard for Toradex Verdin iMX8M Mini
 
 # Alternative Idea
-To be used as a base for developing a Raspberry PI CM5 (or similar SoM) mATX motherboard...
+To be used as a base for developing mATX motherboards for other (similar) SoMs.
 
 # Project Features
 
-## USB Hub
+## USB (via Microchip hub)
 - 3x USB ports exposed on the rear panel - for mouse, keyboard, storage drive
 - One of the USB ports connects to an M.2 slot with a SIM card (for a mobile modem)
 
 ## HDMI
 - LVDS to HDMI via Lontium
 
-## Ethernet
-- Realtek Ethernet switch for 1000BASE-T
+## Ethernet (via Realtek switch)
+- 1000BASE-T
 - SFP 1000BASE-X
 
-## PCIe
+## PCIe (via Pericom switch)
 - 2x PCIe slots and an M.2 slot for SSD expansion, powered by a Pericom switch
 - PCIe slots are full-length x16, operating at x1 speed (Gen 2)
 
