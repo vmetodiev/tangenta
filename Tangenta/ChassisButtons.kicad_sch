@@ -1103,7 +1103,7 @@
     (uuid c7e438fc-5d2a-495b-9306-98454a34a4be)
   )
 
-  (text "Inverted logic could be implemented in future versions via:\n1) Removing (or effectively bypassing) the inverter\n2) Changing the PWR button circuit to switch 5V_STANDBY"
+  (text "Inverted logic could be implemented in future versions via:\n1) Removing (or effectively bypassing) the inverter\n2) Changing the PWR button circuit to switch 5V_STANDBY\n\nRefer to the \"ATX_Documentation\" folder inside the repository. \nThe currently implemented one is the \"ATX_PowerON_Immediate_Schematic\". \nThe possible inverted logic mentioned above is the \"ATX_PowerON_Schematic\"."
     (at 39.37 140.97 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 28529820-bdaf-470d-9340-2c63d2f869e4)
