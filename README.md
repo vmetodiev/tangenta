@@ -35,4 +35,4 @@ To be used as a base for developing mATX motherboards for other (similar) SoMs.
 ![screenshot](Images/5.jpeg)
 ![screenshot](Images/6.jpeg)
 ![screenshot](Images/7.jpeg)
-![screenshot](Images/8.jpeg)
+![screenshot](Images/8.JPG)
