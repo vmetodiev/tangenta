@@ -18,8 +18,8 @@ To be used as a base for developing mATX motherboards for other (similar) SoMs.
 - SFP 1000BASE-X
 
 ## PCIe (via Pericom switch)
-- 2x PCIe slots and an M.2 slot for SSD expansion, powered by a Pericom switch
-- PCIe slots are full-length x16, operating at x1 speed (Gen 2)
+- 2x PCIe slots (full-length x16, operating at x1 speed, Gen 2)
+- M.2 slot for SSD expansion (operating at x1 speed, Gen 2)
 
 ## Industrial Connectivity
 - 2x Isolated CAN transceivers
