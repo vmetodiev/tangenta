@@ -24,7 +24,7 @@ To be used as a base for developing mATX motherboards for other (similar) SoMs.
 ## Industrial Connectivity
 - 2x Isolated CAN transceivers
 - 1x Isolated RS-422 (could be used as RS-485 as well)
-- All of the above exposed over a single RJ-45 connector (to fit the maximum allowed ATX rear panel lenght)
+All of the above exposed over a single RJ-45 connector (to fit the maximum allowed ATX rear panel lenght)
 
 # A few images
 ![screenshot](Images/tangenta.png)
