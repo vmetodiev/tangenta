@@ -3594,7 +3594,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:TPS54331DR"
+		(symbol "TPS54331DR:TPS54331DR"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3614,7 +3614,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:TPS54331DR"
+			(property "Footprint" "TPS54331DR:TPS54331DR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -3840,7 +3840,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:TPS54331DR"
+			(property "Footprint" "TPS54331DR:TPS54331DR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -4066,7 +4066,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:TPS54331DR"
+			(property "Footprint" "TPS54331DR:TPS54331DR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -4292,7 +4292,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:TPS54331DR"
+			(property "Footprint" "TPS54331DR:TPS54331DR"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -8676,7 +8676,7 @@
 	)
 	(symbol
 		(lib_name "TPS54331DR_2")
-		(lib_id "CholaSymbolsPrjLib:TPS54331DR")
+		(lib_id "TPS54331DR:TPS54331DR")
 		(at 85.725 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8701,7 +8701,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:TPS54331DR"
+		(property "Footprint" "TPS54331DR:TPS54331DR"
 			(at 85.725 81.28 0)
 			(effects
 				(font
@@ -10483,7 +10483,7 @@
 	)
 	(symbol
 		(lib_name "TPS54331DR_3")
-		(lib_id "CholaSymbolsPrjLib:TPS54331DR")
+		(lib_id "TPS54331DR:TPS54331DR")
 		(at 85.725 111.125 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10508,7 +10508,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:TPS54331DR"
+		(property "Footprint" "TPS54331DR:TPS54331DR"
 			(at 85.725 121.285 0)
 			(effects
 				(font
@@ -12172,7 +12172,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:TPS54331DR")
+		(lib_id "TPS54331DR:TPS54331DR")
 		(at 85.725 151.765 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12197,7 +12197,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:TPS54331DR"
+		(property "Footprint" "TPS54331DR:TPS54331DR"
 			(at 85.725 161.925 0)
 			(effects
 				(font
@@ -15277,7 +15277,7 @@
 	)
 	(symbol
 		(lib_name "TPS54331DR_1")
-		(lib_id "CholaSymbolsPrjLib:TPS54331DR")
+		(lib_id "TPS54331DR:TPS54331DR")
 		(at 85.725 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
