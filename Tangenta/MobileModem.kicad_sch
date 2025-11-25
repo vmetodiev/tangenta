@@ -5,7 +5,7 @@
 	(uuid "f9bfb9b3-9bfc-4802-bb6e-b9bd45a93c81")
 	(paper "A4")
 	(lib_symbols
-		(symbol "CholaSymbolsPrjLib:1-2199230-5"
+		(symbol "1-2199230-5:1-2199230-5"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -27,7 +27,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:M2_Slot"
+			(property "Footprint" "M2_Slot:M2_Slot"
 				(at 95.25 -89.84 0)
 				(effects
 					(font
@@ -1383,7 +1383,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:C_Small"
+		(symbol "C_Small:C_Small"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1523,7 +1523,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:HYC90-SIM06-180"
+		(symbol "HYC90-SIM06-180:HYC90-SIM06-180"
 			(pin_names
 				(hide yes)
 			)
@@ -1547,7 +1547,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:SIM-SMD_HYC90-SIM06-180"
+			(property "Footprint" "SIM-SMD_HYC90-SIM06-180:SIM-SMD_HYC90-SIM06-180"
 				(at 1.27 7.62 0)
 				(effects
 					(font
@@ -1799,7 +1799,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:MountingHole"
+		(symbol "MountingHole:MountingHole"
 			(pin_names
 				(offset 1.016)
 			)
@@ -1882,7 +1882,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:R_Small_US"
+		(symbol "R_Small_US:R_Small_US"
 			(pin_numbers
 				(hide yes)
 			)
@@ -3395,7 +3395,7 @@
 		(uuid "8728f322-286e-4ffe-8835-3d5b8d0f2eff")
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:HYC90-SIM06-180")
+		(lib_id "HYC90-SIM06-180:HYC90-SIM06-180")
 		(at 148.59 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3421,7 +3421,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:SIM-SMD_HYC90-SIM06-180"
+		(property "Footprint" "SIM-SMD_HYC90-SIM06-180:SIM-SMD_HYC90-SIM06-180"
 			(at 149.86 80.01 0)
 			(effects
 				(font
@@ -3563,7 +3563,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:MountingHole")
+		(lib_id "MountingHole:MountingHole")
 		(at 186.055 76.2 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3626,7 +3626,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 140.97 68.58 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3692,7 +3692,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 156.21 68.58 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3758,7 +3758,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 173.99 74.93 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3892,7 +3892,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 54.61 77.47 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3960,7 +3960,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 124.46 95.25 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4026,7 +4026,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:MountingHole")
+		(lib_id "MountingHole:MountingHole")
 		(at 186.055 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4089,7 +4089,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 92.71 57.15 270)
 		(mirror x)
 		(unit 1)
@@ -4158,7 +4158,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 54.61 128.27 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4292,7 +4292,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 124.46 104.14 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4360,7 +4360,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:1-2199230-5")
+		(lib_id "1-2199230-5:1-2199230-5")
 		(at 73.66 44.45 90)
 		(mirror x)
 		(unit 1)
@@ -4387,7 +4387,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:M2_Slot"
+		(property "Footprint" "M2_Slot:M2_Slot"
 			(at 163.5 139.7 0)
 			(effects
 				(font

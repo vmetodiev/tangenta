@@ -5,7 +5,7 @@
 	(uuid "c2e8d0f5-ce5c-4197-a353-05939152276d")
 	(paper "A4")
 	(lib_symbols
-		(symbol "CholaSymbolsPrjLib:RC01133"
+		(symbol "RC01133:RC01133"
 			(pin_names
 				(hide yes)
 			)
@@ -28,7 +28,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:RJ45_SIMPLE"
+			(property "Footprint" "RJ45_SIMPLE:RJ45_SIMPLE"
 				(at 1.27 -25.4 0)
 				(effects
 					(font
@@ -1070,7 +1070,7 @@
 		(uuid "dbe1f9a8-9581-44cb-9a3f-2b90e9163c6c")
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:RC01133")
+		(lib_id "RC01133:RC01133")
 		(at 167.64 97.155 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1095,7 +1095,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:RJ45_SIMPLE"
+		(property "Footprint" "RJ45_SIMPLE:RJ45_SIMPLE"
 			(at 142.24 98.425 0)
 			(effects
 				(font

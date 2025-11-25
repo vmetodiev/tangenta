@@ -5,7 +5,7 @@
 	(uuid "00fe488d-5b4e-42f3-911a-9d82061a4436")
 	(paper "A4")
 	(lib_symbols
-		(symbol "CholaSymbolsPrjLib:BAT54C"
+		(symbol "BAT54C:BAT54C"
 			(pin_names
 				(offset 1.016)
 			)
@@ -327,7 +327,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:BS-02-A1AJ010"
+		(symbol "BS-02-A1AJ010:BS-02-A1AJ010"
 			(pin_names
 				(hide yes)
 			)
@@ -350,7 +350,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:CR2032_HOLDER"
+			(property "Footprint" "CR2032_HOLDER:CR2032_HOLDER"
 				(at -0.127 -10.16 0)
 				(effects
 					(font
@@ -485,7 +485,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:C_Small"
+		(symbol "C_Small:C_Small"
 			(pin_numbers
 				(hide yes)
 			)
@@ -625,7 +625,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:RX8010SJ"
+		(symbol "RX8010SJ:RX8010SJ"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -645,7 +645,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:RX8010SJ"
+			(property "Footprint" "RX8010SJ:RX8010SJ"
 				(at -0.762 -13.716 0)
 				(effects
 					(font
@@ -1484,7 +1484,7 @@
 		(uuid "d63ea611-21e6-4eec-81d0-7df716edc1c0")
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:BAT54C")
+		(lib_id "BAT54C:BAT54C")
 		(at 129.54 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1758,7 +1758,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:RX8010SJ")
+		(lib_id "RX8010SJ:RX8010SJ")
 		(at 170.815 83.82 0)
 		(mirror y)
 		(unit 1)
@@ -1783,7 +1783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:RX8010SJ"
+		(property "Footprint" "RX8010SJ:RX8010SJ"
 			(at 171.577 97.536 0)
 			(effects
 				(font
@@ -1854,7 +1854,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 220.345 91.44 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1920,7 +1920,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:BS-02-A1AJ010")
+		(lib_id "BS-02-A1AJ010:BS-02-A1AJ010")
 		(at 114.935 87.63 270)
 		(mirror x)
 		(unit 1)
@@ -1946,7 +1946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:CR2032_HOLDER"
+		(property "Footprint" "CR2032_HOLDER:CR2032_HOLDER"
 			(at 104.775 87.757 0)
 			(effects
 				(font
@@ -2067,7 +2067,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 210.82 91.44 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2133,7 +2133,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 201.295 91.44 180)
 		(unit 1)
 		(exclude_from_sim no)

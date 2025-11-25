@@ -5,7 +5,7 @@
 	(uuid "de008ef8-1639-4ee0-8cd0-c41da79a1219")
 	(paper "A4")
 	(lib_symbols
-		(symbol "CholaSymbolsPrjLib:16CE47FSS"
+		(symbol "16CE47FSS:16CE47FSS"
 			(pin_numbers
 				(hide yes)
 			)
@@ -31,7 +31,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:CAP_L5"
+			(property "Footprint" "CAP_L5:CAP_L5"
 				(at -1.27 -17.78 0)
 				(effects
 					(font
@@ -177,7 +177,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:AOZ1353DI-01"
+		(symbol "AOZ1353DI-01:AOZ1353DI-01"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -197,7 +197,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:AOZ1353DI01"
+			(property "Footprint" "AOZ1353DI01:AOZ1353DI01"
 				(at 3.81 -19.939 0)
 				(effects
 					(font
@@ -468,7 +468,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:BZT52C6V2S-7-F"
+		(symbol "BZT52C6V2S-7-F:BZT52C6V2S-7-F"
 			(pin_numbers
 				(hide yes)
 			)
@@ -495,7 +495,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:BZT52C6V2S-7-F"
+			(property "Footprint" "BZT52C6V2S-7-F:BZT52C6V2S-7-F"
 				(at 0.127 -11.303 0)
 				(effects
 					(font
@@ -606,7 +606,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:C_Small"
+		(symbol "C_Small:C_Small"
 			(pin_numbers
 				(hide yes)
 			)
@@ -746,7 +746,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:PUSB2X4Y-N"
+		(symbol "PUSB2X4Y-N:PUSB2X4Y-N"
 			(pin_names
 				(hide yes)
 			)
@@ -769,7 +769,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:USB_ESD"
+			(property "Footprint" "USB_ESD:USB_ESD"
 				(at -4.064 -21.463 0)
 				(effects
 					(font
@@ -1446,7 +1446,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:R_Small_US"
+		(symbol "R_Small_US:R_Small_US"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1584,7 +1584,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:TUSB321RWBR"
+		(symbol "TUSB321RWBR:TUSB321RWBR"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1604,7 +1604,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:TUSB321RWBR"
+			(property "Footprint" "TUSB321RWBR:TUSB321RWBR"
 				(at -3.81 -18.923 0)
 				(effects
 					(font
@@ -1904,7 +1904,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:TYPEC-304-ACP16"
+		(symbol "TYPEC-304-ACP16:TYPEC-304-ACP16"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1924,7 +1924,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:USB_TYPEC"
+			(property "Footprint" "USB_TYPEC:USB_TYPEC"
 				(at 2.54 -13.97 0)
 				(effects
 					(font
@@ -2256,7 +2256,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:USB_ESD"
+			(property "Footprint" "USB_ESD:USB_ESD"
 				(at -4.064 -21.463 0)
 				(effects
 					(font
@@ -4926,7 +4926,7 @@
 		(uuid "de3b067b-6ecf-4d74-9df5-7914227dd06c")
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 128.016 36.576 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4992,7 +4992,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 159.004 103.886 270)
 		(mirror x)
 		(unit 1)
@@ -5061,7 +5061,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:TYPEC-304-ACP16")
+		(lib_id "TYPEC-304-ACP16:TYPEC-304-ACP16")
 		(at 112.268 147.574 0)
 		(mirror x)
 		(unit 1)
@@ -5086,7 +5086,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:USB_TYPEC"
+		(property "Footprint" "USB_TYPEC:USB_TYPEC"
 			(at 114.808 133.604 0)
 			(effects
 				(font
@@ -5172,7 +5172,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 239.776 36.576 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5305,7 +5305,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 119.888 36.576 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5438,7 +5438,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:AOZ1353DI-01")
+		(lib_id "AOZ1353DI-01:AOZ1353DI-01")
 		(at 185.166 36.322 0)
 		(mirror y)
 		(unit 1)
@@ -5463,7 +5463,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:AOZ1353DI01"
+		(property "Footprint" "AOZ1353DI01:AOZ1353DI01"
 			(at 181.356 56.261 0)
 			(effects
 				(font
@@ -5543,7 +5543,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 212.852 38.862 270)
 		(mirror x)
 		(unit 1)
@@ -5612,7 +5612,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:TUSB321RWBR")
+		(lib_id "TUSB321RWBR:TUSB321RWBR")
 		(at 123.952 100.076 0)
 		(mirror y)
 		(unit 1)
@@ -5637,7 +5637,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:TUSB321RWBR"
+		(property "Footprint" "TUSB321RWBR:TUSB321RWBR"
 			(at 127.762 118.999 0)
 			(effects
 				(font
@@ -5720,7 +5720,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 157.48 38.862 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5788,7 +5788,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:16CE47FSS")
+		(lib_id "16CE47FSS:16CE47FSS")
 		(at 267.716 36.576 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5815,7 +5815,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:CAP_L5"
+		(property "Footprint" "CAP_L5:CAP_L5"
 			(at 266.446 54.356 0)
 			(effects
 				(font
@@ -5877,7 +5877,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 249.428 36.576 0)
 		(mirror x)
 		(unit 1)
@@ -6080,7 +6080,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 202.946 45.72 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6146,7 +6146,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 161.29 45.974 0)
 		(mirror x)
 		(unit 1)
@@ -6215,7 +6215,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 85.598 106.426 270)
 		(mirror x)
 		(unit 1)
@@ -6284,7 +6284,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 136.398 36.576 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6418,7 +6418,7 @@
 	)
 	(symbol
 		(lib_name "PUSB2X4Y-N_1")
-		(lib_id "CholaSymbolsPrjLib:PUSB2X4Y-N")
+		(lib_id "PUSB2X4Y-N:PUSB2X4Y-N")
 		(at 246.38 65.024 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6445,7 +6445,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:USB_ESD"
+		(property "Footprint" "USB_ESD:USB_ESD"
 			(at 242.316 86.487 0)
 			(effects
 				(font
@@ -6510,7 +6510,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 67.818 98.044 0)
 		(mirror x)
 		(unit 1)
@@ -6577,7 +6577,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 76.2 98.044 0)
 		(mirror x)
 		(unit 1)
@@ -6644,7 +6644,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:BZT52C6V2S-7-F")
+		(lib_id "BZT52C6V2S-7-F:BZT52C6V2S-7-F")
 		(at 259.08 37.592 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6671,7 +6671,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:BZT52C6V2S-7-F"
+		(property "Footprint" "BZT52C6V2S-7-F:BZT52C6V2S-7-F"
 			(at 247.777 37.719 0)
 			(effects
 				(font
@@ -6724,7 +6724,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:PUSB2X4Y-N")
+		(lib_id "PUSB2X4Y-N:PUSB2X4Y-N")
 		(at 246.38 110.744 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6751,7 +6751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:USB_ESD"
+		(property "Footprint" "USB_ESD:USB_ESD"
 			(at 242.316 132.207 0)
 			(effects
 				(font
@@ -6816,7 +6816,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 229.87 36.576 180)
 		(unit 1)
 		(exclude_from_sim no)

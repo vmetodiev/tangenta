@@ -5,7 +5,7 @@
 	(uuid "00e2e2ef-5565-48d4-b126-a214fabb671e")
 	(paper "A4")
 	(lib_symbols
-		(symbol "CholaSymbolsPrjLib:C_Small"
+		(symbol "C_Small:C_Small"
 			(pin_numbers
 				(hide yes)
 			)
@@ -145,7 +145,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:HC-SFP-01L"
+		(symbol "HC-SFP-01L:HC-SFP-01L"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -166,7 +166,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:TH_HC-SFP-01L"
+			(property "Footprint" "TH_HC-SFP-01L:TH_HC-SFP-01L"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -599,7 +599,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:HC-SFP-20P"
+		(symbol "HC-SFP-20P:HC-SFP-20P"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -619,7 +619,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:SFP_Connector"
+			(property "Footprint" "SFP_Connector:SFP_Connector"
 				(at 0 -10.16 0)
 				(effects
 					(font
@@ -1052,7 +1052,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:R_Small_US"
+		(symbol "R_Small_US:R_Small_US"
 			(pin_numbers
 				(hide yes)
 			)
@@ -2583,7 +2583,7 @@
 		(uuid "cfe34024-7019-4a94-8dd4-da251fc4365f")
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 66.04 64.77 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2717,7 +2717,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 224.79 128.905 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2783,7 +2783,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 139.7 118.11 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2849,7 +2849,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:HC-SFP-01L")
+		(lib_id "HC-SFP-01L:HC-SFP-01L")
 		(at 159.385 76.835 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2874,7 +2874,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:TH_HC-SFP-01L"
+		(property "Footprint" "TH_HC-SFP-01L:TH_HC-SFP-01L"
 			(at 159.385 86.995 0)
 			(effects
 				(font
@@ -2981,7 +2981,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 217.17 140.335 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3047,7 +3047,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 139.7 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3181,7 +3181,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 78.74 59.69 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3315,7 +3315,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:HC-SFP-20P")
+		(lib_id "HC-SFP-20P:HC-SFP-20P")
 		(at 159.385 127 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3339,7 +3339,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:SFP_Connector"
+		(property "Footprint" "SFP_Connector:SFP_Connector"
 			(at 159.385 137.16 0)
 			(effects
 				(font
@@ -3446,7 +3446,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 217.17 128.905 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3580,7 +3580,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 198.755 113.03 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3646,7 +3646,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 78.74 67.31 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3780,7 +3780,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 224.79 140.335 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3846,7 +3846,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 66.04 57.15 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3912,7 +3912,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 198.755 125.095 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3978,7 +3978,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 206.375 113.03 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4044,7 +4044,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 139.7 128.27 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4110,7 +4110,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 206.375 125.095 180)
 		(unit 1)
 		(exclude_from_sim no)

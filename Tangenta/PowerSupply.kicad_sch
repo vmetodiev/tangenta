@@ -31,7 +31,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:CAP_L6"
+			(property "Footprint" "CAP_L6:CAP_L6"
 				(at 3.048 -19.05 0)
 				(effects
 					(font
@@ -203,7 +203,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:CAP_L6"
+			(property "Footprint" "CAP_L6:CAP_L6"
 				(at 3.048 -19.05 0)
 				(effects
 					(font
@@ -375,7 +375,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:CAP_L6"
+			(property "Footprint" "CAP_L6:CAP_L6"
 				(at 3.048 -19.05 0)
 				(effects
 					(font
@@ -547,7 +547,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:CAP_L6"
+			(property "Footprint" "CAP_L6:CAP_L6"
 				(at 3.048 -19.05 0)
 				(effects
 					(font
@@ -719,7 +719,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:CAP_L6"
+			(property "Footprint" "CAP_L6:CAP_L6"
 				(at 3.048 -19.05 0)
 				(effects
 					(font
@@ -891,7 +891,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:CAP_L6"
+			(property "Footprint" "CAP_L6:CAP_L6"
 				(at 3.048 -19.05 0)
 				(effects
 					(font
@@ -1063,7 +1063,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:CAP_L6"
+			(property "Footprint" "CAP_L6:CAP_L6"
 				(at 3.048 -19.05 0)
 				(effects
 					(font
@@ -1235,7 +1235,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:B540C-13-F"
+			(property "Footprint" "B540C-13-F:B540C-13-F"
 				(at 0.127 -11.557 0)
 				(effects
 					(font
@@ -1372,7 +1372,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:B540C-13-F"
+			(property "Footprint" "B540C-13-F:B540C-13-F"
 				(at 0.127 -11.557 0)
 				(effects
 					(font
@@ -1509,7 +1509,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:B540C-13-F"
+			(property "Footprint" "B540C-13-F:B540C-13-F"
 				(at 0.127 -11.557 0)
 				(effects
 					(font
@@ -1620,7 +1620,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:35CE47AX"
+		(symbol "35CE47AX:35CE47AX"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1646,7 +1646,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:CAP_L6"
+			(property "Footprint" "CAP_L6:CAP_L6"
 				(at 3.048 -19.05 0)
 				(effects
 					(font
@@ -1792,7 +1792,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:39281243"
+		(symbol "39281243:39281243"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1812,7 +1812,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:24_Pin_Connector_Vertical"
+			(property "Footprint" "24_Pin_Connector_Vertical:24_Pin_Connector_Vertical"
 				(at 19.685 -30.099 0)
 				(effects
 					(font
@@ -2317,7 +2317,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:AMS1117-3_3"
+		(symbol "AMS1117-3_3:AMS1117-3_3"
 			(pin_numbers
 				(hide yes)
 			)
@@ -2340,7 +2340,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:AMS1117-3.3"
+			(property "Footprint" "AMS1117-3.3:AMS1117-3.3"
 				(at 3.81 -15.24 0)
 				(effects
 					(font
@@ -2484,7 +2484,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:AP7331-10WG-7"
+		(symbol "AP7331-10WG-7:AP7331-10WG-7"
 			(pin_numbers
 				(hide yes)
 			)
@@ -2507,7 +2507,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:AP7331-10WG.kicad_sym"
+			(property "Footprint" "AP7331-10WG.kicad_sym:AP7331-10WG.kicad_sym"
 				(at 8.89 -12.7 0)
 				(effects
 					(font
@@ -2670,7 +2670,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:B540C-13-F"
+		(symbol "B540C-13-F:B540C-13-F"
 			(pin_numbers
 				(hide yes)
 			)
@@ -2696,7 +2696,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:B540C-13-F"
+			(property "Footprint" "B540C-13-F:B540C-13-F"
 				(at 0.127 -11.557 0)
 				(effects
 					(font
@@ -2807,7 +2807,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:CA45-A-6_3V-47UF-K"
+		(symbol "CA45-A-6_3V-47UF-K:CA45-A-6_3V-47UF-K"
 			(pin_numbers
 				(hide yes)
 			)
@@ -2833,7 +2833,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:CAP_TANTAL_A"
+			(property "Footprint" "CAP_TANTAL_A:CAP_TANTAL_A"
 				(at 3.048 -11.684 0)
 				(effects
 					(font
@@ -3001,7 +3001,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:C_Small"
+		(symbol "C_Small:C_Small"
 			(pin_numbers
 				(hide yes)
 			)
@@ -3141,7 +3141,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:CustomJumper"
+		(symbol "CustomJumper:CustomJumper"
 			(pin_numbers
 				(hide yes)
 			)
@@ -3284,7 +3284,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:R_Small_US"
+		(symbol "R_Small_US:R_Small_US"
 			(pin_numbers
 				(hide yes)
 			)
@@ -3422,7 +3422,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:SLO0650H6R8MTT"
+		(symbol "SLO0650H6R8MTT:SLO0650H6R8MTT"
 			(pin_numbers
 				(hide yes)
 			)
@@ -3448,7 +3448,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:Choke"
+			(property "Footprint" "Choke:Choke"
 				(at -2.54 -11.811 0)
 				(effects
 					(font
@@ -8525,7 +8525,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:AMS1117-3_3")
+		(lib_id "AMS1117-3_3:AMS1117-3_3")
 		(at 235.585 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8549,7 +8549,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:AMS1117-3.3"
+		(property "Footprint" "AMS1117-3.3:AMS1117-3.3"
 			(at 239.395 44.45 0)
 			(effects
 				(font
@@ -8608,7 +8608,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 62.865 49.53 0)
 		(mirror x)
 		(unit 1)
@@ -8838,7 +8838,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 51.435 88.9 0)
 		(mirror x)
 		(unit 1)
@@ -9172,7 +9172,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:SLO0650H6R8MTT")
+		(lib_id "SLO0650H6R8MTT:SLO0650H6R8MTT")
 		(at 122.555 144.145 0)
 		(mirror x)
 		(unit 1)
@@ -9197,7 +9197,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:Choke"
+		(property "Footprint" "Choke:Choke"
 			(at 120.015 132.334 0)
 			(effects
 				(font
@@ -9259,7 +9259,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:35CE47AX")
+		(lib_id "35CE47AX:35CE47AX")
 		(at 30.48 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9285,7 +9285,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:CAP_L6"
+		(property "Footprint" "CAP_L6:CAP_L6"
 			(at 33.528 48.26 0)
 			(effects
 				(font
@@ -9479,7 +9479,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 62.865 43.18 0)
 		(mirror y)
 		(unit 1)
@@ -9548,7 +9548,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:CA45-A-6_3V-47UF-K")
+		(lib_id "CA45-A-6_3V-47UF-K:CA45-A-6_3V-47UF-K")
 		(at 151.765 113.665 270)
 		(mirror x)
 		(unit 1)
@@ -9575,7 +9575,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:CAP_TANTAL_A"
+		(property "Footprint" "CAP_TANTAL_A:CAP_TANTAL_A"
 			(at 140.081 110.617 0)
 			(effects
 				(font
@@ -9637,7 +9637,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 131.445 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9837,7 +9837,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 131.445 109.22 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9905,7 +9905,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:CA45-A-6_3V-47UF-K")
+		(lib_id "CA45-A-6_3V-47UF-K:CA45-A-6_3V-47UF-K")
 		(at 151.765 34.29 270)
 		(mirror x)
 		(unit 1)
@@ -9932,7 +9932,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:CAP_TANTAL_A"
+		(property "Footprint" "CAP_TANTAL_A:CAP_TANTAL_A"
 			(at 140.081 31.242 0)
 			(effects
 				(font
@@ -9994,7 +9994,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 51.435 49.53 0)
 		(mirror x)
 		(unit 1)
@@ -10062,7 +10062,7 @@
 	)
 	(symbol
 		(lib_name "35CE47AX_6")
-		(lib_id "CholaSymbolsPrjLib:35CE47AX")
+		(lib_id "35CE47AX:35CE47AX")
 		(at 30.48 108.585 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10088,7 +10088,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:CAP_L6"
+		(property "Footprint" "CAP_L6:CAP_L6"
 			(at 33.528 127.635 0)
 			(effects
 				(font
@@ -10282,7 +10282,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 214.63 36.83 0)
 		(mirror x)
 		(unit 1)
@@ -10579,7 +10579,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 62.865 88.9 0)
 		(mirror x)
 		(unit 1)
@@ -10713,7 +10713,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 131.445 38.735 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10781,7 +10781,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:CustomJumper")
+		(lib_id "CustomJumper:CustomJumper")
 		(at 161.29 141.859 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10847,7 +10847,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 62.865 122.555 0)
 		(mirror y)
 		(unit 1)
@@ -10917,7 +10917,7 @@
 	)
 	(symbol
 		(lib_name "35CE47AX_3")
-		(lib_id "CholaSymbolsPrjLib:35CE47AX")
+		(lib_id "35CE47AX:35CE47AX")
 		(at 143.51 113.665 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10943,7 +10943,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:CAP_L6"
+		(property "Footprint" "CAP_L6:CAP_L6"
 			(at 146.558 132.715 0)
 			(effects
 				(font
@@ -11005,7 +11005,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 131.445 78.105 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11073,7 +11073,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:CustomJumper")
+		(lib_id "CustomJumper:CustomJumper")
 		(at 161.29 101.219 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11206,7 +11206,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 107.315 146.685 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11272,7 +11272,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 107.315 66.04 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11338,7 +11338,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:SLO0650H6R8MTT")
+		(lib_id "SLO0650H6R8MTT:SLO0650H6R8MTT")
 		(at 122.555 24.13 0)
 		(mirror x)
 		(unit 1)
@@ -11363,7 +11363,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:Choke"
+		(property "Footprint" "Choke:Choke"
 			(at 120.015 12.319 0)
 			(effects
 				(font
@@ -11559,7 +11559,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:SLO0650H6R8MTT")
+		(lib_id "SLO0650H6R8MTT:SLO0650H6R8MTT")
 		(at 122.555 63.5 0)
 		(mirror x)
 		(unit 1)
@@ -11584,7 +11584,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:Choke"
+		(property "Footprint" "Choke:Choke"
 			(at 120.015 51.689 0)
 			(effects
 				(font
@@ -11646,7 +11646,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 40.005 128.905 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11778,7 +11778,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:CA45-A-6_3V-47UF-K")
+		(lib_id "CA45-A-6_3V-47UF-K:CA45-A-6_3V-47UF-K")
 		(at 253.365 36.83 270)
 		(mirror x)
 		(unit 1)
@@ -11805,7 +11805,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:CAP_TANTAL_A"
+		(property "Footprint" "CAP_TANTAL_A:CAP_TANTAL_A"
 			(at 241.681 33.782 0)
 			(effects
 				(font
@@ -11935,7 +11935,7 @@
 	)
 	(symbol
 		(lib_name "B540C-13-F_3")
-		(lib_id "CholaSymbolsPrjLib:B540C-13-F")
+		(lib_id "B540C-13-F:B540C-13-F")
 		(at 117.475 108.585 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11962,7 +11962,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:B540C-13-F"
+		(property "Footprint" "B540C-13-F:B540C-13-F"
 			(at 117.602 120.142 0)
 			(effects
 				(font
@@ -12015,7 +12015,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 131.445 69.215 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12084,7 +12084,7 @@
 	)
 	(symbol
 		(lib_name "35CE47AX_5")
-		(lib_id "CholaSymbolsPrjLib:35CE47AX")
+		(lib_id "35CE47AX:35CE47AX")
 		(at 30.48 149.225 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12110,7 +12110,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:CAP_L6"
+		(property "Footprint" "CAP_L6:CAP_L6"
 			(at 33.528 168.275 0)
 			(effects
 				(font
@@ -12401,7 +12401,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 62.865 128.905 0)
 		(mirror x)
 		(unit 1)
@@ -12535,7 +12535,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 40.005 49.53 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12667,7 +12667,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 131.445 29.845 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12802,7 +12802,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 131.445 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13003,7 +13003,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 256.54 66.675 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13136,7 +13136,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 107.315 106.045 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13202,7 +13202,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:39281243")
+		(lib_id "39281243:39281243")
 		(at 210.82 128.397 0)
 		(mirror y)
 		(unit 1)
@@ -13227,7 +13227,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:24_Pin_Connector_Vertical"
+		(property "Footprint" "24_Pin_Connector_Vertical:24_Pin_Connector_Vertical"
 			(at 191.135 158.496 0)
 			(effects
 				(font
@@ -13413,7 +13413,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:CA45-A-6_3V-47UF-K")
+		(lib_id "CA45-A-6_3V-47UF-K:CA45-A-6_3V-47UF-K")
 		(at 151.765 73.66 270)
 		(mirror x)
 		(unit 1)
@@ -13440,7 +13440,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:CAP_TANTAL_A"
+		(property "Footprint" "CAP_TANTAL_A:CAP_TANTAL_A"
 			(at 140.081 70.612 0)
 			(effects
 				(font
@@ -13502,7 +13502,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 51.435 128.905 0)
 		(mirror x)
 		(unit 1)
@@ -13636,7 +13636,7 @@
 	)
 	(symbol
 		(lib_name "35CE47AX_4")
-		(lib_id "CholaSymbolsPrjLib:35CE47AX")
+		(lib_id "35CE47AX:35CE47AX")
 		(at 143.51 154.305 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13662,7 +13662,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:CAP_L6"
+		(property "Footprint" "CAP_L6:CAP_L6"
 			(at 146.558 173.355 0)
 			(effects
 				(font
@@ -13725,7 +13725,7 @@
 	)
 	(symbol
 		(lib_name "B540C-13-F_2")
-		(lib_id "CholaSymbolsPrjLib:B540C-13-F")
+		(lib_id "B540C-13-F:B540C-13-F")
 		(at 117.475 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13752,7 +13752,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:B540C-13-F"
+		(property "Footprint" "B540C-13-F:B540C-13-F"
 			(at 117.602 80.137 0)
 			(effects
 				(font
@@ -13871,7 +13871,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 40.005 169.545 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13937,7 +13937,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 107.315 26.67 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14070,7 +14070,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:CustomJumper")
+		(lib_id "CustomJumper:CustomJumper")
 		(at 161.29 21.844 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14136,7 +14136,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:B540C-13-F")
+		(lib_id "B540C-13-F:B540C-13-F")
 		(at 117.475 149.225 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14163,7 +14163,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:B540C-13-F"
+		(property "Footprint" "B540C-13-F:B540C-13-F"
 			(at 117.602 160.782 0)
 			(effects
 				(font
@@ -14217,7 +14217,7 @@
 	)
 	(symbol
 		(lib_name "B540C-13-F_1")
-		(lib_id "CholaSymbolsPrjLib:B540C-13-F")
+		(lib_id "B540C-13-F:B540C-13-F")
 		(at 117.475 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14244,7 +14244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:B540C-13-F"
+		(property "Footprint" "B540C-13-F:B540C-13-F"
 			(at 117.602 40.767 0)
 			(effects
 				(font
@@ -14297,7 +14297,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 62.865 82.55 0)
 		(mirror y)
 		(unit 1)
@@ -14366,7 +14366,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 62.865 163.195 0)
 		(mirror y)
 		(unit 1)
@@ -14436,7 +14436,7 @@
 	)
 	(symbol
 		(lib_name "35CE47AX_2")
-		(lib_id "CholaSymbolsPrjLib:35CE47AX")
+		(lib_id "35CE47AX:35CE47AX")
 		(at 143.51 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14462,7 +14462,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:CAP_L6"
+		(property "Footprint" "CAP_L6:CAP_L6"
 			(at 146.558 92.71 0)
 			(effects
 				(font
@@ -14525,7 +14525,7 @@
 	)
 	(symbol
 		(lib_name "35CE47AX_1")
-		(lib_id "CholaSymbolsPrjLib:35CE47AX")
+		(lib_id "35CE47AX:35CE47AX")
 		(at 143.51 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14551,7 +14551,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:CAP_L6"
+		(property "Footprint" "CAP_L6:CAP_L6"
 			(at 146.558 53.34 0)
 			(effects
 				(font
@@ -14613,7 +14613,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 205.105 66.675 0)
 		(mirror x)
 		(unit 1)
@@ -14746,7 +14746,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 40.005 88.9 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14812,7 +14812,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:SLO0650H6R8MTT")
+		(lib_id "SLO0650H6R8MTT:SLO0650H6R8MTT")
 		(at 122.555 103.505 0)
 		(mirror x)
 		(unit 1)
@@ -14837,7 +14837,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:Choke"
+		(property "Footprint" "Choke:Choke"
 			(at 120.015 91.694 0)
 			(effects
 				(font
@@ -14966,7 +14966,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 131.445 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15101,7 +15101,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:AP7331-10WG-7")
+		(lib_id "AP7331-10WG-7:AP7331-10WG-7")
 		(at 235.585 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15125,7 +15125,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:AP7331-10WG.kicad_sym"
+		(property "Footprint" "AP7331-10WG.kicad_sym:AP7331-10WG.kicad_sym"
 			(at 244.475 77.47 0)
 			(effects
 				(font
@@ -15188,7 +15188,7 @@
 	)
 	(symbol
 		(lib_name "35CE47AX_7")
-		(lib_id "CholaSymbolsPrjLib:35CE47AX")
+		(lib_id "35CE47AX:35CE47AX")
 		(at 30.48 68.58 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15214,7 +15214,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:CAP_L6"
+		(property "Footprint" "CAP_L6:CAP_L6"
 			(at 33.528 87.63 0)
 			(effects
 				(font
@@ -15373,7 +15373,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:CA45-A-6_3V-47UF-K")
+		(lib_id "CA45-A-6_3V-47UF-K:CA45-A-6_3V-47UF-K")
 		(at 151.765 154.305 270)
 		(mirror x)
 		(unit 1)
@@ -15400,7 +15400,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:CAP_TANTAL_A"
+		(property "Footprint" "CAP_TANTAL_A:CAP_TANTAL_A"
 			(at 140.081 151.257 0)
 			(effects
 				(font
@@ -15462,7 +15462,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 62.865 169.545 0)
 		(mirror x)
 		(unit 1)
@@ -15529,7 +15529,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 51.435 169.545 0)
 		(mirror x)
 		(unit 1)
@@ -15596,7 +15596,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 213.36 66.04 0)
 		(mirror y)
 		(unit 1)
@@ -15665,7 +15665,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:CustomJumper")
+		(lib_id "CustomJumper:CustomJumper")
 		(at 161.29 61.214 0)
 		(unit 1)
 		(exclude_from_sim no)

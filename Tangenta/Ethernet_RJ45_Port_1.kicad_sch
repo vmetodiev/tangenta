@@ -5,7 +5,7 @@
 	(uuid "9d50134c-7506-46dc-b88b-e6729ae9e120")
 	(paper "A4")
 	(lib_symbols
-		(symbol "CholaSymbolsPrjLib:C_Small"
+		(symbol "C_Small:C_Small"
 			(pin_numbers
 				(hide yes)
 			)
@@ -145,7 +145,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:HY911130A"
+		(symbol "HY911130A:HY911130A"
 			(pin_names
 				(hide yes)
 			)
@@ -168,7 +168,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:RJ45_MAGJACK_HY911130A"
+			(property "Footprint" "RJ45_MAGJACK_HY911130A:RJ45_MAGJACK_HY911130A"
 				(at 8.89 -25.4 0)
 				(effects
 					(font
@@ -1916,7 +1916,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 124.46 70.485 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1982,7 +1982,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:HY911130A")
+		(lib_id "HY911130A:HY911130A")
 		(at 147.32 81.915 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2006,7 +2006,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:RJ45_MAGJACK_HY911130A"
+		(property "Footprint" "RJ45_MAGJACK_HY911130A:RJ45_MAGJACK_HY911130A"
 			(at 168.91 104.775 0)
 			(effects
 				(font

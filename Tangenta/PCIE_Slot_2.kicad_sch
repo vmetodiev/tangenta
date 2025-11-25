@@ -31,7 +31,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:CAP_TANTAL_A"
+			(property "Footprint" "CAP_TANTAL_A:CAP_TANTAL_A"
 				(at 3.048 -11.684 0)
 				(effects
 					(font
@@ -199,7 +199,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:1-2199230-5"
+		(symbol "1-2199230-5:1-2199230-5"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -221,7 +221,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:M2_Slot"
+			(property "Footprint" "M2_Slot:M2_Slot"
 				(at 95.25 -89.84 0)
 				(effects
 					(font
@@ -1577,7 +1577,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:CA45-A-6_3V-47UF-K"
+		(symbol "CA45-A-6_3V-47UF-K:CA45-A-6_3V-47UF-K"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1603,7 +1603,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:CAP_TANTAL_A"
+			(property "Footprint" "CAP_TANTAL_A:CAP_TANTAL_A"
 				(at 3.048 -11.684 0)
 				(effects
 					(font
@@ -1771,7 +1771,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:MountingHole"
+		(symbol "MountingHole:MountingHole"
 			(pin_names
 				(offset 1.016)
 			)
@@ -1854,7 +1854,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:R_Small_US"
+		(symbol "R_Small_US:R_Small_US"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1992,7 +1992,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:TestPoint_Small"
+		(symbol "TestPoint_Small:TestPoint_Small"
 			(pin_numbers
 				(hide yes)
 			)
@@ -3540,7 +3540,7 @@
 		(uuid "f1e6a2b7-ce62-4ed9-b327-1f07f7b2a66f")
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:MountingHole")
+		(lib_id "MountingHole:MountingHole")
 		(at 163.195 175.26 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3603,7 +3603,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:MountingHole")
+		(lib_id "MountingHole:MountingHole")
 		(at 163.195 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3666,7 +3666,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 161.29 48.26 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3734,7 +3734,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:1-2199230-5")
+		(lib_id "1-2199230-5:1-2199230-5")
 		(at 135.89 33.02 90)
 		(mirror x)
 		(unit 1)
@@ -3761,7 +3761,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:M2_Slot"
+		(property "Footprint" "M2_Slot:M2_Slot"
 			(at 225.73 128.27 0)
 			(effects
 				(font
@@ -4077,7 +4077,7 @@
 	)
 	(symbol
 		(lib_name "CA45-A-6_3V-47UF-K_1")
-		(lib_id "CholaSymbolsPrjLib:CA45-A-6_3V-47UF-K")
+		(lib_id "CA45-A-6_3V-47UF-K:CA45-A-6_3V-47UF-K")
 		(at 140.97 148.59 270)
 		(mirror x)
 		(unit 1)
@@ -4104,7 +4104,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:CAP_TANTAL_A"
+		(property "Footprint" "CAP_TANTAL_A:CAP_TANTAL_A"
 			(at 129.286 145.542 0)
 			(effects
 				(font
@@ -4166,7 +4166,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:MountingHole")
+		(lib_id "MountingHole:MountingHole")
 		(at 163.195 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4229,7 +4229,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 161.29 45.72 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4297,7 +4297,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 163.83 91.44 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4365,7 +4365,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:CA45-A-6_3V-47UF-K")
+		(lib_id "CA45-A-6_3V-47UF-K:CA45-A-6_3V-47UF-K")
 		(at 130.175 148.59 270)
 		(mirror x)
 		(unit 1)
@@ -4392,7 +4392,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:CAP_TANTAL_A"
+		(property "Footprint" "CAP_TANTAL_A:CAP_TANTAL_A"
 			(at 118.491 145.542 0)
 			(effects
 				(font
@@ -4454,7 +4454,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:TestPoint_Small")
+		(lib_id "TestPoint_Small:TestPoint_Small")
 		(at 113.03 114.3 0)
 		(mirror y)
 		(unit 1)
@@ -4521,7 +4521,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 163.83 88.9 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4589,7 +4589,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 34.29 45.72 270)
 		(unit 1)
 		(exclude_from_sim no)

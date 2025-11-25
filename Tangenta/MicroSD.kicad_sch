@@ -5,7 +5,7 @@
 	(uuid "84b542a1-c625-4d6c-bb3b-43e873448820")
 	(paper "A4")
 	(lib_symbols
-		(symbol "CholaSymbolsPrjLib:C_Small"
+		(symbol "C_Small:C_Small"
 			(pin_numbers
 				(hide yes)
 			)
@@ -145,7 +145,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:TF-115K"
+		(symbol "TF-115K:TF-115K"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -165,7 +165,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:MicroSD_Holder"
+			(property "Footprint" "MicroSD_Holder:MicroSD_Holder"
 				(at 1.27 -27.94 0)
 				(effects
 					(font
@@ -1569,7 +1569,7 @@
 		(uuid "fa0ce941-da45-49d7-869a-fd1dde1484b7")
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 166.37 120.015 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1771,7 +1771,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 176.53 120.015 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1837,7 +1837,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 176.53 132.08 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1903,7 +1903,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:TF-115K")
+		(lib_id "TF-115K:TF-115K")
 		(at 173.99 93.345 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1930,7 +1930,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:MicroSD_Holder"
+		(property "Footprint" "MicroSD_Holder:MicroSD_Holder"
 			(at 175.26 121.285 0)
 			(effects
 				(font
@@ -2016,7 +2016,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 186.69 132.08 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2082,7 +2082,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 166.37 132.08 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2148,7 +2148,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 186.69 120.015 180)
 		(unit 1)
 		(exclude_from_sim no)

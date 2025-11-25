@@ -5,7 +5,7 @@
 	(uuid "d8beacc4-1128-4907-a01a-517bba4cbfc6")
 	(paper "A4")
 	(lib_symbols
-		(symbol "CholaSymbolsPrjLib:2N7002"
+		(symbol "2N7002:2N7002"
 			(pin_names
 				(hide yes)
 			)
@@ -28,7 +28,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:NMOS_2N7002"
+			(property "Footprint" "NMOS_2N7002:NMOS_2N7002"
 				(at -8.763 -18.669 0)
 				(effects
 					(font
@@ -265,7 +265,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:74HC04D,653"
+		(symbol "74HC04D,653:74HC04D,653"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -285,7 +285,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:74HC04D"
+			(property "Footprint" "74HC04D:74HC04D"
 				(at 1.143 -16.891 0)
 				(effects
 					(font
@@ -599,7 +599,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:74HC74D,653"
+		(symbol "74HC74D,653:74HC74D,653"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -619,7 +619,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:74HC74D"
+			(property "Footprint" "74HC74D:74HC74D"
 				(at 1.397 -16.764 0)
 				(effects
 					(font
@@ -933,7 +933,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:CD4060SA_TR"
+		(symbol "CD4060SA_TR:CD4060SA_TR"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -953,7 +953,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:CD4060"
+			(property "Footprint" "CD4060:CD4060"
 				(at 0 -18.669 0)
 				(effects
 					(font
@@ -1314,7 +1314,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:C_Small"
+		(symbol "C_Small:C_Small"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1454,7 +1454,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:Conn_02x02_Top_Bottom"
+		(symbol "Conn_02x02_Top_Bottom:Conn_02x02_Top_Bottom"
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -1654,7 +1654,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:R_Small_US"
+		(symbol "R_Small_US:R_Small_US"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1792,7 +1792,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:TSC015A04818B"
+		(symbol "TSC015A04818B:TSC015A04818B"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1818,7 +1818,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:Tactile_BTN"
+			(property "Footprint" "Tactile_BTN:Tactile_BTN"
 				(at -3.429 -10.668 0)
 				(effects
 					(font
@@ -3569,7 +3569,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 68.58 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3770,7 +3770,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:74HC04D,653")
+		(lib_id "74HC04D,653:74HC04D,653")
 		(at 141.605 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3794,7 +3794,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:74HC04D"
+		(property "Footprint" "74HC04D:74HC04D"
 			(at 142.748 82.931 0)
 			(effects
 				(font
@@ -3883,7 +3883,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 215.265 121.285 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4147,7 +4147,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 142.24 82.55 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4345,7 +4345,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 168.275 116.205 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4411,7 +4411,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:TSC015A04818B")
+		(lib_id "TSC015A04818B:TSC015A04818B")
 		(at 60.833 111.125 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4438,7 +4438,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:Tactile_BTN"
+		(property "Footprint" "Tactile_BTN:Tactile_BTN"
 			(at 71.501 114.554 0)
 			(effects
 				(font
@@ -4491,7 +4491,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 215.265 82.55 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4557,7 +4557,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:74HC74D,653")
+		(lib_id "74HC74D,653:74HC74D,653")
 		(at 215.011 66.167 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4581,7 +4581,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:74HC74D"
+		(property "Footprint" "74HC74D:74HC74D"
 			(at 216.408 82.931 0)
 			(effects
 				(font
@@ -4670,7 +4670,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 103.505 83.82 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4738,7 +4738,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:Conn_02x02_Top_Bottom")
+		(lib_id "Conn_02x02_Top_Bottom:Conn_02x02_Top_Bottom")
 		(at 76.2 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4811,7 +4811,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:CD4060SA_TR")
+		(lib_id "CD4060SA_TR:CD4060SA_TR")
 		(at 141.605 109.855 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4835,7 +4835,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:CD4060"
+		(property "Footprint" "CD4060:CD4060"
 			(at 141.605 128.524 0)
 			(effects
 				(font
@@ -4930,7 +4930,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 237.49 109.855 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4998,7 +4998,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 86.36 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5067,7 +5067,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 69.215 111.125 0)
 		(mirror x)
 		(unit 1)
@@ -5134,7 +5134,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:2N7002")
+		(lib_id "2N7002:2N7002")
 		(at 224.155 121.285 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5160,7 +5160,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:NMOS_2N7002"
+		(property "Footprint" "NMOS_2N7002:NMOS_2N7002"
 			(at 215.392 139.954 0)
 			(effects
 				(font
@@ -5216,7 +5216,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 211.455 128.905 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5284,7 +5284,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 252.73 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5350,7 +5350,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 191.135 60.96 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5416,7 +5416,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 168.275 111.76 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5482,7 +5482,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 52.07 83.82 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5550,7 +5550,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 241.3 102.235 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5616,7 +5616,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:TSC015A04818B")
+		(lib_id "TSC015A04818B:TSC015A04818B")
 		(at 87.122 111.125 270)
 		(mirror x)
 		(unit 1)
@@ -5644,7 +5644,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:Tactile_BTN"
+		(property "Footprint" "Tactile_BTN:Tactile_BTN"
 			(at 76.454 114.554 0)
 			(effects
 				(font
@@ -5763,7 +5763,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 168.275 120.65 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5961,7 +5961,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 78.74 111.125 0)
 		(mirror x)
 		(unit 1)
@@ -6226,7 +6226,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:2N7002")
+		(lib_id "2N7002:2N7002")
 		(at 250.19 102.235 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6253,7 +6253,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:NMOS_2N7002"
+		(property "Footprint" "NMOS_2N7002:NMOS_2N7002"
 			(at 241.427 120.904 0)
 			(effects
 				(font
@@ -6309,7 +6309,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 142.24 127.635 90)
 		(unit 1)
 		(exclude_from_sim no)

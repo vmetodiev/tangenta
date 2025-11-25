@@ -5,7 +5,7 @@
 	(uuid "11fe86e6-8973-40cf-8486-c936348635e8")
 	(paper "A4")
 	(lib_symbols
-		(symbol "CholaSymbolsPrjLib:C_Small"
+		(symbol "C_Small:C_Small"
 			(pin_numbers
 				(hide yes)
 			)
@@ -145,7 +145,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:M24C64-RMN6TP"
+		(symbol "M24C64-RMN6TP:M24C64-RMN6TP"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -165,7 +165,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:CMOS_EEPROM"
+			(property "Footprint" "CMOS_EEPROM:CMOS_EEPROM"
 				(at 5.588 -15.748 0)
 				(effects
 					(font
@@ -371,7 +371,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:R_Small_US"
+		(symbol "R_Small_US:R_Small_US"
 			(pin_numbers
 				(hide yes)
 			)
@@ -529,7 +529,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:CMOS_EEPROM"
+			(property "Footprint" "CMOS_EEPROM:CMOS_EEPROM"
 				(at 5.588 -15.748 0)
 				(effects
 					(font
@@ -1690,7 +1690,7 @@
 		(uuid "71c345c9-6c55-4453-b768-63f5d1d2968b")
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 145.415 87.63 0)
 		(mirror x)
 		(unit 1)
@@ -1759,7 +1759,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 167.64 95.885 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1825,7 +1825,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 186.69 95.885 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1891,7 +1891,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 145.415 48.26 0)
 		(mirror x)
 		(unit 1)
@@ -1960,7 +1960,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 177.165 95.885 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2094,7 +2094,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 167.64 56.515 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2228,7 +2228,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 154.305 87.63 0)
 		(mirror x)
 		(unit 1)
@@ -2365,7 +2365,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 154.305 48.26 0)
 		(mirror x)
 		(unit 1)
@@ -2502,7 +2502,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 177.165 56.515 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2568,7 +2568,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:M24C64-RMN6TP")
+		(lib_id "M24C64-RMN6TP:M24C64-RMN6TP")
 		(at 130.175 95.885 0)
 		(mirror y)
 		(unit 1)
@@ -2593,7 +2593,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:CMOS_EEPROM"
+		(property "Footprint" "CMOS_EEPROM:CMOS_EEPROM"
 			(at 124.587 111.633 0)
 			(effects
 				(font
@@ -2664,7 +2664,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 186.69 56.515 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2731,7 +2731,7 @@
 	)
 	(symbol
 		(lib_name "M24C64-RMN6TP_1")
-		(lib_id "CholaSymbolsPrjLib:M24C64-RMN6TP")
+		(lib_id "M24C64-RMN6TP:M24C64-RMN6TP")
 		(at 130.175 56.515 0)
 		(mirror y)
 		(unit 1)
@@ -2756,7 +2756,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:CMOS_EEPROM"
+		(property "Footprint" "CMOS_EEPROM:CMOS_EEPROM"
 			(at 124.587 72.263 0)
 			(effects
 				(font

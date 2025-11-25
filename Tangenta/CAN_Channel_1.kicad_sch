@@ -5,7 +5,7 @@
 	(uuid "18ff58b4-95f5-4b55-93eb-a7e9c6e9a0e6")
 	(paper "A4")
 	(lib_symbols
-		(symbol "CholaSymbolsPrjLib:ADM3053"
+		(symbol "ADM3053:ADM3053"
 			(pin_names
 				(offset 1.016)
 			)
@@ -669,7 +669,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:BSS138"
+		(symbol "BSS138:BSS138"
 			(pin_names
 				(hide yes)
 			)
@@ -967,7 +967,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:C_Small"
+		(symbol "C_Small:C_Small"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1107,7 +1107,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:Conn_01x02_Pin"
+		(symbol "Conn_01x02_Pin:Conn_01x02_Pin"
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -1270,7 +1270,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:GZ2012D101TF"
+		(symbol "GZ2012D101TF:GZ2012D101TF"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1297,7 +1297,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:Ferrite_Bead_100"
+			(property "Footprint" "Ferrite_Bead_100:Ferrite_Bead_100"
 				(at 12.573 -10.033 0)
 				(effects
 					(font
@@ -1398,7 +1398,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CholaSymbolsPrjLib:R_Small_US"
+		(symbol "R_Small_US:R_Small_US"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1563,7 +1563,7 @@
 					)
 				)
 			)
-			(property "Footprint" "CholaFootprintsPrjLib:Ferrite_Bead_100"
+			(property "Footprint" "Ferrite_Bead_100:Ferrite_Bead_100"
 				(at 12.573 -10.033 0)
 				(effects
 					(font
@@ -3515,7 +3515,7 @@
 		(uuid "dcfa5ee4-c0de-4ff5-a2dc-143a75d198ed")
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:GZ2012D101TF")
+		(lib_id "GZ2012D101TF:GZ2012D101TF")
 		(at 168.91 140.97 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3540,7 +3540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:Ferrite_Bead_100"
+		(property "Footprint" "Ferrite_Bead_100:Ferrite_Bead_100"
 			(at 181.483 151.003 0)
 			(effects
 				(font
@@ -3593,7 +3593,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 132.08 116.84 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3725,7 +3725,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 159.385 135.89 0)
 		(mirror x)
 		(unit 1)
@@ -3792,7 +3792,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 124.46 116.84 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3858,7 +3858,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 132.08 135.89 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3924,7 +3924,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:BSS138")
+		(lib_id "BSS138:BSS138")
 		(at 66.04 117.475 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3996,7 +3996,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 186.69 69.85 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4064,7 +4064,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 141.605 116.84 0)
 		(mirror x)
 		(unit 1)
@@ -4131,7 +4131,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 160.655 116.84 0)
 		(mirror x)
 		(unit 1)
@@ -4264,7 +4264,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:Conn_01x02_Pin")
+		(lib_id "Conn_01x02_Pin:Conn_01x02_Pin")
 		(at 139.065 153.67 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4333,7 +4333,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:BSS138")
+		(lib_id "BSS138:BSS138")
 		(at 66.04 138.43 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4471,7 +4471,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 124.46 135.89 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4537,7 +4537,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 80.01 134.62 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4671,7 +4671,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 186.69 77.47 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4739,7 +4739,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 53.34 134.62 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4807,7 +4807,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 178.435 135.89 0)
 		(mirror x)
 		(unit 1)
@@ -4940,7 +4940,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 80.01 113.665 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5008,7 +5008,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 193.675 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5074,7 +5074,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:ADM3053")
+		(lib_id "ADM3053:ADM3053")
 		(at 137.16 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5195,7 +5195,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CholaSymbolsPrjLib:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 53.34 113.665 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5264,7 +5264,7 @@
 	)
 	(symbol
 		(lib_name "GZ2012D101TF_1")
-		(lib_id "CholaSymbolsPrjLib:GZ2012D101TF")
+		(lib_id "GZ2012D101TF:GZ2012D101TF")
 		(at 168.91 130.81 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5289,7 +5289,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CholaFootprintsPrjLib:Ferrite_Bead_100"
+		(property "Footprint" "Ferrite_Bead_100:Ferrite_Bead_100"
 			(at 181.483 140.843 0)
 			(effects
 				(font
