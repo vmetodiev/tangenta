@@ -5,267 +5,7 @@
 	(uuid "d8beacc4-1128-4907-a01a-517bba4cbfc6")
 	(paper "A4")
 	(lib_symbols
-		(symbol "2N7002:2N7002"
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "Q"
-				(at -1.651 1.397 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "2N7002"
-				(at 7.493 0.254 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "NMOS_2N7002:NMOS_2N7002"
-				(at -8.763 -18.669 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.diodes.com/assets/Package-Files/SOT23.pdf"
-				(at -23.114 -16.129 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "LCSC" "C8545"
-				(at -20.066 -13.716 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "C8545"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "2N7002_0_1"
-				(polyline
-					(pts
-						(xy -2.54 0) (xy -0.508 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.508 2.286) (xy -0.508 -2.286)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.286) (xy 0 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.778) (xy 2.54 1.778) (xy 2.54 2.54) (xy 5.08 2.54) (xy 5.08 0.508)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 1.524 -0.508) (xy 1.524 0.508) (xy 0 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 2.54 0) (xy 2.54 -2.54) (xy 5.08 -2.54) (xy 5.08 -0.762)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -0.508) (xy 0 0.508)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.286) (xy 0 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -1.778) (xy 0 -1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 0.508) (xy 4.318 -0.762) (xy 5.842 -0.762) (xy 5.08 0.508)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy 6.096 0.508) (xy 5.588 0.508) (xy 4.572 0.508) (xy 4.064 0.508)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin unspecified line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "G"
-						(effects
-							(font
-								(size 1 1)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1 1)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 2.54 5.08 270)
-					(length 2.54)
-					(name "D"
-						(effects
-							(font
-								(size 1 1)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1 1)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 2.54 -5.08 90)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 1 1)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1 1)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "74HC04D,653:74HC04D,653"
+		(symbol "74HC04D:74HC04D,653"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -599,7 +339,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "74HC74D,653:74HC74D,653"
+		(symbol "74HC74D:74HC74D,653"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -933,7 +673,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "CD4060SA_TR:CD4060SA_TR"
+		(symbol "CD4060:CD4060SA_TR"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1314,147 +1054,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "C_Small:C_Small"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0.254)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at 0.254 1.778 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "C_Small"
-				(at 0.254 -2.032 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Unpolarized capacitor, small symbol"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "capacitor cap"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "C_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "C_Small_0_1"
-				(polyline
-					(pts
-						(xy -1.524 0.508) (xy 1.524 0.508)
-					)
-					(stroke
-						(width 0.3048)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.524 -0.508) (xy 1.524 -0.508)
-					)
-					(stroke
-						(width 0.3302)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "C_Small_1_1"
-				(pin passive line
-					(at 0 2.54 270)
-					(length 2.032)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 90)
-					(length 2.032)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Conn_02x02_Top_Bottom:Conn_02x02_Top_Bottom"
+		(symbol "Connector_Generic:Conn_02x02_Top_Bottom"
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -1654,7 +1254,147 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "R_Small_US:R_Small_US"
+		(symbol "Device:C_Small"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0.254 1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C_Small"
+				(at 0.254 -2.032 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Unpolarized capacitor, small symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "capacitor cap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "C_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C_Small_0_1"
+				(polyline
+					(pts
+						(xy -1.524 0.508) (xy 1.524 0.508)
+					)
+					(stroke
+						(width 0.3048)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 -0.508) (xy 1.524 -0.508)
+					)
+					(stroke
+						(width 0.3302)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_Small_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 2.032)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 2.032)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:R_Small_US"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1792,7 +1532,267 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "TSC015A04818B:TSC015A04818B"
+		(symbol "NMOS_2N7002:2N7002"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at -1.651 1.397 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "2N7002"
+				(at 7.493 0.254 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "NMOS_2N7002:NMOS_2N7002"
+				(at -8.763 -18.669 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.diodes.com/assets/Package-Files/SOT23.pdf"
+				(at -23.114 -16.129 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C8545"
+				(at -20.066 -13.716 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "C8545"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "2N7002_0_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 2.286) (xy -0.508 -2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.286) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.778) (xy 2.54 1.778) (xy 2.54 2.54) (xy 5.08 2.54) (xy 5.08 0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 1.524 -0.508) (xy 1.524 0.508) (xy 0 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 2.54 0) (xy 2.54 -2.54) (xy 5.08 -2.54) (xy 5.08 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -0.508) (xy 0 0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.286) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -1.778) (xy 0 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 0.508) (xy 4.318 -0.762) (xy 5.842 -0.762) (xy 5.08 0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.096 0.508) (xy 5.588 0.508) (xy 4.572 0.508) (xy 4.064 0.508)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "G"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Tactile_BTN:TSC015A04818B"
 			(pin_numbers
 				(hide yes)
 			)
@@ -3569,7 +3569,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 68.58 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3770,7 +3770,7 @@
 		)
 	)
 	(symbol
-		(lib_id "74HC04D,653:74HC04D,653")
+		(lib_id "74HC04D:74HC04D,653")
 		(at 141.605 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3883,7 +3883,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 215.265 121.285 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4147,7 +4147,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 142.24 82.55 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4345,7 +4345,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 168.275 116.205 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4411,7 +4411,7 @@
 		)
 	)
 	(symbol
-		(lib_id "TSC015A04818B:TSC015A04818B")
+		(lib_id "Tactile_BTN:TSC015A04818B")
 		(at 60.833 111.125 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4491,7 +4491,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 215.265 82.55 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4557,7 +4557,7 @@
 		)
 	)
 	(symbol
-		(lib_id "74HC74D,653:74HC74D,653")
+		(lib_id "74HC74D:74HC74D,653")
 		(at 215.011 66.167 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4670,7 +4670,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 103.505 83.82 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4738,7 +4738,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Conn_02x02_Top_Bottom:Conn_02x02_Top_Bottom")
+		(lib_id "Connector_Generic:Conn_02x02_Top_Bottom")
 		(at 76.2 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4811,7 +4811,7 @@
 		)
 	)
 	(symbol
-		(lib_id "CD4060SA_TR:CD4060SA_TR")
+		(lib_id "CD4060:CD4060SA_TR")
 		(at 141.605 109.855 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4930,7 +4930,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 237.49 109.855 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4998,7 +4998,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 86.36 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5067,7 +5067,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 69.215 111.125 0)
 		(mirror x)
 		(unit 1)
@@ -5134,7 +5134,7 @@
 		)
 	)
 	(symbol
-		(lib_id "2N7002:2N7002")
+		(lib_id "NMOS_2N7002:2N7002")
 		(at 224.155 121.285 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5216,7 +5216,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 211.455 128.905 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5284,7 +5284,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 252.73 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5350,7 +5350,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 191.135 60.96 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5416,7 +5416,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 168.275 111.76 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5482,7 +5482,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 52.07 83.82 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5550,7 +5550,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 241.3 102.235 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5616,7 +5616,7 @@
 		)
 	)
 	(symbol
-		(lib_id "TSC015A04818B:TSC015A04818B")
+		(lib_id "Tactile_BTN:TSC015A04818B")
 		(at 87.122 111.125 270)
 		(mirror x)
 		(unit 1)
@@ -5763,7 +5763,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 168.275 120.65 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5961,7 +5961,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 78.74 111.125 0)
 		(mirror x)
 		(unit 1)
@@ -6226,7 +6226,7 @@
 		)
 	)
 	(symbol
-		(lib_id "2N7002:2N7002")
+		(lib_id "NMOS_2N7002:2N7002")
 		(at 250.19 102.235 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6309,7 +6309,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 142.24 127.635 90)
 		(unit 1)
 		(exclude_from_sim no)

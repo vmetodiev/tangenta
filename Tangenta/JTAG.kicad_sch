@@ -5,7 +5,7 @@
 	(uuid "4cf313c1-6d25-4e57-8b0c-e3929ac51847")
 	(paper "A4")
 	(lib_symbols
-		(symbol "Conn_02x05_Odd_Even:Conn_02x05_Odd_Even"
+		(symbol "Connector_Generic:Conn_02x05_Odd_Even"
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -941,7 +941,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Conn_02x05_Odd_Even:Conn_02x05_Odd_Even")
+		(lib_id "Connector_Generic:Conn_02x05_Odd_Even")
 		(at 167.005 81.28 0)
 		(mirror y)
 		(unit 1)

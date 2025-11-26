@@ -5,179 +5,7 @@
 	(uuid "ed66e780-316c-46d2-abe0-7bf93776504b")
 	(paper "A4")
 	(lib_symbols
-		(symbol "16CE47FSS:16CE47FSS"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "C"
-				(at -3.048 -0.254 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "16CE47FSS"
-				(at -2.794 -10.922 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "CAP_L5:CAP_L5"
-				(at -1.27 -17.78 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://item.szlcsc.com/245725.html"
-				(at -8.382 -15.494 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "LCSC" "C242026"
-				(at -4.064 -13.208 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Capacitance" "47uF"
-				(at 4.572 -0.254 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "C242026"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "16CE47FSS_0_1"
-				(polyline
-					(pts
-						(xy -1.524 0.508) (xy 1.524 0.508)
-					)
-					(stroke
-						(width 0.3048)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 1.524) (xy -0.762 1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.016 1.27) (xy -1.016 1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -1.524 -0.762)
-					(mid 0 -0.3734)
-					(end 1.524 -0.762)
-					(stroke
-						(width 0.3048)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "16CE47FSS_1_1"
-				(pin passive line
-					(at 0 2.54 270)
-					(length 2.032)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 90)
-					(length 2.032)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "ADM2582E:ADM2582E"
+		(symbol "ADM2582EBRWZ:ADM2582E"
 			(pin_names
 				(offset 1.016)
 			)
@@ -1672,44 +1500,44 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "BSS138:BSS138"
+		(symbol "CAP_L5:16CE47FSS"
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "Q"
-				(at 5.08 1.905 0)
+			(property "Reference" "C"
+				(at -3.048 -0.254 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
-			(property "Value" "BSS138"
-				(at 5.08 0 0)
+			(property "Value" "16CE47FSS"
+				(at -2.794 -10.922 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
-			(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-				(at 5.08 -1.905 0)
+			(property "Footprint" "CAP_L5:CAP_L5"
+				(at -1.27 -17.78 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 						(italic yes)
 					)
-					(justify left)
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF"
-				(at 0 0 0)
+			(property "Datasheet" "https://item.szlcsc.com/245725.html"
+				(at -8.382 -15.494 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1718,7 +1546,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23"
+			(property "Description" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -1727,7 +1555,25 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "N-Channel MOSFET"
+			(property "LCSC" "C242026"
+				(at -4.064 -13.208 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Capacitance" "47uF"
+				(at 4.572 -0.254 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "C242026"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1736,22 +1582,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "SOT?23*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "BSS138_0_1"
+			(symbol "16CE47FSS_0_1"
 				(polyline
 					(pts
-						(xy 0.254 1.905) (xy 0.254 -1.905)
+						(xy -1.524 0.508) (xy 1.524 0.508)
 					)
 					(stroke
-						(width 0.254)
+						(width 0.3048)
 						(type default)
 					)
 					(fill
@@ -1760,7 +1597,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0.254 0) (xy -2.54 0)
+						(xy -1.27 1.524) (xy -0.762 1.524)
 					)
 					(stroke
 						(width 0)
@@ -1772,43 +1609,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0.762 2.286) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 0.508) (xy 0.762 -0.508)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -1.27) (xy 0.762 -2.286)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -1.778) (xy 3.302 -1.778) (xy 3.302 1.778) (xy 0.762 1.778)
+						(xy -1.016 1.27) (xy -1.016 1.778)
 					)
 					(stroke
 						(width 0)
@@ -1818,93 +1619,12 @@
 						(type none)
 					)
 				)
-				(polyline
-					(pts
-						(xy 1.016 0) (xy 2.032 0.381) (xy 2.032 -0.381) (xy 1.016 0)
-					)
+				(arc
+					(start -1.524 -0.762)
+					(mid 0 -0.3734)
+					(end 1.524 -0.762)
 					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 1.651 0)
-					(radius 2.794)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 2.54) (xy 2.54 1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.54 1.778)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 2.54 -1.778)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy 2.54 0) (xy 0.762 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.794 0.508) (xy 2.921 0.381) (xy 3.683 0.381) (xy 3.81 0.254)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.302 0.381) (xy 2.921 -0.254) (xy 3.683 -0.254) (xy 3.302 0.381)
-					)
-					(stroke
-						(width 0)
+						(width 0.3048)
 						(type default)
 					)
 					(fill
@@ -1912,11 +1632,11 @@
 					)
 				)
 			)
-			(symbol "BSS138_1_1"
-				(pin input line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "G"
+			(symbol "16CE47FSS_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 2.032)
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1932,27 +1652,9 @@
 					)
 				)
 				(pin passive line
-					(at 2.54 5.08 270)
-					(length 2.54)
-					(name "D"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 -5.08 90)
-					(length 2.54)
-					(name "S"
+					(at 0 -2.54 90)
+					(length 2.032)
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1970,7 +1672,170 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "C_Small:C_Small"
+		(symbol "Connector_Generic:Conn_01x02"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x02_Pin"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x02, script generated"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x02_1_1"
+				(rectangle
+					(start 0.8636 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0.8636 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 0.8636 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:C_Small"
 			(pin_numbers
 				(hide yes)
 			)
@@ -2110,170 +1975,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Conn_01x02_Pin:Conn_01x02_Pin"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x02_Pin"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x02, script generated"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x02_Pin_1_1"
-				(rectangle
-					(start 0.8636 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start 0.8636 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 0.8636 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -2.54) (xy 0.8636 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "R_Small_US:R_Small_US"
+		(symbol "Device:R_Small_US"
 			(pin_numbers
 				(hide yes)
 			)
@@ -2411,7 +2113,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "TPCDSOT23-SM712:TPCDSOT23-SM712"
+		(symbol "ESD_RS485:TPCDSOT23-SM712"
 			(pin_names
 				(hide yes)
 			)
@@ -3016,6 +2718,304 @@
 						(effects
 							(font
 								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Transistor_FET:BSS138"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "Q"
+				(at 5.08 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "BSS138"
+				(at 5.08 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+				(at 5.08 -1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "N-Channel MOSFET"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOT?23*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "BSS138_0_1"
+				(polyline
+					(pts
+						(xy 0.254 1.905) (xy 0.254 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 2.286) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 0.508) (xy 0.762 -0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.27) (xy 0.762 -2.286)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.778) (xy 3.302 -1.778) (xy 3.302 1.778) (xy 0.762 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 0) (xy 2.032 0.381) (xy 2.032 -0.381) (xy 1.016 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 1.651 0)
+					(radius 2.794)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy 2.54 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 2.54 -1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 2.54 0) (xy 0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.794 0.508) (xy 2.921 0.381) (xy 3.683 0.381) (xy 3.81 0.254)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 0.381) (xy 2.921 -0.254) (xy 3.683 -0.254) (xy 3.302 0.381)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "BSS138_1_1"
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
 							)
 						)
 					)
@@ -5881,7 +5881,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 137.795 40.64 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5949,7 +5949,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 206.375 75.565 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6017,7 +6017,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 250.825 80.645 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6083,7 +6083,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 137.795 82.55 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6151,7 +6151,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 206.375 91.44 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6219,7 +6219,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 213.36 79.375 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6285,7 +6285,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 266.7 36.195 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6351,7 +6351,7 @@
 		)
 	)
 	(symbol
-		(lib_id "BSS138:BSS138")
+		(lib_id "Transistor_FET:BSS138")
 		(at 123.825 65.405 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6423,7 +6423,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 206.375 99.06 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6491,7 +6491,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 259.08 86.995 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6557,7 +6557,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 266.7 57.785 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6689,7 +6689,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 206.375 83.185 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6757,7 +6757,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 259.08 36.195 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6889,7 +6889,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 137.795 61.595 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6957,7 +6957,7 @@
 		)
 	)
 	(symbol
-		(lib_id "BSS138:BSS138")
+		(lib_id "Transistor_FET:BSS138")
 		(at 123.825 44.45 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7029,7 +7029,7 @@
 		)
 	)
 	(symbol
-		(lib_id "16CE47FSS:16CE47FSS")
+		(lib_id "CAP_L5:16CE47FSS")
 		(at 48.26 47.625 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7117,7 +7117,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 111.125 82.55 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7185,7 +7185,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 111.125 103.505 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7253,7 +7253,7 @@
 		)
 	)
 	(symbol
-		(lib_id "TPCDSOT23-SM712:TPCDSOT23-SM712")
+		(lib_id "ESD_RS485:TPCDSOT23-SM712")
 		(at 216.916 127.635 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7335,7 +7335,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 111.125 40.64 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7403,7 +7403,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 274.32 57.785 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7535,7 +7535,7 @@
 		)
 	)
 	(symbol
-		(lib_id "BSS138:BSS138")
+		(lib_id "Transistor_FET:BSS138")
 		(at 123.825 86.36 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7607,7 +7607,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ADM2582E:ADM2582E")
+		(lib_id "ADM2582EBRWZ:ADM2582E")
 		(at 210.185 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7727,7 +7727,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 137.795 103.505 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7795,7 +7795,7 @@
 		)
 	)
 	(symbol
-		(lib_id "BSS138:BSS138")
+		(lib_id "Transistor_FET:BSS138")
 		(at 123.825 107.315 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7867,7 +7867,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 274.32 36.195 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7933,7 +7933,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 111.125 61.595 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8001,7 +8001,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 250.825 93.98 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8067,7 +8067,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Conn_01x02_Pin:Conn_01x02_Pin")
+		(lib_id "Connector_Generic:Conn_01x02")
 		(at 198.12 154.94 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8136,7 +8136,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 213.36 95.25 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8203,7 +8203,7 @@
 	)
 	(symbol
 		(lib_name "TPCDSOT23-SM712_1")
-		(lib_id "TPCDSOT23-SM712:TPCDSOT23-SM712")
+		(lib_id "ESD_RS485:TPCDSOT23-SM712")
 		(at 216.916 111.125 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8286,7 +8286,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 259.08 57.785 180)
 		(unit 1)
 		(exclude_from_sim no)

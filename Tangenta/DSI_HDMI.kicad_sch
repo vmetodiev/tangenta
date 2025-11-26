@@ -5,6 +5,174 @@
 	(uuid "5987c9a4-abf4-46b3-999e-460ad1216741")
 	(paper "A3")
 	(lib_symbols
+		(symbol "25MHZ_OSCILLATOR:OT322525MJBA4SL"
+			(pin_numbers
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "OSC"
+				(at 0 5.461 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "OT322525MJBA4SL"
+				(at 0 -5.588 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "25MHZ_OSCILLATOR:25MHZ_OSCILLATOR"
+				(at 1.524 -12.065 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://item.szlcsc.com/15866.html"
+				(at -17.018 -10.033 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C669088"
+				(at -12.573 -8.128 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "C669088"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "OT322525MJBA4SL_0_1"
+				(rectangle
+					(start -16.51 3.81)
+					(end 16.51 -3.81)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(circle
+					(center -15.24 2.54)
+					(radius 0.381)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -19.05 1.27 0)
+					(length 2.54)
+					(name "Enable/Disable"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -19.05 -1.27 0)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 19.05 1.27 180)
+					(length 2.54)
+					(name "VDD"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 19.05 -1.27 180)
+					(length 2.54)
+					(name "OUT"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "B540C-13-F:B540C-13-F"
 			(pin_numbers
 				(hide yes)
@@ -142,305 +310,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "BSS138:BSS138"
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "Q"
-				(at 5.08 1.905 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "BSS138"
-				(at 5.08 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-				(at 5.08 -1.905 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Description" "50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "N-Channel MOSFET"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SOT?23*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "BSS138_0_1"
-				(polyline
-					(pts
-						(xy 0.254 1.905) (xy 0.254 -1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.254 0) (xy -2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 2.286) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 0.508) (xy 0.762 -0.508)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -1.27) (xy 0.762 -2.286)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -1.778) (xy 3.302 -1.778) (xy 3.302 1.778) (xy 0.762 1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.016 0) (xy 2.032 0.381) (xy 2.032 -0.381) (xy 1.016 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 1.651 0)
-					(radius 2.794)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 2.54) (xy 2.54 1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.54 1.778)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 2.54 -1.778)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy 2.54 0) (xy 0.762 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.794 0.508) (xy 2.921 0.381) (xy 3.683 0.381) (xy 3.81 0.254)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.302 0.381) (xy 2.921 -0.254) (xy 3.683 -0.254) (xy 3.302 0.381)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "BSS138_1_1"
-				(pin input line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "G"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 5.08 270)
-					(length 2.54)
-					(name "D"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 -5.08 90)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "C_Small:C_Small"
+		(symbol "Device:C_Small"
 			(pin_numbers
 				(hide yes)
 			)
@@ -580,7 +450,145 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "GZ2012D101TF:GZ2012D101TF"
+		(symbol "Device:R_Small_US"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0.762 0.508 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "R_Small_US"
+				(at 0.762 -1.016 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor, small US symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "r resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_Small_US_1_1"
+				(polyline
+					(pts
+						(xy 0 1.524) (xy 1.016 1.143) (xy 0 0.762) (xy -1.016 0.381) (xy 0 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 1.016 -0.381) (xy 0 -0.762) (xy -1.016 -1.143) (xy 0 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 2.54 270)
+					(length 1.016)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 1.016)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Ferrite_Bead_100:GZ2012D101TF"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1604,7 +1612,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "HDMI_19PIN_043:HDMI_19PIN_043"
+		(symbol "HDMI_CONNECTOR:HDMI_19PIN_043"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -5855,41 +5863,44 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "OT322525MJBA4SL:OT322525MJBA4SL"
-			(pin_numbers
+		(symbol "Transistor_FET:BSS138"
+			(pin_names
 				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "OSC"
-				(at 0 5.461 0)
+			(property "Reference" "Q"
+				(at 5.08 1.905 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
-			(property "Value" "OT322525MJBA4SL"
-				(at 0 -5.588 0)
+			(property "Value" "BSS138"
+				(at 5.08 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
-			(property "Footprint" "25MHZ_OSCILLATOR:25MHZ_OSCILLATOR"
-				(at 1.524 -12.065 0)
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+				(at 5.08 -1.905 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 						(italic yes)
 					)
+					(justify left)
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://item.szlcsc.com/15866.html"
-				(at -17.018 -10.033 0)
+			(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -5898,7 +5909,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5907,16 +5918,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC" "C669088"
-				(at -12.573 -8.128 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "C669088"
+			(property "ki_keywords" "N-Channel MOSFET"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5925,225 +5927,223 @@
 					(hide yes)
 				)
 			)
-			(symbol "OT322525MJBA4SL_0_1"
-				(rectangle
-					(start -16.51 3.81)
-					(end 16.51 -3.81)
+			(property "ki_fp_filters" "SOT?23*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "BSS138_0_1"
+				(polyline
+					(pts
+						(xy 0.254 1.905) (xy 0.254 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 0) (xy -2.54 0)
+					)
 					(stroke
 						(width 0)
 						(type default)
 					)
 					(fill
-						(type background)
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 2.286) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 0.508) (xy 0.762 -0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.27) (xy 0.762 -2.286)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.778) (xy 3.302 -1.778) (xy 3.302 1.778) (xy 0.762 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 0) (xy 2.032 0.381) (xy 2.032 -0.381) (xy 1.016 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
 					)
 				)
 				(circle
-					(center -15.24 2.54)
-					(radius 0.381)
+					(center 1.651 0)
+					(radius 2.794)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy 2.54 1.778)
+					)
 					(stroke
 						(width 0)
 						(type default)
 					)
 					(fill
-						(type background)
+						(type none)
 					)
 				)
-				(pin unspecified line
-					(at -19.05 1.27 0)
+				(circle
+					(center 2.54 1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 2.54 -1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 2.54 0) (xy 0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.794 0.508) (xy 2.921 0.381) (xy 3.683 0.381) (xy 3.81 0.254)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 0.381) (xy 2.921 -0.254) (xy 3.683 -0.254) (xy 3.302 0.381)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "BSS138_1_1"
+				(pin input line
+					(at -5.08 0 0)
 					(length 2.54)
-					(name "Enable/Disable"
+					(name "G"
 						(effects
 							(font
-								(size 1 1)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "1"
 						(effects
 							(font
-								(size 1 1)
+								(size 1.27 1.27)
 							)
 						)
 					)
 				)
-				(pin unspecified line
-					(at -19.05 -1.27 0)
+				(pin passive line
+					(at 2.54 5.08 270)
 					(length 2.54)
-					(name "GND"
+					(name "D"
 						(effects
 							(font
-								(size 1 1)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1 1)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 19.05 1.27 180)
-					(length 2.54)
-					(name "VDD"
-						(effects
-							(font
-								(size 1 1)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1 1)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 19.05 -1.27 180)
-					(length 2.54)
-					(name "OUT"
-						(effects
-							(font
-								(size 1 1)
+								(size 1.27 1.27)
 							)
 						)
 					)
 					(number "3"
 						(effects
 							(font
-								(size 1 1)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "R_Small_US:R_Small_US"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0.254)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 0.762 0.508 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "R_Small_US"
-				(at 0.762 -1.016 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Resistor, small US symbol"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "r resistor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "R_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "R_Small_US_1_1"
-				(polyline
-					(pts
-						(xy 0 1.524) (xy 1.016 1.143) (xy 0 0.762) (xy -1.016 0.381) (xy 0 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 1.016 -0.381) (xy 0 -0.762) (xy -1.016 -1.143) (xy 0 -1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 0 2.54 270)
-					(length 1.016)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
 				)
 				(pin passive line
-					(at 0 -2.54 90)
-					(length 1.016)
-					(name "~"
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "S"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -10692,7 +10692,7 @@
 		(uuid "df8cac10-2e7c-4613-81ea-6b48b776e503")
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 295.91 53.34 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10758,7 +10758,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 46.99 254 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10824,7 +10824,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 124.46 254 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11157,7 +11157,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 62.23 254 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11223,7 +11223,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 68.58 142.24 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11291,7 +11291,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 109.22 254 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11357,7 +11357,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 116.84 238.76 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11690,7 +11690,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 116.84 223.52 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11757,7 +11757,7 @@
 	)
 	(symbol
 		(lib_name "GZ2012D101TF_7")
-		(lib_id "GZ2012D101TF:GZ2012D101TF")
+		(lib_id "Ferrite_Bead_100:GZ2012D101TF")
 		(at 94.615 233.68 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11835,7 +11835,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 54.61 254 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11901,7 +11901,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 53.34 173.99 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11967,7 +11967,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 40.64 173.99 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12033,7 +12033,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 46.99 238.76 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12099,7 +12099,7 @@
 		)
 	)
 	(symbol
-		(lib_id "HDMI_19PIN_043:HDMI_19PIN_043")
+		(lib_id "HDMI_CONNECTOR:HDMI_19PIN_043")
 		(at 368.3 214.63 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12232,7 +12232,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 73.66 273.05 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12379,7 +12379,7 @@
 	)
 	(symbol
 		(lib_name "GZ2012D101TF_3")
-		(lib_id "GZ2012D101TF:GZ2012D101TF")
+		(lib_id "Ferrite_Bead_100:GZ2012D101TF")
 		(at 32.385 233.68 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12457,7 +12457,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 41.91 142.24 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12525,7 +12525,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 46.99 173.99 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12591,7 +12591,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 217.17 54.61 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12659,7 +12659,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 124.46 223.52 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12725,7 +12725,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 109.22 238.76 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12791,7 +12791,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 124.46 238.76 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12857,7 +12857,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 41.91 116.84 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12925,7 +12925,7 @@
 		)
 	)
 	(symbol
-		(lib_id "GZ2012D101TF:GZ2012D101TF")
+		(lib_id "Ferrite_Bead_100:GZ2012D101TF")
 		(at 94.615 248.92 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13003,7 +13003,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 46.99 223.52 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13069,7 +13069,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 54.61 238.76 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13402,7 +13402,7 @@
 	)
 	(symbol
 		(lib_name "GZ2012D101TF_6")
-		(lib_id "GZ2012D101TF:GZ2012D101TF")
+		(lib_id "Ferrite_Bead_100:GZ2012D101TF")
 		(at 94.615 218.44 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13480,7 +13480,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 116.84 254 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13546,7 +13546,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 88.9 273.05 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13612,7 +13612,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 109.22 223.52 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13679,7 +13679,7 @@
 	)
 	(symbol
 		(lib_name "GZ2012D101TF_1")
-		(lib_id "GZ2012D101TF:GZ2012D101TF")
+		(lib_id "Ferrite_Bead_100:GZ2012D101TF")
 		(at 30.48 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13758,7 +13758,7 @@
 	)
 	(symbol
 		(lib_name "GZ2012D101TF_5")
-		(lib_id "GZ2012D101TF:GZ2012D101TF")
+		(lib_id "Ferrite_Bead_100:GZ2012D101TF")
 		(at 59.055 267.97 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13836,7 +13836,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 62.23 238.76 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13902,7 +13902,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 81.28 273.05 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13968,7 +13968,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 54.61 223.52 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14034,7 +14034,7 @@
 		)
 	)
 	(symbol
-		(lib_id "BSS138:BSS138")
+		(lib_id "Transistor_FET:BSS138")
 		(at 53.34 146.05 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14107,7 +14107,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 62.23 223.52 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14173,7 +14173,7 @@
 		)
 	)
 	(symbol
-		(lib_id "OT322525MJBA4SL:OT322525MJBA4SL")
+		(lib_id "25MHZ_OSCILLATOR:OT322525MJBA4SL")
 		(at 80.01 173.99 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14257,7 +14257,7 @@
 	)
 	(symbol
 		(lib_name "GZ2012D101TF_2")
-		(lib_id "GZ2012D101TF:GZ2012D101TF")
+		(lib_id "Ferrite_Bead_100:GZ2012D101TF")
 		(at 32.385 218.44 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14336,7 +14336,7 @@
 	)
 	(symbol
 		(lib_name "GZ2012D101TF_4")
-		(lib_id "GZ2012D101TF:GZ2012D101TF")
+		(lib_id "Ferrite_Bead_100:GZ2012D101TF")
 		(at 32.385 248.92 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14414,7 +14414,7 @@
 		)
 	)
 	(symbol
-		(lib_id "BSS138:BSS138")
+		(lib_id "Transistor_FET:BSS138")
 		(at 53.34 120.65 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14487,7 +14487,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 300.99 48.26 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14555,7 +14555,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 68.58 116.84 180)
 		(unit 1)
 		(exclude_from_sim no)

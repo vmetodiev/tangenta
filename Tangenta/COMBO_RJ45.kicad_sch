@@ -5,7 +5,7 @@
 	(uuid "c2e8d0f5-ce5c-4197-a353-05939152276d")
 	(paper "A4")
 	(lib_symbols
-		(symbol "RC01133:RC01133"
+		(symbol "RJ45_SIMPLE:RC01133"
 			(pin_names
 				(hide yes)
 			)
@@ -1070,7 +1070,7 @@
 		(uuid "dbe1f9a8-9581-44cb-9a3f-2b90e9163c6c")
 	)
 	(symbol
-		(lib_id "RC01133:RC01133")
+		(lib_id "RJ45_SIMPLE:RC01133")
 		(at 167.64 97.155 270)
 		(unit 1)
 		(exclude_from_sim no)

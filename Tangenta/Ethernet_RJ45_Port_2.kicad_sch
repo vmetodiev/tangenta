@@ -5,7 +5,7 @@
 	(uuid "47f021ff-142c-4c77-b609-dd6cdac8990b")
 	(paper "A4")
 	(lib_symbols
-		(symbol "C_Small:C_Small"
+		(symbol "Device:C_Small"
 			(pin_numbers
 				(hide yes)
 			)
@@ -145,7 +145,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "HY911130A:HY911130A"
+		(symbol "RJ45_MAGJACK:HY911130A"
 			(pin_names
 				(hide yes)
 			)
@@ -1780,7 +1780,7 @@
 		(uuid "f113e11a-6627-4a7b-86f8-d68de675f0d7")
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 124.46 70.485 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1846,7 +1846,7 @@
 		)
 	)
 	(symbol
-		(lib_id "HY911130A:HY911130A")
+		(lib_id "RJ45_MAGJACK:HY911130A")
 		(at 147.32 81.915 0)
 		(unit 1)
 		(exclude_from_sim no)
