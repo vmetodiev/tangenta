@@ -5074,7 +5074,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ADM3053BRWZ:ADM3053")
+		(lib_id "ADM3053BRWZ:ADM3053BRWZ-REEL7")
 		(at 137.16 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5091,7 +5091,7 @@
 				)
 			)
 		)
-		(property "Value" "ADM3053"
+		(property "Value" "ADM3053BRWZ-REEL7"
 			(at 137.16 54.61 0)
 			(effects
 				(font
@@ -5099,7 +5099,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm"
+		(property "Footprint" "ADM3053BRWZ:ADM3053BRWZ"
 			(at 137.16 96.52 0)
 			(effects
 				(font

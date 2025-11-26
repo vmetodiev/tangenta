@@ -7607,7 +7607,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ADM2582EBRWZ:ADM2582E")
+		(lib_id "ADM2582EBRWZ:ADM2582EBRWZ-REEL7")
 		(at 210.185 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7623,7 +7623,7 @@
 				)
 			)
 		)
-		(property "Value" "ADM2582E"
+		(property "Value" "ADM2582EBRWZ-REEL7"
 			(at 210.185 66.675 0)
 			(effects
 				(font
@@ -7631,7 +7631,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm"
+		(property "Footprint" "ADM2582EBRWZ:ADM2582EBRWZ"
 			(at 210.185 67.31 0)
 			(effects
 				(font
