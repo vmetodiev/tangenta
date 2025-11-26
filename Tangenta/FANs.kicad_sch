@@ -1,2249 +1,1067 @@
-(kicad_sch
-	(version 20250114)
-	(generator "eeschema")
-	(generator_version "9.0")
-	(uuid "a35c42c7-a2e5-4b7b-86b9-52d6ffdfc1e5")
-	(paper "A4")
-	(lib_symbols
-		(symbol "Device:R_Small_US"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0.254)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 0.762 0.508 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "R_Small_US"
-				(at 0.762 -1.016 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Resistor, small US symbol"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "r resistor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "R_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "R_Small_US_1_1"
-				(polyline
-					(pts
-						(xy 0 1.524) (xy 1.016 1.143) (xy 0 0.762) (xy -1.016 0.381) (xy 0 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 1.016 -0.381) (xy 0 -0.762) (xy -1.016 -1.143) (xy 0 -1.524)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 0 2.54 270)
-					(length 1.016)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 90)
-					(length 1.016)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Motor:Fan_4pin"
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "M"
-				(at 2.54 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "Fan_4pin"
-				(at 2.54 -2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0.254 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf"
-				(at 0 0.254 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Fan, tacho output, PWM input, 4-pin connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "Fan Motor tacho PWM"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "FanPinHeader*P2.54mm*Vertical* PinHeader*P2.54mm*Vertical* TerminalBlock*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Fan_4pin_0_0"
-				(polyline
-					(pts
-						(xy -5.08 2.032) (xy -5.334 2.159)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -5.08 2.032) (xy -5.207 1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -4.572 1.524)
-					(mid -5.08 1.0182)
-					(end -5.588 1.524)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -5.588 1.524)
-					(mid -5.4392 1.8832)
-					(end -5.08 2.032)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -4.064 2.54) (xy -4.064 1.016) (xy -3.302 1.016)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Fan_4pin_0_1"
-				(polyline
-					(pts
-						(xy -5.334 -3.302) (xy -5.08 -3.302) (xy -5.08 -3.048) (xy -4.826 -3.048) (xy -4.826 -3.302) (xy -4.318 -3.302)
-						(xy -4.318 -3.048) (xy -4.064 -3.048) (xy -4.064 -3.302) (xy -3.556 -3.302)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -4.064 2.54) (xy -5.08 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.54 -1.016) (xy -4.064 -1.016) (xy -4.064 -2.54) (xy -5.08 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 3.81)
-					(mid -0.0015 0.9048)
-					(end -2.54 -0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 4.572) (xy 0 5.08)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 4.2672) (xy 0 4.6228)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 1.016)
-					(radius 3.2512)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -2.54 -0.508)
-					(mid 0 1.0618)
-					(end 2.54 -0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.2352) (xy 0 -2.6416)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -5.08) (xy 0 -4.572)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 2.54 -0.508)
-					(mid 0.047 0.9315)
-					(end 0 3.81)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Fan_4pin_1_1"
-				(pin passive line
-					(at -7.62 2.54 0)
-					(length 2.54)
-					(name "Tacho"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -7.62 -2.54 0)
-					(length 2.54)
-					(name "PWM"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 7.62 270)
-					(length 2.54)
-					(name "+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 90)
-					(length 2.54)
-					(name "-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Transistor_FET:BSS138"
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "Q"
-				(at 5.08 1.905 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "BSS138"
-				(at 5.08 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-				(at 5.08 -1.905 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Description" "50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "N-Channel MOSFET"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "SOT?23*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "BSS138_0_1"
-				(polyline
-					(pts
-						(xy 0.254 1.905) (xy 0.254 -1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.254 0) (xy -2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 2.286) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 0.508) (xy 0.762 -0.508)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -1.27) (xy 0.762 -2.286)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 -1.778) (xy 3.302 -1.778) (xy 3.302 1.778) (xy 0.762 1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.016 0) (xy 2.032 0.381) (xy 2.032 -0.381) (xy 1.016 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 1.651 0)
-					(radius 2.794)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 2.54) (xy 2.54 1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.54 1.778)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 2.54 -1.778)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy 2.54 0) (xy 0.762 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.794 0.508) (xy 2.921 0.381) (xy 3.683 0.381) (xy 3.81 0.254)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.302 0.381) (xy 2.921 -0.254) (xy 3.683 -0.254) (xy 3.302 0.381)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "BSS138_1_1"
-				(pin input line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "G"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 5.08 270)
-					(length 2.54)
-					(name "D"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 -5.08 90)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "power:GNDREF"
-			(power)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "GNDREF"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "GNDREF_0_1"
-				(polyline
-					(pts
-						(xy -0.635 -1.905) (xy 0.635 -1.905)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.127 -2.54) (xy 0.127 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -1.27) (xy -1.27 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "GNDREF_1_1"
-				(pin power_in line
-					(at 0 0 270)
-					(length 0)
-					(hide yes)
-					(name "GNDREF"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-	)
-	(junction
-		(at 153.67 84.455)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "54fc532d-24bb-4f41-8e2b-384c610a267e")
-	)
-	(junction
-		(at 127 118.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6655293d-7a73-4eb1-b6ab-bc9d0a963a91")
-	)
-	(junction
-		(at 153.67 118.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "73cd7416-1b21-4a42-9cbf-97a43727bf49")
-	)
-	(junction
-		(at 127 84.455)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "86202006-9bfe-4757-b72d-bffc0a386de7")
-	)
-	(no_connect
-		(at 170.815 79.375)
-		(uuid "22082581-6a26-4679-9d2d-2244b786f6ac")
-	)
-	(no_connect
-		(at 170.815 113.03)
-		(uuid "66827c15-8008-4c29-8bd1-573f51dd4e96")
-	)
-	(bus_entry
-		(at 46.99 107.315)
-		(size 2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "536d36fd-b3f9-4cdf-832d-a48f571720e1")
-	)
-	(bus_entry
-		(at 46.99 104.775)
-		(size 2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cd76d435-1590-4242-8516-1185ceb0b598")
-	)
-	(wire
-		(pts
-			(xy 181.61 120.65) (xy 181.61 123.825)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0a56a642-3131-4116-8cf0-82aabae32f26")
-	)
-	(wire
-		(pts
-			(xy 102.87 118.11) (xy 127 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ddda3b7-aeee-4986-93fa-075c300997b5")
-	)
-	(wire
-		(pts
-			(xy 181.61 86.995) (xy 181.61 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ffbe99e-e657-4e28-a8bf-d77c3a4424fe")
-	)
-	(wire
-		(pts
-			(xy 31.75 33.02) (xy 43.18 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "178f7577-8034-4fbc-92ea-10bdd92844df")
-	)
-	(wire
-		(pts
-			(xy 49.53 104.775) (xy 66.04 104.775)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2071cb33-7135-4369-9beb-b7d947d2656c")
-	)
-	(wire
-		(pts
-			(xy 153.67 84.455) (xy 173.99 84.455)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2233ca8f-0153-4da7-bbe2-aecca35ec7bb")
-	)
-	(wire
-		(pts
-			(xy 127 71.755) (xy 127 75.565)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2b60a725-942a-4df7-9f53-ff71c6ca15aa")
-	)
-	(wire
-		(pts
-			(xy 153.67 80.645) (xy 153.67 84.455)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2fb232e6-f86f-4e4a-ab75-c0c91ff34850")
-	)
-	(wire
-		(pts
-			(xy 127 118.11) (xy 134.62 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a20f465-b0d3-4876-8373-23d9a72d9cc4")
-	)
-	(wire
-		(pts
-			(xy 127 105.41) (xy 127 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a294afa-89cd-44fa-a20c-c91ef722c5c3")
-	)
-	(wire
-		(pts
-			(xy 144.78 84.455) (xy 153.67 84.455)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40686e90-9f1d-4c6c-8d07-888fe0c1649d")
-	)
-	(wire
-		(pts
-			(xy 49.53 102.235) (xy 66.04 102.235)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "41274905-1cc7-4ade-814a-270ec4307737")
-	)
-	(wire
-		(pts
-			(xy 144.78 118.11) (xy 153.67 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "49af536e-bca6-4383-be31-8f03d5880122")
-	)
-	(wire
-		(pts
-			(xy 181.61 71.755) (xy 181.61 74.295)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b701a28-a3b6-4473-aa6f-a48ea87d28c0")
-	)
-	(wire
-		(pts
-			(xy 127 80.645) (xy 127 84.455)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b9b7c9f-05f2-4225-a8af-35f47cdc5f6f")
-	)
-	(wire
-		(pts
-			(xy 139.7 71.755) (xy 139.7 76.835)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54564dd2-d8a6-4559-a553-dba0012d8f7a")
-	)
-	(wire
-		(pts
-			(xy 139.7 105.41) (xy 139.7 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5fcaa696-6a3e-4b16-ab1e-973c24842283")
-	)
-	(bus
-		(pts
-			(xy 46.99 104.775) (xy 46.99 107.315)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6670a2e4-751b-4fc7-bf0a-b7d2dfe8655a")
-	)
-	(wire
-		(pts
-			(xy 127 71.755) (xy 139.7 71.755)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6b46cad6-5e94-4e1b-bbd7-975b69ea24be")
-	)
-	(wire
-		(pts
-			(xy 153.67 118.11) (xy 173.99 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6cdd5824-5d15-4b07-a8d8-4dc22a778366")
-	)
-	(wire
-		(pts
-			(xy 170.815 79.375) (xy 173.99 79.375)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "821e0e73-083e-4e44-9d46-2cb372342de8")
-	)
-	(wire
-		(pts
-			(xy 31.75 29.21) (xy 43.18 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "84cdd6f5-b597-4e5d-8a89-66e3f25e9b26")
-	)
-	(wire
-		(pts
-			(xy 170.815 113.03) (xy 173.99 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "84f6249d-6fc6-4887-a621-5d571de1ae3d")
-	)
-	(wire
-		(pts
-			(xy 31.75 25.4) (xy 43.18 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9fae0b60-99f6-416a-94bf-3bce5a7c9d94")
-	)
-	(wire
-		(pts
-			(xy 153.67 71.755) (xy 153.67 75.565)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b5e782fe-72f7-4472-95d4-d9e697d4c8ff")
-	)
-	(bus
-		(pts
-			(xy 46.99 107.315) (xy 46.99 113.665)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb86b841-ff4b-4789-9d35-33c6d6501639")
-	)
-	(wire
-		(pts
-			(xy 153.67 105.41) (xy 181.61 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "be9020da-7bde-453c-9518-f188b17f6131")
-	)
-	(wire
-		(pts
-			(xy 127 114.3) (xy 127 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c2e646a4-6b36-4c60-b43f-c6629adcd9b6")
-	)
-	(wire
-		(pts
-			(xy 127 105.41) (xy 139.7 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7faf157-1d14-4506-a82a-e6034c511961")
-	)
-	(wire
-		(pts
-			(xy 181.61 105.41) (xy 181.61 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cff9a07c-62d0-41a9-9512-0ea7eefc978e")
-	)
-	(bus
-		(pts
-			(xy 35.56 113.665) (xy 46.99 113.665)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d3187343-8dbf-4f68-aca5-0fb60f6e18ea")
-	)
-	(wire
-		(pts
-			(xy 153.67 105.41) (xy 153.67 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d7b33c3a-e095-4753-b906-55e2cedb3969")
-	)
-	(wire
-		(pts
-			(xy 127 84.455) (xy 134.62 84.455)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ea4f0f67-c101-4a5d-ab56-e91dad80ad6f")
-	)
-	(wire
-		(pts
-			(xy 153.67 71.755) (xy 181.61 71.755)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eb9c4bc1-e5fa-431e-9d08-4abb5912e507")
-	)
-	(wire
-		(pts
-			(xy 153.67 114.3) (xy 153.67 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f0430ec9-d149-414d-b1ce-e4d9f1b37d0f")
-	)
-	(wire
-		(pts
-			(xy 102.87 84.455) (xy 127 84.455)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f17e5bf0-90d1-4f61-9ae0-32a2dafe137a")
-	)
-	(label "1V8"
-		(at 43.18 33.02 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "0fc6dae9-44f2-464e-913f-53cf06cc719c")
-	)
-	(label "PWM.2"
-		(at 66.04 104.775 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "32b72d14-dadf-4fc0-a8f8-5c1264151cbc")
-	)
-	(label "1V8"
-		(at 135.255 105.41 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4fa92176-b8e5-4d1b-aad0-75289665322a")
-	)
-	(label "PWM.1"
-		(at 66.04 102.235 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "5fef7d48-59af-464f-b77a-b4dadb9c9e5c")
-	)
-	(label "5V"
-		(at 167.005 105.41 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8038cfa9-76bb-4c20-a8db-281dda2471d0")
-	)
-	(label "5V"
-		(at 43.18 29.21 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ada54645-151a-4ea0-92e3-6843c3380efc")
-	)
-	(label "1V8"
-		(at 135.255 71.755 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "b8f60468-652b-469c-9f5d-3ebb8c9ccaee")
-	)
-	(label "PWM.2"
-		(at 102.87 118.11 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ba9dbfed-75f4-4cd7-853c-aac0323a759d")
-	)
-	(label "PWM.1"
-		(at 102.87 84.455 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "bee1abc3-8494-4e71-a720-829ce0c76900")
-	)
-	(label "GND"
-		(at 34.29 25.4 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e4f9b36f-44f6-43f6-87ec-5899cd76752d")
-	)
-	(label "5V"
-		(at 167.005 71.755 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f324a158-28d3-4645-9688-9d180a0ec5f9")
-	)
-	(hierarchical_label "PWM{1 2}"
-		(shape input)
-		(at 35.56 113.665 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a0c5280c-e4af-4e7b-b7b6-8a2b8021b541")
-	)
-	(hierarchical_label "1V8"
-		(shape input)
-		(at 31.75 33.02 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "ad041f35-4d9b-4c70-a1d5-4400889ba788")
-	)
-	(hierarchical_label "5V"
-		(shape input)
-		(at 31.75 29.21 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b32121f3-9169-4bf7-81fd-9507bcacebde")
-	)
-	(hierarchical_label "GND"
-		(shape bidirectional)
-		(at 31.75 25.4 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b8bf0fed-5670-429c-a1b2-fba710560a04")
-	)
-	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 127 111.76 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2267725c-19e3-47d8-b760-f8febcc8c0c6")
-		(property "Reference" "R205"
-			(at 125.73 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1.8k"
-			(at 125.73 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 127 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 127 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 127 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d147463e-3d9c-4e33-88a7-59a395974745")
-		)
-		(pin "2"
-			(uuid "c85261ec-695a-4ce5-a182-901353dc4d34")
-		)
-		(instances
-			(project "Tangenta"
-				(path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
-					(reference "R205")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 127 78.105 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2fb1cd95-46ba-4ad2-a7e5-a64baf6e59d8")
-		(property "Reference" "R204"
-			(at 125.73 76.835 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1.8k"
-			(at 125.73 79.375 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 127 78.105 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 127 78.105 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 127 78.105 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5391e6a6-cdab-4ce2-892b-cdd43e44ec8d")
-		)
-		(pin "2"
-			(uuid "e51f0ebf-268c-4943-8eb9-2bbe83c9c54a")
-		)
-		(instances
-			(project "Tangenta"
-				(path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
-					(reference "R204")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Motor:Fan_4pin")
-		(at 181.61 115.57 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "433142d9-11df-46bc-9afd-fc1cfa484ac4")
-		(property "Reference" "M2"
-			(at 185.42 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Fan_4pin"
-			(at 186.055 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Connector:FanPinHeader_1x04_P2.54mm_Vertical"
-			(at 181.61 115.316 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf"
-			(at 181.61 115.316 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 181.61 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "749724e0-b61a-4025-959e-cef1c733f130")
-		)
-		(pin "2"
-			(uuid "161e811b-6d83-4b0d-9599-8a261c81efc0")
-		)
-		(pin "3"
-			(uuid "d1db1125-27ae-40fd-a7ed-034fed4130ac")
-		)
-		(pin "4"
-			(uuid "285dc902-64d6-4726-ae86-97a94b9b9adb")
-		)
-		(instances
-			(project "Tangenta"
-				(path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
-					(reference "M2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_FET:BSS138")
-		(at 139.7 115.57 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "61b41176-70d1-417f-8b5e-efc333e89f66")
-		(property "Reference" "Q24"
-			(at 142.24 113.03 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "BSS138"
-			(at 139.7 121.92 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 137.795 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF"
-			(at 139.7 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 139.7 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ce5d89dc-efbb-4d82-910e-097bf07a3590")
-		)
-		(pin "2"
-			(uuid "c6676f1c-f0ac-4ec4-b127-4b9be5679341")
-		)
-		(pin "3"
-			(uuid "058d6a49-c5bc-45b8-bcdb-120875eef9ff")
-		)
-		(instances
-			(project "Tangenta"
-				(path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
-					(reference "Q24")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 153.67 111.76 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6219ba0a-a271-4bf6-9264-45344baf2d97")
-		(property "Reference" "R207"
-			(at 152.4 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4.7k"
-			(at 152.4 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 153.67 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 153.67 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 153.67 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7b912dcf-6090-475f-9dab-977f26245626")
-		)
-		(pin "2"
-			(uuid "22b0366a-5552-41a7-b846-05ffd60b6c1a")
-		)
-		(instances
-			(project "Tangenta"
-				(path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
-					(reference "R207")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 153.67 78.105 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6cf51c6e-cc1b-4f0d-a3ef-d8bf877c1f8f")
-		(property "Reference" "R206"
-			(at 152.4 76.835 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4.7k"
-			(at 152.4 79.375 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 153.67 78.105 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 153.67 78.105 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 153.67 78.105 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "fdb7e169-f8a8-4218-89c6-246c27e86dd5")
-		)
-		(pin "2"
-			(uuid "afe6ab24-380a-4f17-b2c9-35e4e55439fb")
-		)
-		(instances
-			(project "Tangenta"
-				(path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
-					(reference "R206")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GNDREF")
-		(at 181.61 123.825 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "78932b52-d1ec-479c-9ccd-ae8d7cf970b6")
-		(property "Reference" "#PWR0112"
-			(at 181.61 130.175 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GNDREF"
-			(at 181.61 128.905 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 181.61 123.825 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 181.61 123.825 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 181.61 123.825 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1d7f0533-3654-446a-8f2b-9f74018d580c")
-		)
-		(instances
-			(project "Tangenta"
-				(path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
-					(reference "#PWR0112")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GNDREF")
-		(at 181.61 90.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8fbe89c3-1775-42cf-a8dd-aeeffd84c4a3")
-		(property "Reference" "#PWR0111"
-			(at 181.61 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GNDREF"
-			(at 181.61 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 181.61 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 181.61 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 181.61 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d7361f86-46f1-4c00-9ab1-8de78459c67d")
-		)
-		(instances
-			(project "Tangenta"
-				(path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
-					(reference "#PWR0111")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Motor:Fan_4pin")
-		(at 181.61 81.915 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9e94c835-fdec-436e-b6e8-6b48b21e2f41")
-		(property "Reference" "M1"
-			(at 185.42 80.645 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Fan_4pin"
-			(at 186.055 83.185 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Connector:FanPinHeader_1x04_P2.54mm_Vertical"
-			(at 181.61 81.661 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf"
-			(at 181.61 81.661 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 181.61 81.915 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "76f32c8c-90a8-4790-b0a8-140e0101dcef")
-		)
-		(pin "2"
-			(uuid "7f919c18-995f-462f-bd45-97a37a35c076")
-		)
-		(pin "3"
-			(uuid "f722d68d-0b08-459d-bb25-2ae83555d86c")
-		)
-		(pin "4"
-			(uuid "b7039919-9d8b-4e72-8fbe-aff8b9735389")
-		)
-		(instances
-			(project "Tangenta"
-				(path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
-					(reference "M1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_FET:BSS138")
-		(at 139.7 81.915 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ad4235a2-604b-4a18-bcaa-fff88bb824fa")
-		(property "Reference" "Q23"
-			(at 142.24 79.375 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "BSS138"
-			(at 139.7 88.265 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 137.795 86.995 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF"
-			(at 139.7 81.915 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 139.7 81.915 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "a22e7750-95ca-4aa6-b3bb-2c67e4af4254")
-		)
-		(pin "2"
-			(uuid "e197eff4-16ce-4fac-af0d-946fe6c3f976")
-		)
-		(pin "3"
-			(uuid "5e5ff82c-4f5f-4937-abbb-49a7b7d33044")
-		)
-		(instances
-			(project "Tangenta"
-				(path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
-					(reference "Q23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GNDREF")
-		(at 43.18 25.4 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "eab79571-7cda-4ded-a545-d7d63efcb9ff")
-		(property "Reference" "#PWR0110"
-			(at 49.53 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GNDREF"
-			(at 48.26 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 43.18 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 43.18 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 43.18 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b2b168ba-74af-4b52-8f3c-60dd8a56a8be")
-		)
-		(instances
-			(project "Tangenta"
-				(path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
-					(reference "#PWR0110")
-					(unit 1)
-				)
-			)
-		)
-	)
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid a35c42c7-a2e5-4b7b-86b9-52d6ffdfc1e5)
+
+  (paper "A4")
+
+  (lib_symbols
+    (symbol "CholaSymbolsPrjLib:BSS138" (pin_names hide) (in_bom yes) (on_board yes)
+      (property "Reference" "Q" (at 5.08 1.905 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
+      (property "Value" "BSS138" (at 5.08 0 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
+      (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (at 5.08 -1.905 0)
+        (effects (font (size 1.27 1.27) italic) (justify left) hide)
+      )
+      (property "Datasheet" "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) (justify left) hide)
+      )
+      (property "ki_keywords" "N-Channel MOSFET" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_description" "50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_fp_filters" "SOT?23*" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "BSS138_0_1"
+        (polyline
+          (pts
+            (xy 0.254 0)
+            (xy -2.54 0)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0.254 1.905)
+            (xy 0.254 -1.905)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0.762 -1.27)
+            (xy 0.762 -2.286)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0.762 0.508)
+            (xy 0.762 -0.508)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0.762 2.286)
+            (xy 0.762 1.27)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 2.54 2.54)
+            (xy 2.54 1.778)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 2.54 -2.54)
+            (xy 2.54 0)
+            (xy 0.762 0)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0.762 -1.778)
+            (xy 3.302 -1.778)
+            (xy 3.302 1.778)
+            (xy 0.762 1.778)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 1.016 0)
+            (xy 2.032 0.381)
+            (xy 2.032 -0.381)
+            (xy 1.016 0)
+          )
+          (stroke (width 0) (type default))
+          (fill (type outline))
+        )
+        (polyline
+          (pts
+            (xy 2.794 0.508)
+            (xy 2.921 0.381)
+            (xy 3.683 0.381)
+            (xy 3.81 0.254)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 3.302 0.381)
+            (xy 2.921 -0.254)
+            (xy 3.683 -0.254)
+            (xy 3.302 0.381)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (circle (center 1.651 0) (radius 2.794)
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (circle (center 2.54 -1.778) (radius 0.254)
+          (stroke (width 0) (type default))
+          (fill (type outline))
+        )
+        (circle (center 2.54 1.778) (radius 0.254)
+          (stroke (width 0) (type default))
+          (fill (type outline))
+        )
+      )
+      (symbol "BSS138_1_1"
+        (pin input line (at -5.08 0 0) (length 2.54)
+          (name "G" (effects (font (size 1.27 1.27))))
+          (number "1" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at 2.54 -5.08 90) (length 2.54)
+          (name "S" (effects (font (size 1.27 1.27))))
+          (number "2" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at 2.54 5.08 270) (length 2.54)
+          (name "D" (effects (font (size 1.27 1.27))))
+          (number "3" (effects (font (size 1.27 1.27))))
+        )
+      )
+    )
+    (symbol "CholaSymbolsPrjLib:Fan_4pin" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+      (property "Reference" "M" (at 2.54 5.08 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
+      (property "Value" "Fan_4pin" (at 2.54 -2.54 0)
+        (effects (font (size 1.27 1.27)) (justify left top))
+      )
+      (property "Footprint" "" (at 0 0.254 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf" (at 0 0.254 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_keywords" "Fan Motor tacho PWM" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_description" "Fan, tacho output, PWM input, 4-pin connector" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_fp_filters" "FanPinHeader*P2.54mm*Vertical* PinHeader*P2.54mm*Vertical* TerminalBlock*" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "Fan_4pin_0_0"
+        (arc (start -5.588 1.524) (mid -5.08 1.0182) (end -4.572 1.524)
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (arc (start -5.08 2.032) (mid -5.4392 1.8832) (end -5.588 1.524)
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -5.08 2.032)
+            (xy -5.334 2.159)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -5.08 2.032)
+            (xy -5.207 1.778)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -4.064 2.54)
+            (xy -4.064 1.016)
+            (xy -3.302 1.016)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+      )
+      (symbol "Fan_4pin_0_1"
+        (arc (start -2.54 -0.508) (mid 0.0028 0.9121) (end 0 3.81)
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -4.064 2.54)
+            (xy -5.08 2.54)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 -5.08)
+            (xy 0 -4.572)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 -2.2352)
+            (xy 0 -2.6416)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 4.2672)
+            (xy 0 4.6228)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 4.572)
+            (xy 0 5.08)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -2.54 -1.016)
+            (xy -4.064 -1.016)
+            (xy -4.064 -2.54)
+            (xy -5.08 -2.54)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -5.334 -3.302)
+            (xy -5.08 -3.302)
+            (xy -5.08 -3.048)
+            (xy -4.826 -3.048)
+            (xy -4.826 -3.302)
+            (xy -4.318 -3.302)
+            (xy -4.318 -3.048)
+            (xy -4.064 -3.048)
+            (xy -4.064 -3.302)
+            (xy -3.556 -3.302)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (circle (center 0 1.016) (radius 3.2512)
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (arc (start 0 3.81) (mid 0.053 0.921) (end 2.54 -0.508)
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (arc (start 2.54 -0.508) (mid 0 1.0618) (end -2.54 -0.508)
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+      )
+      (symbol "Fan_4pin_1_1"
+        (pin passive line (at 0 -5.08 90) (length 2.54)
+          (name "-" (effects (font (size 1.27 1.27))))
+          (number "1" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at 0 7.62 270) (length 2.54)
+          (name "+" (effects (font (size 1.27 1.27))))
+          (number "2" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at -7.62 2.54 0) (length 2.54)
+          (name "Tacho" (effects (font (size 1.27 1.27))))
+          (number "3" (effects (font (size 1.27 1.27))))
+        )
+        (pin input line (at -7.62 -2.54 0) (length 2.54)
+          (name "PWM" (effects (font (size 1.27 1.27))))
+          (number "4" (effects (font (size 1.27 1.27))))
+        )
+      )
+    )
+    (symbol "CholaSymbolsPrjLib:R_Small_US" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
+      (property "Reference" "R" (at 0.762 0.508 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
+      (property "Value" "R_Small_US" (at 0.762 -1.016 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
+      (property "Footprint" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "~" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_keywords" "r resistor" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_description" "Resistor, small US symbol" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_fp_filters" "R_*" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "R_Small_US_1_1"
+        (polyline
+          (pts
+            (xy 0 0)
+            (xy 1.016 -0.381)
+            (xy 0 -0.762)
+            (xy -1.016 -1.143)
+            (xy 0 -1.524)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 1.524)
+            (xy 1.016 1.143)
+            (xy 0 0.762)
+            (xy -1.016 0.381)
+            (xy 0 0)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (pin passive line (at 0 2.54 270) (length 1.016)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "1" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at 0 -2.54 90) (length 1.016)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "2" (effects (font (size 1.27 1.27))))
+        )
+      )
+    )
+    (symbol "power:GNDREF" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+      (property "Reference" "#PWR" (at 0 -6.35 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Value" "GNDREF" (at 0 -3.81 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (property "Footprint" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_keywords" "global power" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "GNDREF_0_1"
+        (polyline
+          (pts
+            (xy -0.635 -1.905)
+            (xy 0.635 -1.905)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -0.127 -2.54)
+            (xy 0.127 -2.54)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 -1.27)
+            (xy 0 0)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 1.27 -1.27)
+            (xy -1.27 -1.27)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+      )
+      (symbol "GNDREF_1_1"
+        (pin power_in line (at 0 0 270) (length 0) hide
+          (name "GNDREF" (effects (font (size 1.27 1.27))))
+          (number "1" (effects (font (size 1.27 1.27))))
+        )
+      )
+    )
+  )
+
+  (junction (at 153.67 84.455) (diameter 0) (color 0 0 0 0)
+    (uuid 54fc532d-24bb-4f41-8e2b-384c610a267e)
+  )
+  (junction (at 127 118.11) (diameter 0) (color 0 0 0 0)
+    (uuid 6655293d-7a73-4eb1-b6ab-bc9d0a963a91)
+  )
+  (junction (at 153.67 118.11) (diameter 0) (color 0 0 0 0)
+    (uuid 73cd7416-1b21-4a42-9cbf-97a43727bf49)
+  )
+  (junction (at 127 84.455) (diameter 0) (color 0 0 0 0)
+    (uuid 86202006-9bfe-4757-b72d-bffc0a386de7)
+  )
+
+  (no_connect (at 170.815 79.375) (uuid 22082581-6a26-4679-9d2d-2244b786f6ac))
+  (no_connect (at 170.815 113.03) (uuid 66827c15-8008-4c29-8bd1-573f51dd4e96))
+
+  (bus_entry (at 46.99 107.315) (size 2.54 -2.54)
+    (stroke (width 0) (type default))
+    (uuid 536d36fd-b3f9-4cdf-832d-a48f571720e1)
+  )
+  (bus_entry (at 46.99 104.775) (size 2.54 -2.54)
+    (stroke (width 0) (type default))
+    (uuid cd76d435-1590-4242-8516-1185ceb0b598)
+  )
+
+  (wire (pts (xy 181.61 120.65) (xy 181.61 123.825))
+    (stroke (width 0) (type default))
+    (uuid 0a56a642-3131-4116-8cf0-82aabae32f26)
+  )
+  (wire (pts (xy 102.87 118.11) (xy 127 118.11))
+    (stroke (width 0) (type default))
+    (uuid 0ddda3b7-aeee-4986-93fa-075c300997b5)
+  )
+  (wire (pts (xy 181.61 86.995) (xy 181.61 90.17))
+    (stroke (width 0) (type default))
+    (uuid 0ffbe99e-e657-4e28-a8bf-d77c3a4424fe)
+  )
+  (wire (pts (xy 31.75 33.02) (xy 43.18 33.02))
+    (stroke (width 0) (type default))
+    (uuid 178f7577-8034-4fbc-92ea-10bdd92844df)
+  )
+  (wire (pts (xy 49.53 104.775) (xy 66.04 104.775))
+    (stroke (width 0) (type default))
+    (uuid 2071cb33-7135-4369-9beb-b7d947d2656c)
+  )
+  (wire (pts (xy 153.67 84.455) (xy 173.99 84.455))
+    (stroke (width 0) (type default))
+    (uuid 2233ca8f-0153-4da7-bbe2-aecca35ec7bb)
+  )
+  (wire (pts (xy 127 71.755) (xy 127 75.565))
+    (stroke (width 0) (type default))
+    (uuid 2b60a725-942a-4df7-9f53-ff71c6ca15aa)
+  )
+  (wire (pts (xy 153.67 80.645) (xy 153.67 84.455))
+    (stroke (width 0) (type default))
+    (uuid 2fb232e6-f86f-4e4a-ab75-c0c91ff34850)
+  )
+  (wire (pts (xy 127 118.11) (xy 134.62 118.11))
+    (stroke (width 0) (type default))
+    (uuid 3a20f465-b0d3-4876-8373-23d9a72d9cc4)
+  )
+  (wire (pts (xy 127 105.41) (xy 127 109.22))
+    (stroke (width 0) (type default))
+    (uuid 3a294afa-89cd-44fa-a20c-c91ef722c5c3)
+  )
+  (wire (pts (xy 144.78 84.455) (xy 153.67 84.455))
+    (stroke (width 0) (type default))
+    (uuid 40686e90-9f1d-4c6c-8d07-888fe0c1649d)
+  )
+  (wire (pts (xy 49.53 102.235) (xy 66.04 102.235))
+    (stroke (width 0) (type default))
+    (uuid 41274905-1cc7-4ade-814a-270ec4307737)
+  )
+  (wire (pts (xy 144.78 118.11) (xy 153.67 118.11))
+    (stroke (width 0) (type default))
+    (uuid 49af536e-bca6-4383-be31-8f03d5880122)
+  )
+  (wire (pts (xy 181.61 71.755) (xy 181.61 74.295))
+    (stroke (width 0) (type default))
+    (uuid 4b701a28-a3b6-4473-aa6f-a48ea87d28c0)
+  )
+  (wire (pts (xy 127 80.645) (xy 127 84.455))
+    (stroke (width 0) (type default))
+    (uuid 4b9b7c9f-05f2-4225-a8af-35f47cdc5f6f)
+  )
+  (wire (pts (xy 139.7 71.755) (xy 139.7 76.835))
+    (stroke (width 0) (type default))
+    (uuid 54564dd2-d8a6-4559-a553-dba0012d8f7a)
+  )
+  (wire (pts (xy 139.7 105.41) (xy 139.7 110.49))
+    (stroke (width 0) (type default))
+    (uuid 5fcaa696-6a3e-4b16-ab1e-973c24842283)
+  )
+  (bus (pts (xy 46.99 104.775) (xy 46.99 107.315))
+    (stroke (width 0) (type default))
+    (uuid 6670a2e4-751b-4fc7-bf0a-b7d2dfe8655a)
+  )
+
+  (wire (pts (xy 127 71.755) (xy 139.7 71.755))
+    (stroke (width 0) (type default))
+    (uuid 6b46cad6-5e94-4e1b-bbd7-975b69ea24be)
+  )
+  (wire (pts (xy 153.67 118.11) (xy 173.99 118.11))
+    (stroke (width 0) (type default))
+    (uuid 6cdd5824-5d15-4b07-a8d8-4dc22a778366)
+  )
+  (wire (pts (xy 170.815 79.375) (xy 173.99 79.375))
+    (stroke (width 0) (type default))
+    (uuid 821e0e73-083e-4e44-9d46-2cb372342de8)
+  )
+  (wire (pts (xy 31.75 29.21) (xy 43.18 29.21))
+    (stroke (width 0) (type default))
+    (uuid 84cdd6f5-b597-4e5d-8a89-66e3f25e9b26)
+  )
+  (wire (pts (xy 170.815 113.03) (xy 173.99 113.03))
+    (stroke (width 0) (type default))
+    (uuid 84f6249d-6fc6-4887-a621-5d571de1ae3d)
+  )
+  (wire (pts (xy 31.75 25.4) (xy 43.18 25.4))
+    (stroke (width 0) (type default))
+    (uuid 9fae0b60-99f6-416a-94bf-3bce5a7c9d94)
+  )
+  (wire (pts (xy 153.67 71.755) (xy 153.67 75.565))
+    (stroke (width 0) (type default))
+    (uuid b5e782fe-72f7-4472-95d4-d9e697d4c8ff)
+  )
+  (bus (pts (xy 46.99 107.315) (xy 46.99 113.665))
+    (stroke (width 0) (type default))
+    (uuid bb86b841-ff4b-4789-9d35-33c6d6501639)
+  )
+
+  (wire (pts (xy 153.67 105.41) (xy 181.61 105.41))
+    (stroke (width 0) (type default))
+    (uuid be9020da-7bde-453c-9518-f188b17f6131)
+  )
+  (wire (pts (xy 127 114.3) (xy 127 118.11))
+    (stroke (width 0) (type default))
+    (uuid c2e646a4-6b36-4c60-b43f-c6629adcd9b6)
+  )
+  (wire (pts (xy 127 105.41) (xy 139.7 105.41))
+    (stroke (width 0) (type default))
+    (uuid c7faf157-1d14-4506-a82a-e6034c511961)
+  )
+  (wire (pts (xy 181.61 105.41) (xy 181.61 107.95))
+    (stroke (width 0) (type default))
+    (uuid cff9a07c-62d0-41a9-9512-0ea7eefc978e)
+  )
+  (bus (pts (xy 35.56 113.665) (xy 46.99 113.665))
+    (stroke (width 0) (type default))
+    (uuid d3187343-8dbf-4f68-aca5-0fb60f6e18ea)
+  )
+
+  (wire (pts (xy 153.67 105.41) (xy 153.67 109.22))
+    (stroke (width 0) (type default))
+    (uuid d7b33c3a-e095-4753-b906-55e2cedb3969)
+  )
+  (wire (pts (xy 127 84.455) (xy 134.62 84.455))
+    (stroke (width 0) (type default))
+    (uuid ea4f0f67-c101-4a5d-ab56-e91dad80ad6f)
+  )
+  (wire (pts (xy 153.67 71.755) (xy 181.61 71.755))
+    (stroke (width 0) (type default))
+    (uuid eb9c4bc1-e5fa-431e-9d08-4abb5912e507)
+  )
+  (wire (pts (xy 153.67 114.3) (xy 153.67 118.11))
+    (stroke (width 0) (type default))
+    (uuid f0430ec9-d149-414d-b1ce-e4d9f1b37d0f)
+  )
+  (wire (pts (xy 102.87 84.455) (xy 127 84.455))
+    (stroke (width 0) (type default))
+    (uuid f17e5bf0-90d1-4f61-9ae0-32a2dafe137a)
+  )
+
+  (label "1V8" (at 43.18 33.02 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 0fc6dae9-44f2-464e-913f-53cf06cc719c)
+  )
+  (label "PWM.2" (at 66.04 104.775 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 32b72d14-dadf-4fc0-a8f8-5c1264151cbc)
+  )
+  (label "1V8" (at 135.255 105.41 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 4fa92176-b8e5-4d1b-aad0-75289665322a)
+  )
+  (label "PWM.1" (at 66.04 102.235 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 5fef7d48-59af-464f-b77a-b4dadb9c9e5c)
+  )
+  (label "5V" (at 167.005 105.41 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 8038cfa9-76bb-4c20-a8db-281dda2471d0)
+  )
+  (label "5V" (at 43.18 29.21 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid ada54645-151a-4ea0-92e3-6843c3380efc)
+  )
+  (label "1V8" (at 135.255 71.755 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid b8f60468-652b-469c-9f5d-3ebb8c9ccaee)
+  )
+  (label "PWM.2" (at 102.87 118.11 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid ba9dbfed-75f4-4cd7-853c-aac0323a759d)
+  )
+  (label "PWM.1" (at 102.87 84.455 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid bee1abc3-8494-4e71-a720-829ce0c76900)
+  )
+  (label "GND" (at 34.29 25.4 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid e4f9b36f-44f6-43f6-87ec-5899cd76752d)
+  )
+  (label "5V" (at 167.005 71.755 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid f324a158-28d3-4645-9688-9d180a0ec5f9)
+  )
+
+  (hierarchical_label "PWM{1 2}" (shape input) (at 35.56 113.665 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid a0c5280c-e4af-4e7b-b7b6-8a2b8021b541)
+  )
+  (hierarchical_label "1V8" (shape input) (at 31.75 33.02 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid ad041f35-4d9b-4c70-a1d5-4400889ba788)
+  )
+  (hierarchical_label "5V" (shape input) (at 31.75 29.21 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid b32121f3-9169-4bf7-81fd-9507bcacebde)
+  )
+  (hierarchical_label "GND" (shape bidirectional) (at 31.75 25.4 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid b8bf0fed-5670-429c-a1b2-fba710560a04)
+  )
+
+  (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 127 111.76 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 2267725c-19e3-47d8-b760-f8febcc8c0c6)
+    (property "Reference" "R2" (at 125.73 110.49 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "1.8k" (at 125.73 113.03 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 127 111.76 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 127 111.76 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid d147463e-3d9c-4e33-88a7-59a395974745))
+    (pin "2" (uuid c85261ec-695a-4ce5-a182-901353dc4d34))
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
+          (reference "R2") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
+          (reference "R18") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
+          (reference "R26") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
+          (reference "R41") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/db297b0b-35f2-4e86-892c-83973f1ac2db"
+          (reference "R41") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/98e3b24f-9927-4339-b8fd-9deea91a522a"
+          (reference "R158") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
+          (reference "R205") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 127 78.105 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 2fb1cd95-46ba-4ad2-a7e5-a64baf6e59d8)
+    (property "Reference" "R2" (at 125.73 76.835 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "1.8k" (at 125.73 79.375 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 127 78.105 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 127 78.105 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 5391e6a6-cdab-4ce2-892b-cdd43e44ec8d))
+    (pin "2" (uuid e51f0ebf-268c-4943-8eb9-2bbe83c9c54a))
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
+          (reference "R2") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
+          (reference "R18") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
+          (reference "R26") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
+          (reference "R41") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/db297b0b-35f2-4e86-892c-83973f1ac2db"
+          (reference "R41") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/98e3b24f-9927-4339-b8fd-9deea91a522a"
+          (reference "R158") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
+          (reference "R204") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "CholaSymbolsPrjLib:Fan_4pin") (at 181.61 115.57 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 433142d9-11df-46bc-9afd-fc1cfa484ac4)
+    (property "Reference" "M2" (at 185.42 114.3 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "Fan_4pin" (at 186.055 116.84 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Footprint" "Connector:FanPinHeader_1x04_P2.54mm_Vertical" (at 181.61 115.316 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf" (at 181.61 115.316 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 749724e0-b61a-4025-959e-cef1c733f130))
+    (pin "2" (uuid 161e811b-6d83-4b0d-9599-8a261c81efc0))
+    (pin "3" (uuid d1db1125-27ae-40fd-a7ed-034fed4130ac))
+    (pin "4" (uuid 285dc902-64d6-4726-ae86-97a94b9b9adb))
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
+          (reference "M2") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "CholaSymbolsPrjLib:BSS138") (at 139.7 115.57 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 61b41176-70d1-417f-8b5e-efc333e89f66)
+    (property "Reference" "Q3" (at 142.24 113.03 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "BSS138" (at 139.7 121.92 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (at 137.795 120.65 0)
+      (effects (font (size 1.27 1.27) italic) (justify left) hide)
+    )
+    (property "Datasheet" "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF" (at 139.7 115.57 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (pin "1" (uuid ce5d89dc-efbb-4d82-910e-097bf07a3590))
+    (pin "2" (uuid c6676f1c-f0ac-4ec4-b127-4b9be5679341))
+    (pin "3" (uuid 058d6a49-c5bc-45b8-bcdb-120875eef9ff))
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
+          (reference "Q3") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/db297b0b-35f2-4e86-892c-83973f1ac2db"
+          (reference "Q5") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/98e3b24f-9927-4339-b8fd-9deea91a522a"
+          (reference "Q10") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
+          (reference "Q24") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 153.67 111.76 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 6219ba0a-a271-4bf6-9264-45344baf2d97)
+    (property "Reference" "R2" (at 152.4 110.49 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "4.7k" (at 152.4 113.03 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 153.67 111.76 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 153.67 111.76 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 7b912dcf-6090-475f-9dab-977f26245626))
+    (pin "2" (uuid 22b0366a-5552-41a7-b846-05ffd60b6c1a))
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
+          (reference "R2") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
+          (reference "R18") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
+          (reference "R28") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/db297b0b-35f2-4e86-892c-83973f1ac2db"
+          (reference "R28") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/98e3b24f-9927-4339-b8fd-9deea91a522a"
+          (reference "R159") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
+          (reference "R207") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 153.67 78.105 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 6cf51c6e-cc1b-4f0d-a3ef-d8bf877c1f8f)
+    (property "Reference" "R2" (at 152.4 76.835 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "4.7k" (at 152.4 79.375 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 153.67 78.105 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 153.67 78.105 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid fdb7e169-f8a8-4218-89c6-246c27e86dd5))
+    (pin "2" (uuid afe6ab24-380a-4f17-b2c9-35e4e55439fb))
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/8215796b-9611-4f43-bcc5-319f8414b8a6"
+          (reference "R2") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/d6c05402-162e-441f-bed8-be7996260fb4"
+          (reference "R18") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
+          (reference "R28") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/db297b0b-35f2-4e86-892c-83973f1ac2db"
+          (reference "R28") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/98e3b24f-9927-4339-b8fd-9deea91a522a"
+          (reference "R159") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
+          (reference "R206") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GNDREF") (at 181.61 123.825 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 78932b52-d1ec-479c-9ccd-ae8d7cf970b6)
+    (property "Reference" "#PWR030" (at 181.61 130.175 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GNDREF" (at 181.61 128.905 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "" (at 181.61 123.825 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 181.61 123.825 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 1d7f0533-3654-446a-8f2b-9f74018d580c))
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
+          (reference "#PWR030") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/f1c5822c-e7b8-40ae-bab0-71fd1c2cfc7c"
+          (reference "#PWR035") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/98e3b24f-9927-4339-b8fd-9deea91a522a"
+          (reference "#PWR076") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
+          (reference "#PWR0112") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GNDREF") (at 181.61 90.17 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 8fbe89c3-1775-42cf-a8dd-aeeffd84c4a3)
+    (property "Reference" "#PWR030" (at 181.61 96.52 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GNDREF" (at 181.61 95.25 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "" (at 181.61 90.17 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 181.61 90.17 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid d7361f86-46f1-4c00-9ab1-8de78459c67d))
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
+          (reference "#PWR030") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/f1c5822c-e7b8-40ae-bab0-71fd1c2cfc7c"
+          (reference "#PWR035") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/98e3b24f-9927-4339-b8fd-9deea91a522a"
+          (reference "#PWR076") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
+          (reference "#PWR0111") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "CholaSymbolsPrjLib:Fan_4pin") (at 181.61 81.915 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 9e94c835-fdec-436e-b6e8-6b48b21e2f41)
+    (property "Reference" "M1" (at 185.42 80.645 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "Fan_4pin" (at 186.055 83.185 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Footprint" "Connector:FanPinHeader_1x04_P2.54mm_Vertical" (at 181.61 81.661 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "http://www.formfactors.org/developer%5Cspecs%5Crev1_2_public.pdf" (at 181.61 81.661 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 76f32c8c-90a8-4790-b0a8-140e0101dcef))
+    (pin "2" (uuid 7f919c18-995f-462f-bd45-97a37a35c076))
+    (pin "3" (uuid f722d68d-0b08-459d-bb25-2ae83555d86c))
+    (pin "4" (uuid b7039919-9d8b-4e72-8fbe-aff8b9735389))
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
+          (reference "M1") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "CholaSymbolsPrjLib:BSS138") (at 139.7 81.915 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid ad4235a2-604b-4a18-bcaa-fff88bb824fa)
+    (property "Reference" "Q3" (at 142.24 79.375 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "BSS138" (at 139.7 88.265 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (at 137.795 86.995 0)
+      (effects (font (size 1.27 1.27) italic) (justify left) hide)
+    )
+    (property "Datasheet" "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF" (at 139.7 81.915 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (pin "1" (uuid a22e7750-95ca-4aa6-b3bb-2c67e4af4254))
+    (pin "2" (uuid e197eff4-16ce-4fac-af0d-946fe6c3f976))
+    (pin "3" (uuid 5e5ff82c-4f5f-4937-abbb-49a7b7d33044))
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/6a8c68b5-4a7d-449e-86f6-34ced6d1cb55"
+          (reference "Q3") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/db297b0b-35f2-4e86-892c-83973f1ac2db"
+          (reference "Q5") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/98e3b24f-9927-4339-b8fd-9deea91a522a"
+          (reference "Q10") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
+          (reference "Q23") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GNDREF") (at 43.18 25.4 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid eab79571-7cda-4ded-a545-d7d63efcb9ff)
+    (property "Reference" "#PWR030" (at 49.53 25.4 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GNDREF" (at 48.26 25.4 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "" (at 43.18 25.4 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 43.18 25.4 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid b2b168ba-74af-4b52-8f3c-60dd8a56a8be))
+    (instances
+      (project "Tangenta"
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/b1871a4d-6a35-44e2-a9a2-9a4af684371d"
+          (reference "#PWR030") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/f1c5822c-e7b8-40ae-bab0-71fd1c2cfc7c"
+          (reference "#PWR035") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/98e3b24f-9927-4339-b8fd-9deea91a522a"
+          (reference "#PWR076") (unit 1)
+        )
+        (path "/358d1bcf-7599-4352-8c4d-baa18a5f09e6/19b4ac3b-c2a1-43b1-8d7b-1ca5ac2c79ee"
+          (reference "#PWR0110") (unit 1)
+        )
+      )
+    )
+  )
 )
