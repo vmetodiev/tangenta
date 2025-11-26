@@ -5,7 +5,7 @@
   (paper "A4")
 
   (lib_symbols
-    (symbol "LocalPrjLib:35CE47AX" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+    (symbol "LocalSymbolsPrjLib:35CE47AX" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at -3.302 -0.254 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -68,7 +68,7 @@
         )
       )
     )
-    (symbol "LocalPrjLib:39281243" (in_bom yes) (on_board yes)
+    (symbol "LocalSymbolsPrjLib:39281243" (in_bom yes) (on_board yes)
       (property "Reference" "J" (at -4.826 14.224 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -194,7 +194,7 @@
         )
       )
     )
-    (symbol "LocalPrjLib:AMS1117-3_3" (pin_numbers hide) (in_bom yes) (on_board yes)
+    (symbol "LocalSymbolsPrjLib:AMS1117-3_3" (pin_numbers hide) (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 0 6.35 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -240,7 +240,7 @@
         )
       )
     )
-    (symbol "LocalPrjLib:AP7331-10WG-7" (pin_numbers hide) (in_bom yes) (on_board yes)
+    (symbol "LocalSymbolsPrjLib:AP7331-10WG-7" (pin_numbers hide) (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 0 6.35 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -290,7 +290,7 @@
         )
       )
     )
-    (symbol "LocalPrjLib:B540C-13-F" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+    (symbol "LocalSymbolsPrjLib:B540C-13-F" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "D" (at 0 2.921 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -342,7 +342,7 @@
         )
       )
     )
-    (symbol "LocalPrjLib:CA45-A-6_3V-47UF-K" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+    (symbol "LocalSymbolsPrjLib:CA45-A-6_3V-47UF-K" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 0 3.556 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -423,7 +423,7 @@
         )
       )
     )
-    (symbol "LocalPrjLib:C_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
+    (symbol "LocalSymbolsPrjLib:C_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 0.254 1.778 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -474,7 +474,7 @@
         )
       )
     )
-    (symbol "LocalPrjLib:CustomJumper" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+    (symbol "LocalSymbolsPrjLib:CustomJumper" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "JP" (at 0 0 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -524,7 +524,7 @@
         )
       )
     )
-    (symbol "LocalPrjLib:R_Small_US" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
+    (symbol "LocalSymbolsPrjLib:R_Small_US" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 0.762 0.508 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -579,7 +579,7 @@
         )
       )
     )
-    (symbol "LocalPrjLib:SLO0650H6R8MTT" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+    (symbol "LocalSymbolsPrjLib:SLO0650H6R8MTT" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "L" (at 0 1.27 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -630,7 +630,7 @@
         )
       )
     )
-    (symbol "LocalPrjLib:TPS54331DR" (in_bom yes) (on_board yes)
+    (symbol "LocalSymbolsPrjLib:TPS54331DR" (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 0 1.27 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -2344,7 +2344,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:AMS1117-3_3") (at 235.585 29.21 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:AMS1117-3_3") (at 235.585 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0641381f-854e-4957-ab47-4643f14201f6)
     (property "Reference" "U5" (at 235.585 22.86 0)
@@ -2375,7 +2375,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:C_Small") (at 62.865 49.53 0) (mirror x) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:C_Small") (at 62.865 49.53 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0779ffc3-ac3a-490b-985b-619a89f1b6fb)
     (property "Reference" "C1" (at 59.69 48.895 0)
@@ -2404,7 +2404,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:TPS54331DR") (at 85.725 71.12 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:TPS54331DR") (at 85.725 71.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0798e0a1-9df8-4539-a2d6-43a6df15fddf)
     (property "Reference" "U2" (at 85.725 55.88 0)
@@ -2464,7 +2464,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:C_Small") (at 51.435 88.9 0) (mirror x) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:C_Small") (at 51.435 88.9 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0966e912-b37e-4ae9-8388-e50da1e98719)
     (property "Reference" "C1" (at 47.625 88.265 0)
@@ -2593,7 +2593,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:SLO0650H6R8MTT") (at 122.555 144.145 0) (mirror x) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:SLO0650H6R8MTT") (at 122.555 144.145 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 13755309-9a42-4830-932b-f1318db680f9)
     (property "Reference" "L4" (at 122.555 141.605 0)
@@ -2625,7 +2625,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:35CE47AX") (at 30.48 29.21 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:35CE47AX") (at 30.48 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 13932e91-97eb-4f43-b963-0d77a99b5774)
     (property "Reference" "C2" (at 32.385 28.575 0)
@@ -2707,7 +2707,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 62.865 43.18 0) (mirror y) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:R_Small_US") (at 62.865 43.18 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 185afea4-606b-4d46-8e4d-5254124fd2e1)
     (property "Reference" "R2" (at 60.96 41.91 0)
@@ -2736,7 +2736,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:CA45-A-6_3V-47UF-K") (at 151.765 113.665 270) (mirror x) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:CA45-A-6_3V-47UF-K") (at 151.765 113.665 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 186940cd-6ee9-4892-91d1-bafeef5330d8)
     (property "Reference" "C28" (at 158.115 113.665 90)
@@ -2768,7 +2768,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 131.445 118.11 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:R_Small_US") (at 131.445 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1be8ff99-e48e-46d8-b95b-1075c00c5ed1)
     (property "Reference" "R2" (at 132.715 116.84 0)
@@ -2847,7 +2847,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 131.445 109.22 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:R_Small_US") (at 131.445 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 20924444-bd7f-48ab-b142-537733182bcd)
     (property "Reference" "R2" (at 132.715 107.95 0)
@@ -2876,7 +2876,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:CA45-A-6_3V-47UF-K") (at 151.765 34.29 270) (mirror x) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:CA45-A-6_3V-47UF-K") (at 151.765 34.29 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2319b805-cc0e-48dc-9f00-a8456ce84faf)
     (property "Reference" "C26" (at 158.115 34.29 90)
@@ -2908,7 +2908,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:C_Small") (at 51.435 49.53 0) (mirror x) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:C_Small") (at 51.435 49.53 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 282a090f-6830-48f7-8266-fc1d0734dde4)
     (property "Reference" "C1" (at 48.26 48.895 0)
@@ -2937,7 +2937,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:35CE47AX") (at 30.48 108.585 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:35CE47AX") (at 30.48 108.585 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2b4fd2db-b01e-49a4-af15-70dbf5050e8d)
     (property "Reference" "C4" (at 32.385 107.95 0)
@@ -3019,7 +3019,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:C_Small") (at 214.63 36.83 0) (mirror x) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:C_Small") (at 214.63 36.83 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 371e5c0a-0445-43a0-b2bc-fea61ce8c6b6)
     (property "Reference" "C1" (at 210.82 36.83 0)
@@ -3098,7 +3098,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:TPS54331DR") (at 85.725 111.125 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:TPS54331DR") (at 85.725 111.125 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 39d49d0d-db0e-46c1-b329-251ffa3d20dd)
     (property "Reference" "U3" (at 85.725 95.885 0)
@@ -3133,7 +3133,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:C_Small") (at 62.865 88.9 0) (mirror x) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:C_Small") (at 62.865 88.9 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3bc6ca19-6500-4d7f-ab30-4e3ef0b4efb9)
     (property "Reference" "C1" (at 59.055 88.265 0)
@@ -3187,7 +3187,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 131.445 38.735 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:R_Small_US") (at 131.445 38.735 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3f21b156-1f9f-4457-9fda-e8fe1b9f3e61)
     (property "Reference" "R2" (at 132.715 37.465 0)
@@ -3216,7 +3216,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:CustomJumper") (at 161.29 141.859 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:CustomJumper") (at 161.29 141.859 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 43adec96-8639-476d-8db8-f378d1bef410)
     (property "Reference" "JP4" (at 161.29 141.605 0)
@@ -3242,7 +3242,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 62.865 122.555 0) (mirror y) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:R_Small_US") (at 62.865 122.555 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 44fa8f31-4595-49c9-aab2-e8372ad0b29b)
     (property "Reference" "R2" (at 60.96 121.285 0)
@@ -3271,7 +3271,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:35CE47AX") (at 143.51 113.665 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:35CE47AX") (at 143.51 113.665 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4526540c-9902-46b1-87d2-9d5f6f7d1015)
     (property "Reference" "C24" (at 145.415 113.665 0)
@@ -3303,7 +3303,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 131.445 78.105 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:R_Small_US") (at 131.445 78.105 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4595f174-86c2-4199-a9fd-b6e9114ab031)
     (property "Reference" "R2" (at 132.715 76.835 0)
@@ -3332,7 +3332,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:CustomJumper") (at 161.29 101.219 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:CustomJumper") (at 161.29 101.219 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4c1cf866-3f11-49bb-923d-4326ac7fd079)
     (property "Reference" "JP3" (at 161.29 100.965 0)
@@ -3383,7 +3383,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:C_Small") (at 107.315 146.685 180) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:C_Small") (at 107.315 146.685 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5439f1a6-09fd-4296-bc4a-437d5a6ed172)
     (property "Reference" "C1" (at 104.14 145.415 0)
@@ -3412,7 +3412,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:C_Small") (at 107.315 66.04 180) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:C_Small") (at 107.315 66.04 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 560cbd41-1a34-48ac-8e06-b079d93654f7)
     (property "Reference" "C1" (at 104.14 64.77 0)
@@ -3441,7 +3441,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:SLO0650H6R8MTT") (at 122.555 24.13 0) (mirror x) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:SLO0650H6R8MTT") (at 122.555 24.13 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 561af273-e400-4a06-9822-ebc1749ca6eb)
     (property "Reference" "L1" (at 122.555 21.59 0)
@@ -3523,7 +3523,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:SLO0650H6R8MTT") (at 122.555 63.5 0) (mirror x) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:SLO0650H6R8MTT") (at 122.555 63.5 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 62c0d84d-9291-4b5c-9f8e-7a68e7d5949b)
     (property "Reference" "L2" (at 122.555 60.96 0)
@@ -3555,7 +3555,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:C_Small") (at 40.005 128.905 180) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:C_Small") (at 40.005 128.905 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6c50833a-2f99-415c-8fba-6bc836e0120f)
     (property "Reference" "C1" (at 36.195 128.27 0)
@@ -3609,7 +3609,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:CA45-A-6_3V-47UF-K") (at 253.365 36.83 270) (mirror x) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:CA45-A-6_3V-47UF-K") (at 253.365 36.83 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 750123be-b628-4a16-9e5b-76c6683a61ae)
     (property "Reference" "C32" (at 259.715 36.83 90)
@@ -3666,7 +3666,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:B540C-13-F") (at 117.475 108.585 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:B540C-13-F") (at 117.475 108.585 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 79d4422a-6846-4e7f-a480-99fbe23568cf)
     (property "Reference" "D3" (at 116.205 106.045 0)
@@ -3695,7 +3695,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 131.445 69.215 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:R_Small_US") (at 131.445 69.215 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7ed75f2c-1607-4cb5-8dbf-3ac5f6eadd8a)
     (property "Reference" "R2" (at 132.715 67.945 0)
@@ -3724,7 +3724,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:35CE47AX") (at 30.48 149.225 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:35CE47AX") (at 30.48 149.225 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 809dc08f-894e-48b1-afed-d1718de4d172)
     (property "Reference" "C5" (at 32.385 148.59 0)
@@ -3756,7 +3756,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:TPS54331DR") (at 85.725 151.765 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:TPS54331DR") (at 85.725 151.765 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 846efb1e-cb14-4c1d-835f-904e7cbff22c)
     (property "Reference" "U4" (at 85.725 136.525 0)
@@ -3841,7 +3841,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:C_Small") (at 62.865 128.905 0) (mirror x) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:C_Small") (at 62.865 128.905 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8a080b3b-5234-45b3-a4e9-6119586ee27f)
     (property "Reference" "C1" (at 59.055 128.27 0)
@@ -3895,7 +3895,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:C_Small") (at 40.005 49.53 180) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:C_Small") (at 40.005 49.53 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8dfc610e-fc98-484f-b07a-a725f40ace7a)
     (property "Reference" "C1" (at 36.83 48.895 0)
@@ -3949,7 +3949,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 131.445 29.845 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:R_Small_US") (at 131.445 29.845 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8f843acf-8cbc-439b-9a6b-5ae25d77e495)
     (property "Reference" "R2" (at 132.715 28.575 0)
@@ -4003,7 +4003,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 131.445 149.86 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:R_Small_US") (at 131.445 149.86 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 96dbd83c-9c8a-4d6c-9605-2fc588114185)
     (property "Reference" "R2" (at 132.715 148.59 0)
@@ -4082,7 +4082,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:C_Small") (at 256.54 66.675 180) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:C_Small") (at 256.54 66.675 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9b3611d4-95b6-4b37-a6b9-8f72ff831b02)
     (property "Reference" "C1" (at 260.35 66.04 0)
@@ -4136,7 +4136,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:C_Small") (at 107.315 106.045 180) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:C_Small") (at 107.315 106.045 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9eb31378-eb23-46c7-98bc-9abc80ba1e31)
     (property "Reference" "C1" (at 104.14 104.775 0)
@@ -4165,7 +4165,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:39281243") (at 210.82 128.397 0) (mirror y) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:39281243") (at 210.82 128.397 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9f67e781-15d0-496b-a005-60a357589746)
     (property "Reference" "J1" (at 206.883 114.427 0)
@@ -4241,7 +4241,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:CA45-A-6_3V-47UF-K") (at 151.765 73.66 270) (mirror x) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:CA45-A-6_3V-47UF-K") (at 151.765 73.66 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a1a70a24-688f-4f08-946b-33db5d9c54bd)
     (property "Reference" "C27" (at 158.115 73.66 90)
@@ -4273,7 +4273,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:C_Small") (at 51.435 128.905 0) (mirror x) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:C_Small") (at 51.435 128.905 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a2667008-f8b0-42e8-9aa7-a0889758b487)
     (property "Reference" "C1" (at 47.625 128.27 0)
@@ -4327,7 +4327,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:35CE47AX") (at 143.51 154.305 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:35CE47AX") (at 143.51 154.305 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ab5628c8-c143-45f2-b1ae-6ccd1628726a)
     (property "Reference" "C25" (at 145.415 154.305 0)
@@ -4359,7 +4359,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:B540C-13-F") (at 117.475 68.58 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:B540C-13-F") (at 117.475 68.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b3920133-27ba-4cc8-9def-6df480fbc353)
     (property "Reference" "D2" (at 116.205 66.04 0)
@@ -4413,7 +4413,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:C_Small") (at 40.005 169.545 180) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:C_Small") (at 40.005 169.545 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b5dda37b-0d3e-4e16-8cc0-bc8dfb54756e)
     (property "Reference" "C1" (at 36.195 168.91 0)
@@ -4442,7 +4442,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:C_Small") (at 107.315 26.67 180) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:C_Small") (at 107.315 26.67 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b7dfd223-fb46-493f-99e9-772c8c264c1a)
     (property "Reference" "C1" (at 104.14 25.4 0)
@@ -4496,7 +4496,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:CustomJumper") (at 161.29 21.844 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:CustomJumper") (at 161.29 21.844 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c75de945-cad2-4a67-aa64-f77c167941c2)
     (property "Reference" "JP1" (at 161.29 21.59 0)
@@ -4522,7 +4522,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:B540C-13-F") (at 117.475 149.225 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:B540C-13-F") (at 117.475 149.225 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c95cb9d7-43c1-44f0-9100-223166740b3d)
     (property "Reference" "D4" (at 116.205 146.685 0)
@@ -4551,7 +4551,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:B540C-13-F") (at 117.475 29.21 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:B540C-13-F") (at 117.475 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cb7abd2e-d06f-4c44-861e-25b15423facd)
     (property "Reference" "D1" (at 116.205 26.67 0)
@@ -4580,7 +4580,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 62.865 82.55 0) (mirror y) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:R_Small_US") (at 62.865 82.55 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d13b1f9b-7606-47af-afb6-13106d2cdf79)
     (property "Reference" "R2" (at 60.96 81.28 0)
@@ -4609,7 +4609,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 62.865 163.195 0) (mirror y) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:R_Small_US") (at 62.865 163.195 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d228bde1-9514-4904-936d-7a0e47859a4d)
     (property "Reference" "R2" (at 60.96 161.925 0)
@@ -4638,7 +4638,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:35CE47AX") (at 143.51 73.66 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:35CE47AX") (at 143.51 73.66 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d586b4f5-97a5-4ec5-9c62-269ac6f16441)
     (property "Reference" "C23" (at 145.415 73.66 0)
@@ -4670,7 +4670,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:35CE47AX") (at 143.51 34.29 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:35CE47AX") (at 143.51 34.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d5a8ce1d-c0d5-4a55-ba3b-a9bf144142a4)
     (property "Reference" "C22" (at 145.415 34.29 0)
@@ -4702,7 +4702,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:C_Small") (at 205.105 66.675 0) (mirror x) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:C_Small") (at 205.105 66.675 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e33b5be4-6e5f-42e4-9e45-053765fbee0b)
     (property "Reference" "C1" (at 201.295 66.04 0)
@@ -4756,7 +4756,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:C_Small") (at 40.005 88.9 180) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:C_Small") (at 40.005 88.9 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid eda77afd-2745-4062-ace7-66467d0ecac6)
     (property "Reference" "C1" (at 36.195 88.265 0)
@@ -4785,7 +4785,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:SLO0650H6R8MTT") (at 122.555 103.505 0) (mirror x) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:SLO0650H6R8MTT") (at 122.555 103.505 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid edbec80d-e563-4886-8b9c-c3f31ff1a55b)
     (property "Reference" "L3" (at 122.555 100.965 0)
@@ -4842,7 +4842,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 131.445 158.75 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:R_Small_US") (at 131.445 158.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f42d6c43-1482-40b2-b665-23b34923fb99)
     (property "Reference" "R2" (at 132.715 157.48 0)
@@ -4896,7 +4896,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:AP7331-10WG-7") (at 235.585 64.77 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:AP7331-10WG-7") (at 235.585 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f655fac0-9697-40c4-8703-5dec835de302)
     (property "Reference" "U6" (at 235.585 58.42 0)
@@ -4928,7 +4928,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:35CE47AX") (at 30.48 68.58 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:35CE47AX") (at 30.48 68.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f70f4e48-4ad5-4ec6-a68a-a42873371b2c)
     (property "Reference" "C3" (at 32.385 67.945 0)
@@ -4960,7 +4960,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:TPS54331DR") (at 85.725 31.75 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:TPS54331DR") (at 85.725 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f87aa405-ccd7-463a-95c6-b6add61d0456)
     (property "Reference" "U1" (at 85.725 16.51 0)
@@ -4995,7 +4995,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:CA45-A-6_3V-47UF-K") (at 151.765 154.305 270) (mirror x) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:CA45-A-6_3V-47UF-K") (at 151.765 154.305 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f8b87301-e731-402c-883e-112ffe6b1424)
     (property "Reference" "C29" (at 158.115 154.305 90)
@@ -5027,7 +5027,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:C_Small") (at 62.865 169.545 0) (mirror x) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:C_Small") (at 62.865 169.545 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f9798b09-babd-4c82-af3f-feac0a9fb285)
     (property "Reference" "C1" (at 59.055 168.91 0)
@@ -5056,7 +5056,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:C_Small") (at 51.435 169.545 0) (mirror x) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:C_Small") (at 51.435 169.545 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fb4b617f-43d0-4260-aa80-2525863fa9e1)
     (property "Reference" "C1" (at 47.625 168.91 0)
@@ -5085,7 +5085,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 213.36 66.04 0) (mirror y) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:R_Small_US") (at 213.36 66.04 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fdda17e3-6af5-40bb-9a46-7abc6215b03d)
     (property "Reference" "R2" (at 212.09 64.77 0)
@@ -5114,7 +5114,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:CustomJumper") (at 161.29 61.214 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:CustomJumper") (at 161.29 61.214 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ff43713f-60e7-4f0d-a756-9b8e2481f73a)
     (property "Reference" "JP2" (at 161.29 60.96 0)

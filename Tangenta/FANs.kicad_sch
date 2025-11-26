@@ -5,7 +5,7 @@
   (paper "A4")
 
   (lib_symbols
-    (symbol "LocalPrjLib:BSS138" (pin_names hide) (in_bom yes) (on_board yes)
+    (symbol "LocalSymbolsPrjLib:BSS138" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "Q" (at 5.08 1.905 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -153,7 +153,7 @@
         )
       )
     )
-    (symbol "LocalPrjLib:Fan_4pin" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+    (symbol "LocalSymbolsPrjLib:Fan_4pin" (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "M" (at 2.54 5.08 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -313,7 +313,7 @@
         )
       )
     )
-    (symbol "LocalPrjLib:R_Small_US" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
+    (symbol "LocalSymbolsPrjLib:R_Small_US" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 0.762 0.508 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -665,7 +665,7 @@
     (uuid b8bf0fed-5670-429c-a1b2-fba710560a04)
   )
 
-  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 127 111.76 180) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:R_Small_US") (at 127 111.76 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2267725c-19e3-47d8-b760-f8febcc8c0c6)
     (property "Reference" "R2" (at 125.73 110.49 0)
@@ -709,7 +709,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 127 78.105 180) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:R_Small_US") (at 127 78.105 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2fb1cd95-46ba-4ad2-a7e5-a64baf6e59d8)
     (property "Reference" "R2" (at 125.73 76.835 0)
@@ -753,7 +753,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:Fan_4pin") (at 181.61 115.57 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:Fan_4pin") (at 181.61 115.57 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 433142d9-11df-46bc-9afd-fc1cfa484ac4)
     (property "Reference" "M2" (at 185.42 114.3 0)
@@ -781,7 +781,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:BSS138") (at 139.7 115.57 270) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:BSS138") (at 139.7 115.57 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 61b41176-70d1-417f-8b5e-efc333e89f66)
     (property "Reference" "Q3" (at 142.24 113.03 90)
@@ -817,7 +817,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 153.67 111.76 180) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:R_Small_US") (at 153.67 111.76 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6219ba0a-a271-4bf6-9264-45344baf2d97)
     (property "Reference" "R2" (at 152.4 110.49 0)
@@ -858,7 +858,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 153.67 78.105 180) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:R_Small_US") (at 153.67 78.105 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6cf51c6e-cc1b-4f0d-a3ef-d8bf877c1f8f)
     (property "Reference" "R2" (at 152.4 76.835 0)
@@ -967,7 +967,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:Fan_4pin") (at 181.61 81.915 0) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:Fan_4pin") (at 181.61 81.915 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9e94c835-fdec-436e-b6e8-6b48b21e2f41)
     (property "Reference" "M1" (at 185.42 80.645 0)
@@ -995,7 +995,7 @@
     )
   )
 
-  (symbol (lib_id "LocalPrjLib:BSS138") (at 139.7 81.915 270) (unit 1)
+  (symbol (lib_id "LocalSymbolsPrjLib:BSS138") (at 139.7 81.915 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ad4235a2-604b-4a18-bcaa-fff88bb824fa)
     (property "Reference" "Q3" (at 142.24 79.375 90)
