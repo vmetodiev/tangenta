@@ -1953,7 +1953,7 @@
 		(uuid "d8cb0a52-9041-4b7b-9526-aa8d08aaeb6c")
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 133.985 58.42 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2021,7 +2021,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 160.655 100.33 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2089,7 +2089,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x06_Pin")
+		(lib_id "Conn_01x06_Pin:Conn_01x06_Pin")
 		(at 230.505 90.805 0)
 		(mirror y)
 		(unit 1)
@@ -2169,7 +2169,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_FET:BSS138")
+		(lib_id "BSS138:BSS138")
 		(at 146.685 83.185 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2241,7 +2241,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_FET:BSS138")
+		(lib_id "BSS138:BSS138")
 		(at 146.685 104.14 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2313,7 +2313,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 160.655 121.285 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2447,7 +2447,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 133.985 79.375 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2515,7 +2515,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 160.655 79.375 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2583,7 +2583,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_FET:BSS138")
+		(lib_id "BSS138:BSS138")
 		(at 146.685 62.23 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2655,7 +2655,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 133.985 100.33 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2723,7 +2723,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_FET:BSS138")
+		(lib_id "BSS138:BSS138")
 		(at 146.685 125.095 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2795,7 +2795,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 133.985 121.285 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2863,7 +2863,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 160.655 58.42 180)
 		(unit 1)
 		(exclude_from_sim no)

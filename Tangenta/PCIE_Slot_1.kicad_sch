@@ -5933,7 +5933,7 @@
 		(uuid "dcd09091-bc71-4c3b-9f98-79d96acfd1da")
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 241.935 203.2 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6001,7 +6001,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 237.49 239.395 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6159,7 +6159,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 34.29 45.72 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6227,7 +6227,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint_Small")
+		(lib_id "TestPoint_Small:TestPoint_Small")
 		(at 245.11 208.915 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6293,7 +6293,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 237.49 236.855 270)
 		(unit 1)
 		(exclude_from_sim no)

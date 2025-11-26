@@ -168,7 +168,7 @@
 					)
 				)
 			)
-			(property "Footprint" "RJ45_MAGJACK_HY911130A:RJ45_MAGJACK_HY911130A"
+			(property "Footprint" "RJ45_MAGJACK:RJ45_MAGJACK_HY911130A"
 				(at 8.89 -25.4 0)
 				(effects
 					(font
@@ -1780,7 +1780,7 @@
 		(uuid "f113e11a-6627-4a7b-86f8-d68de675f0d7")
 	)
 	(symbol
-		(lib_id "Device:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 124.46 70.485 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1870,7 +1870,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RJ45_MAGJACK_HY911130A:RJ45_MAGJACK_HY911130A"
+		(property "Footprint" "RJ45_MAGJACK:RJ45_MAGJACK_HY911130A"
 			(at 168.91 104.775 0)
 			(effects
 				(font

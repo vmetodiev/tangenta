@@ -3569,7 +3569,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 68.58 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3883,7 +3883,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 215.265 121.285 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4147,7 +4147,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 142.24 82.55 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4345,7 +4345,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 168.275 116.205 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4491,7 +4491,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 215.265 82.55 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4670,7 +4670,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 103.505 83.82 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4738,7 +4738,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_02x02_Top_Bottom")
+		(lib_id "Conn_02x02_Top_Bottom:Conn_02x02_Top_Bottom")
 		(at 76.2 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4930,7 +4930,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 237.49 109.855 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4998,7 +4998,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 86.36 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5067,7 +5067,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 69.215 111.125 0)
 		(mirror x)
 		(unit 1)
@@ -5216,7 +5216,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 211.455 128.905 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5284,7 +5284,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 252.73 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5350,7 +5350,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 191.135 60.96 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5416,7 +5416,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 168.275 111.76 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5482,7 +5482,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 52.07 83.82 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5550,7 +5550,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 241.3 102.235 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5763,7 +5763,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 168.275 120.65 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5961,7 +5961,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 78.74 111.125 0)
 		(mirror x)
 		(unit 1)
@@ -6309,7 +6309,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 142.24 127.635 90)
 		(unit 1)
 		(exclude_from_sim no)

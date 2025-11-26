@@ -2452,7 +2452,7 @@
 		(uuid "ffabb214-cc2f-490f-8265-deb9659ca8f4")
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
+		(lib_id "MountingHole:MountingHole")
 		(at 295.91 273.685 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2515,7 +2515,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
+		(lib_id "MountingHole:MountingHole")
 		(at 289.56 273.685 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2641,7 +2641,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
+		(lib_id "MountingHole:MountingHole")
 		(at 295.91 267.335 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2704,7 +2704,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
+		(lib_id "MountingHole:MountingHole")
 		(at 295.91 280.035 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2767,7 +2767,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
+		(lib_id "C_Small:C_Small")
 		(at 270.51 276.225 270)
 		(mirror x)
 		(unit 1)
@@ -2834,7 +2834,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 270.51 271.145 90)
 		(mirror x)
 		(unit 1)
@@ -2903,7 +2903,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
+		(lib_id "MountingHole:MountingHole")
 		(at 289.56 280.035 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2966,7 +2966,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
+		(lib_id "MountingHole:MountingHole")
 		(at 283.21 280.035 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3029,7 +3029,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
+		(lib_id "MountingHole:MountingHole")
 		(at 283.21 267.335 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3218,7 +3218,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
+		(lib_id "MountingHole_Pad:MountingHole_Pad")
 		(at 281.94 273.685 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3284,7 +3284,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
+		(lib_id "MountingHole:MountingHole")
 		(at 289.56 267.335 0)
 		(unit 1)
 		(exclude_from_sim no)

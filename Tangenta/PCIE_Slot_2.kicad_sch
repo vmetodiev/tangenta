@@ -3540,7 +3540,7 @@
 		(uuid "f1e6a2b7-ce62-4ed9-b327-1f07f7b2a66f")
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
+		(lib_id "MountingHole:MountingHole")
 		(at 163.195 175.26 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3603,7 +3603,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
+		(lib_id "MountingHole:MountingHole")
 		(at 163.195 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3666,7 +3666,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 161.29 48.26 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4166,7 +4166,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
+		(lib_id "MountingHole:MountingHole")
 		(at 163.195 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4229,7 +4229,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 161.29 45.72 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4297,7 +4297,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 163.83 91.44 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4454,7 +4454,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint_Small")
+		(lib_id "TestPoint_Small:TestPoint_Small")
 		(at 113.03 114.3 0)
 		(mirror y)
 		(unit 1)
@@ -4521,7 +4521,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 163.83 88.9 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4589,7 +4589,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
+		(lib_id "R_Small_US:R_Small_US")
 		(at 34.29 45.72 270)
 		(unit 1)
 		(exclude_from_sim no)
