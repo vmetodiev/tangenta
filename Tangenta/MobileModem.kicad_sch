@@ -5,7 +5,7 @@
   (paper "A4")
 
   (lib_symbols
-    (symbol "CholaSymbolsPrjLib:1-2199230-5" (in_bom yes) (on_board yes)
+    (symbol "LocalPrjLib:1-2199230-5" (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 95.25 12.7 0)
         (effects (font (size 1.27 1.27)) (justify left top))
       )
@@ -325,7 +325,7 @@
         )
       )
     )
-    (symbol "CholaSymbolsPrjLib:C_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
+    (symbol "LocalPrjLib:C_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 0.254 1.778 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -376,7 +376,7 @@
         )
       )
     )
-    (symbol "CholaSymbolsPrjLib:HYC90-SIM06-180" (pin_names hide) (in_bom yes) (on_board yes)
+    (symbol "LocalPrjLib:HYC90-SIM06-180" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 0 1.27 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -446,7 +446,7 @@
         )
       )
     )
-    (symbol "CholaSymbolsPrjLib:MountingHole" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (symbol "LocalPrjLib:MountingHole" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "H" (at 0 5.08 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -475,7 +475,7 @@
         )
       )
     )
-    (symbol "CholaSymbolsPrjLib:R_Small_US" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
+    (symbol "LocalPrjLib:R_Small_US" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 0.762 0.508 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -1069,7 +1069,7 @@
     (uuid 8728f322-286e-4ffe-8835-3d5b8d0f2eff)
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:HYC90-SIM06-180") (at 148.59 87.63 0) (unit 1)
+  (symbol (lib_id "LocalPrjLib:HYC90-SIM06-180") (at 148.59 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 088eafa8-3676-4e12-a952-0f5ea21434e3)
     (property "Reference" "J8" (at 148.59 78.74 0)
@@ -1134,7 +1134,7 @@
     )
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:MountingHole") (at 186.055 76.2 0) (unit 1)
+  (symbol (lib_id "LocalPrjLib:MountingHole") (at 186.055 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3037a5ed-c202-4e89-8639-bd3ac7e39bd0)
     (property "Reference" "H10" (at 188.595 76.2 0)
@@ -1158,7 +1158,7 @@
     )
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 140.97 68.58 180) (unit 1)
+  (symbol (lib_id "LocalPrjLib:C_Small") (at 140.97 68.58 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 309afe98-0dde-4c6b-a793-fb00386da080)
     (property "Reference" "C1" (at 137.16 68.58 0)
@@ -1193,7 +1193,7 @@
     )
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 156.21 68.58 180) (unit 1)
+  (symbol (lib_id "LocalPrjLib:C_Small") (at 156.21 68.58 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 38825194-af6a-4307-9fa2-7ec781b8acf9)
     (property "Reference" "C1" (at 160.02 68.58 0)
@@ -1228,7 +1228,7 @@
     )
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 173.99 74.93 180) (unit 1)
+  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 173.99 74.93 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5aee10f4-2a14-4d4c-ab74-d5ad8b378e9f)
     (property "Reference" "R2" (at 172.72 74.93 0)
@@ -1291,7 +1291,7 @@
     )
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 54.61 77.47 90) (unit 1)
+  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 54.61 77.47 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7ac2f778-f2f0-42f2-bf37-adf9ff449218)
     (property "Reference" "R2" (at 53.34 76.2 90)
@@ -1329,7 +1329,7 @@
     )
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:C_Small") (at 124.46 95.25 180) (unit 1)
+  (symbol (lib_id "LocalPrjLib:C_Small") (at 124.46 95.25 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 82be1ddb-ad3a-49aa-8873-2e4bcff18cae)
     (property "Reference" "C1" (at 120.65 95.25 0)
@@ -1364,7 +1364,7 @@
     )
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:MountingHole") (at 186.055 83.82 0) (unit 1)
+  (symbol (lib_id "LocalPrjLib:MountingHole") (at 186.055 83.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9829b56c-af99-4973-93fb-8afa0ba58563)
     (property "Reference" "H11" (at 188.595 83.82 0)
@@ -1388,7 +1388,7 @@
     )
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 92.71 57.15 270) (mirror x) (unit 1)
+  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 92.71 57.15 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b9c2c196-0241-4fd7-aef0-c791c845e775)
     (property "Reference" "R2" (at 87.63 55.88 90)
@@ -1426,7 +1426,7 @@
     )
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 54.61 128.27 90) (unit 1)
+  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 54.61 128.27 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c257e1bb-1f2a-43ff-8427-f43f736afeb5)
     (property "Reference" "R2" (at 53.34 127 90)
@@ -1492,7 +1492,7 @@
     )
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 124.46 104.14 180) (unit 1)
+  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 124.46 104.14 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d1f2ad2f-e948-4e4a-b3c3-8f810051fc3c)
     (property "Reference" "R2" (at 123.19 104.14 0)
@@ -1527,7 +1527,7 @@
     )
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:1-2199230-5") (at 73.66 44.45 90) (mirror x) (unit 1)
+  (symbol (lib_id "LocalPrjLib:1-2199230-5") (at 73.66 44.45 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f0201cc4-48a2-44b1-a4d9-80ba041d3239)
     (property "Reference" "J7" (at 66.04 46.99 90)

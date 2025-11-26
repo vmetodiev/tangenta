@@ -5,7 +5,7 @@
   (paper "A3")
 
   (lib_symbols
-    (symbol "CholaSymbolsPrjLib:10018784-10213TLF" (in_bom yes) (on_board yes)
+    (symbol "LocalPrjLib:10018784-10213TLF" (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 21.59 7.62 0)
         (effects (font (size 1.27 1.27)) (justify left top))
       )
@@ -699,7 +699,7 @@
         )
       )
     )
-    (symbol "CholaSymbolsPrjLib:35CE47AX" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+    (symbol "LocalPrjLib:35CE47AX" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at -3.302 -0.254 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -762,7 +762,7 @@
         )
       )
     )
-    (symbol "CholaSymbolsPrjLib:CA45-A-6_3V-47UF-K" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+    (symbol "LocalPrjLib:CA45-A-6_3V-47UF-K" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 0 3.556 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -843,7 +843,7 @@
         )
       )
     )
-    (symbol "CholaSymbolsPrjLib:R_Small_US" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
+    (symbol "LocalPrjLib:R_Small_US" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 0.762 0.508 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -898,7 +898,7 @@
         )
       )
     )
-    (symbol "CholaSymbolsPrjLib:TestPoint_Small" (pin_numbers hide) (pin_names (offset 0.762) hide) (in_bom yes) (on_board yes)
+    (symbol "LocalPrjLib:TestPoint_Small" (pin_numbers hide) (pin_names (offset 0.762) hide) (in_bom yes) (on_board yes)
       (property "Reference" "TP" (at 0 3.81 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -1606,7 +1606,7 @@
     (uuid e07622ed-58a0-4318-b521-b2db6fef609e)
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 237.49 236.855 270) (unit 1)
+  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 237.49 236.855 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3bfc56c7-6aa5-4fa6-badc-5e8eadf31091)
     (property "Reference" "R2" (at 230.505 235.585 90)
@@ -1650,7 +1650,7 @@
     )
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 237.49 239.395 270) (unit 1)
+  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 237.49 239.395 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3ee46ce7-bc4c-4bbf-ba99-6a5f42a4ccdb)
     (property "Reference" "R2" (at 230.505 238.125 90)
@@ -1694,7 +1694,7 @@
     )
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:CA45-A-6_3V-47UF-K") (at 215.265 263.525 270) (mirror x) (unit 1)
+  (symbol (lib_id "LocalPrjLib:CA45-A-6_3V-47UF-K") (at 215.265 263.525 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 40da67b7-f06f-475e-88f9-53218c05c560)
     (property "Reference" "C24" (at 222.885 262.255 90)
@@ -1732,7 +1732,7 @@
     )
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:10018784-10213TLF") (at 196.85 249.555 0) (mirror x) (unit 1)
+  (symbol (lib_id "LocalPrjLib:10018784-10213TLF") (at 196.85 249.555 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8344eed1-a1e7-4a84-87a9-a9575f955679)
     (property "Reference" "J4" (at 209.55 40.005 0)
@@ -1938,7 +1938,7 @@
     )
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 34.29 45.72 270) (unit 1)
+  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 34.29 45.72 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8d0ad99f-e820-4515-9111-06223de114d6)
     (property "Reference" "R2" (at 28.575 44.45 90)
@@ -1982,7 +1982,7 @@
     )
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:R_Small_US") (at 241.935 203.2 0) (unit 1)
+  (symbol (lib_id "LocalPrjLib:R_Small_US") (at 241.935 203.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a72a0110-db41-4248-af6b-2320f3aa0f7b)
     (property "Reference" "R2" (at 243.205 202.565 0)
@@ -2026,7 +2026,7 @@
     )
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:35CE47AX") (at 203.2 263.525 0) (unit 1)
+  (symbol (lib_id "LocalPrjLib:35CE47AX") (at 203.2 263.525 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b87a1bd3-0a0e-4fdd-a574-fd95dbf24f1b)
     (property "Reference" "C23" (at 205.105 262.255 0)
@@ -2064,7 +2064,7 @@
     )
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:CA45-A-6_3V-47UF-K") (at 226.06 263.525 270) (mirror x) (unit 1)
+  (symbol (lib_id "LocalPrjLib:CA45-A-6_3V-47UF-K") (at 226.06 263.525 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cdd6efab-aee6-4705-a727-a55c25383bc8)
     (property "Reference" "C24" (at 233.68 262.255 90)
@@ -2102,7 +2102,7 @@
     )
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:TestPoint_Small") (at 245.11 208.915 0) (unit 1)
+  (symbol (lib_id "LocalPrjLib:TestPoint_Small") (at 245.11 208.915 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e8517239-84dc-442a-b673-668d894252a9)
     (property "Reference" "TP3" (at 245.745 208.915 0)
@@ -2133,7 +2133,7 @@
     )
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:35CE47AX") (at 193.04 263.525 0) (unit 1)
+  (symbol (lib_id "LocalPrjLib:35CE47AX") (at 193.04 263.525 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ee54852d-bea4-4f6c-9ae2-fd49c8c4a69d)
     (property "Reference" "C23" (at 194.945 262.255 0)

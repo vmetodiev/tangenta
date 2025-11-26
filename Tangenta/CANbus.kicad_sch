@@ -5,7 +5,7 @@
   (paper "A4")
 
   (lib_symbols
-    (symbol "CholaSymbolsPrjLib:16CE47FSS" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+    (symbol "LocalPrjLib:16CE47FSS" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (at -3.048 -0.254 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -418,7 +418,7 @@
     (uuid fe9bb893-99ae-454b-818b-44c30b5348d7)
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:16CE47FSS") (at 46.99 36.83 0) (unit 1)
+  (symbol (lib_id "LocalPrjLib:16CE47FSS") (at 46.99 36.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 07a07545-d08c-4dd0-b9a3-a7ee29f58923)
     (property "Reference" "C178" (at 48.26 34.925 0)

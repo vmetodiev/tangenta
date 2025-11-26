@@ -5,7 +5,7 @@
   (paper "A4")
 
   (lib_symbols
-    (symbol "CholaSymbolsPrjLib:RC01133" (pin_names hide) (in_bom yes) (on_board yes)
+    (symbol "LocalPrjLib:RC01133" (pin_names hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at -10.16 13.97 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -454,7 +454,7 @@
     (uuid dbe1f9a8-9581-44cb-9a3f-2b90e9163c6c)
   )
 
-  (symbol (lib_id "CholaSymbolsPrjLib:RC01133") (at 167.64 97.155 270) (unit 1)
+  (symbol (lib_id "LocalPrjLib:RC01133") (at 167.64 97.155 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 251a8228-1f86-4752-85f3-94579721be87)
     (property "Reference" "J14" (at 185.42 95.885 0)
