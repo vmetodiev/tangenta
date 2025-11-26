@@ -941,7 +941,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Conn_02x05_Odd_Even:Conn_02x05_Odd_Even")
+		(lib_id "Connector_Generic:Conn_02x05_Odd_Even")
 		(at 167.005 81.28 0)
 		(mirror y)
 		(unit 1)

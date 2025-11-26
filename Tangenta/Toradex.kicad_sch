@@ -16334,7 +16334,7 @@
 		(uuid "f91ceb8c-8fbf-41f4-9c2e-a027270f1c88")
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 289.56 72.39 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16402,7 +16402,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MountingHole:MountingHole")
+		(lib_id "Mechanical:MountingHole")
 		(at 281.94 260.35 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16465,7 +16465,7 @@
 		)
 	)
 	(symbol
-		(lib_id "BSS138:BSS138")
+		(lib_id "Transistor_FET:BSS138")
 		(at 62.23 246.38 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16604,7 +16604,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MountingHole:MountingHole")
+		(lib_id "Mechanical:MountingHole")
 		(at 281.94 275.59 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16734,7 +16734,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 49.53 242.57 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16802,7 +16802,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Conn_01x02_Pin:Conn_01x02_Pin")
+		(lib_id "Connector_Generic:Conn_01x02_Pin")
 		(at 344.805 77.47 90)
 		(mirror x)
 		(unit 1)
@@ -16939,7 +16939,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MountingHole:MountingHole")
+		(lib_id "Mechanical:MountingHole")
 		(at 281.94 265.43 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17923,7 +17923,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 76.2 242.57 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17991,7 +17991,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Conn_01x09_Pin:Conn_01x09_Pin")
+		(lib_id "Connector_Generic:Conn_01x09_Pin")
 		(at 198.12 177.165 270)
 		(mirror x)
 		(unit 1)
@@ -18080,7 +18080,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 49.53 266.7 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18395,7 +18395,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Conn_01x05_Pin:Conn_01x05_Pin")
+		(lib_id "Connector_Generic:Conn_01x05_Pin")
 		(at 217.17 90.17 90)
 		(mirror x)
 		(unit 1)
@@ -18606,7 +18606,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 298.45 58.42 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18857,7 +18857,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Conn_02x03_Odd_Even:Conn_02x03_Odd_Even")
+		(lib_id "Connector_Generic:Conn_02x03_Odd_Even")
 		(at 58.42 177.8 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18936,7 +18936,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 76.2 266.7 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19071,7 +19071,7 @@
 		)
 	)
 	(symbol
-		(lib_id "BSS138:BSS138")
+		(lib_id "Transistor_FET:BSS138")
 		(at 62.23 270.51 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19143,7 +19143,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 339.09 86.995 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19211,7 +19211,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 332.74 55.88 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19279,7 +19279,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 316.23 58.42 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -19347,7 +19347,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Conn_01x05_Pin:Conn_01x05_Pin")
+		(lib_id "Connector_Generic:Conn_01x05_Pin")
 		(at 242.57 90.17 90)
 		(mirror x)
 		(unit 1)
@@ -19558,7 +19558,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MountingHole:MountingHole")
+		(lib_id "Mechanical:MountingHole")
 		(at 281.94 270.51 0)
 		(unit 1)
 		(exclude_from_sim no)

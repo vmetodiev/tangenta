@@ -1916,7 +1916,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 124.46 70.485 270)
 		(unit 1)
 		(exclude_from_sim no)

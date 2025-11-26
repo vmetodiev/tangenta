@@ -3593,7 +3593,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 132.08 116.84 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3725,7 +3725,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 159.385 135.89 0)
 		(mirror x)
 		(unit 1)
@@ -3792,7 +3792,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 124.46 116.84 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3858,7 +3858,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 132.08 135.89 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3924,7 +3924,7 @@
 		)
 	)
 	(symbol
-		(lib_id "BSS138:BSS138")
+		(lib_id "Transistor_FET:BSS138")
 		(at 66.04 117.475 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3996,7 +3996,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 186.69 69.85 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4064,7 +4064,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 141.605 116.84 0)
 		(mirror x)
 		(unit 1)
@@ -4131,7 +4131,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 160.655 116.84 0)
 		(mirror x)
 		(unit 1)
@@ -4264,7 +4264,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Conn_01x02_Pin:Conn_01x02_Pin")
+		(lib_id "Connector_Generic:Conn_01x02_Pin")
 		(at 139.065 153.67 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4333,7 +4333,7 @@
 		)
 	)
 	(symbol
-		(lib_id "BSS138:BSS138")
+		(lib_id "Transistor_FET:BSS138")
 		(at 66.04 138.43 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4471,7 +4471,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 124.46 135.89 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4537,7 +4537,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 80.01 134.62 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4671,7 +4671,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 186.69 77.47 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4739,7 +4739,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 53.34 134.62 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4807,7 +4807,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 178.435 135.89 0)
 		(mirror x)
 		(unit 1)
@@ -4940,7 +4940,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 80.01 113.665 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5008,7 +5008,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 193.675 73.66 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5074,7 +5074,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ADM3053:ADM3053")
+		(lib_id "ADM3053BRWZ:ADM3053BRWZ-REEL7")
 		(at 137.16 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5195,7 +5195,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 53.34 113.665 180)
 		(unit 1)
 		(exclude_from_sim no)

@@ -5881,7 +5881,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 137.795 40.64 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5949,7 +5949,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 206.375 75.565 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6017,7 +6017,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 250.825 80.645 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6083,7 +6083,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 137.795 82.55 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6151,7 +6151,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 206.375 91.44 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6219,7 +6219,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 213.36 79.375 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6285,7 +6285,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 266.7 36.195 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6351,7 +6351,7 @@
 		)
 	)
 	(symbol
-		(lib_id "BSS138:BSS138")
+		(lib_id "Transistor_FET:BSS138")
 		(at 123.825 65.405 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6423,7 +6423,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 206.375 99.06 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6491,7 +6491,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 259.08 86.995 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6557,7 +6557,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 266.7 57.785 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6689,7 +6689,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 206.375 83.185 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6757,7 +6757,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 259.08 36.195 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6889,7 +6889,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 137.795 61.595 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6957,7 +6957,7 @@
 		)
 	)
 	(symbol
-		(lib_id "BSS138:BSS138")
+		(lib_id "Transistor_FET:BSS138")
 		(at 123.825 44.45 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7117,7 +7117,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 111.125 82.55 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7185,7 +7185,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 111.125 103.505 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7335,7 +7335,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 111.125 40.64 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7403,7 +7403,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 274.32 57.785 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7535,7 +7535,7 @@
 		)
 	)
 	(symbol
-		(lib_id "BSS138:BSS138")
+		(lib_id "Transistor_FET:BSS138")
 		(at 123.825 86.36 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7607,7 +7607,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ADM2582E:ADM2582E")
+		(lib_id "ADM2582EBRWZ:ADM2582EBRWZ-REEL7")
 		(at 210.185 49.53 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7727,7 +7727,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 137.795 103.505 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7795,7 +7795,7 @@
 		)
 	)
 	(symbol
-		(lib_id "BSS138:BSS138")
+		(lib_id "Transistor_FET:BSS138")
 		(at 123.825 107.315 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7867,7 +7867,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 274.32 36.195 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7933,7 +7933,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 111.125 61.595 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8001,7 +8001,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 250.825 93.98 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8067,7 +8067,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Conn_01x02_Pin:Conn_01x02_Pin")
+		(lib_id "Connector_Generic:Conn_01x02_Pin")
 		(at 198.12 154.94 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8136,7 +8136,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 213.36 95.25 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8286,7 +8286,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 259.08 57.785 180)
 		(unit 1)
 		(exclude_from_sim no)

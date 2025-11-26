@@ -1780,7 +1780,7 @@
 		(uuid "f113e11a-6627-4a7b-86f8-d68de675f0d7")
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 124.46 70.485 270)
 		(unit 1)
 		(exclude_from_sim no)

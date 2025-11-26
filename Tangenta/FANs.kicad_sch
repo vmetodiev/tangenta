@@ -1483,7 +1483,7 @@
 		(uuid "b8bf0fed-5670-429c-a1b2-fba710560a04")
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 127 111.76 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1551,7 +1551,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 127 78.105 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1619,7 +1619,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Fan_4pin:Fan_4pin")
+		(lib_id "Connector:Fan_4pin")
 		(at 181.61 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1694,7 +1694,7 @@
 		)
 	)
 	(symbol
-		(lib_id "BSS138:BSS138")
+		(lib_id "Transistor_FET:BSS138")
 		(at 139.7 115.57 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1766,7 +1766,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 153.67 111.76 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1834,7 +1834,7 @@
 		)
 	)
 	(symbol
-		(lib_id "R_Small_US:R_Small_US")
+		(lib_id "Device:R_Small_US")
 		(at 153.67 78.105 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2034,7 +2034,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Fan_4pin:Fan_4pin")
+		(lib_id "Connector:Fan_4pin")
 		(at 181.61 81.915 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2109,7 +2109,7 @@
 		)
 	)
 	(symbol
-		(lib_id "BSS138:BSS138")
+		(lib_id "Transistor_FET:BSS138")
 		(at 139.7 81.915 270)
 		(unit 1)
 		(exclude_from_sim no)

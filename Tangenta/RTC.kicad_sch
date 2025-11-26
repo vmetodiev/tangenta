@@ -1484,7 +1484,7 @@
 		(uuid "d63ea611-21e6-4eec-81d0-7df716edc1c0")
 	)
 	(symbol
-		(lib_id "BAT54C:BAT54C")
+		(lib_id "Diode:BAT54C")
 		(at 129.54 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1854,7 +1854,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 220.345 91.44 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2067,7 +2067,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 210.82 91.44 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2133,7 +2133,7 @@
 		)
 	)
 	(symbol
-		(lib_id "C_Small:C_Small")
+		(lib_id "Device:C_Small")
 		(at 201.295 91.44 180)
 		(unit 1)
 		(exclude_from_sim no)
