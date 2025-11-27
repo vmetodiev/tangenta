@@ -243,7 +243,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 120.015) (xy 124.46 120.015)
+			(xy 101.6 119.38) (xy 124.46 119.38)
 		)
 		(stroke
 			(width 0)
@@ -523,7 +523,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 117.475) (xy 124.46 117.475)
+			(xy 101.6 116.84) (xy 124.46 116.84)
 		)
 		(stroke
 			(width 0)
@@ -913,7 +913,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 125.095) (xy 124.46 125.095)
+			(xy 101.6 124.46) (xy 124.46 124.46)
 		)
 		(stroke
 			(width 0)
@@ -963,7 +963,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 122.555) (xy 124.46 122.555)
+			(xy 101.6 121.92) (xy 124.46 121.92)
 		)
 		(stroke
 			(width 0)
@@ -1132,7 +1132,7 @@
 		(uuid "1a830cd3-7baa-44c4-8db7-65e59f45aa2d")
 	)
 	(label "PCIE_X1_DATA.TX_P"
-		(at 101.6 122.555 0)
+		(at 101.6 116.84 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1292,7 +1292,7 @@
 		(uuid "70528c1d-77a3-48ea-8aae-1abcddddf156")
 	)
 	(label "PCIE_X1_DATA.TX_N"
-		(at 101.6 125.095 0)
+		(at 101.6 119.38 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1402,7 +1402,7 @@
 		(uuid "c09feaa6-429f-4d66-9349-a248a7f0d4d8")
 	)
 	(label "PCIE_X1_DATA.RX_P"
-		(at 101.6 117.475 0)
+		(at 101.6 121.92 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1452,7 +1452,7 @@
 		(uuid "e26db591-eec0-4ec5-b210-daaf2f5f192a")
 	)
 	(label "PCIE_X1_DATA.RX_N"
-		(at 101.6 120.015 0)
+		(at 101.6 124.46 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1646,7 +1646,7 @@
 			)
 		)
 		(pin "PCIE_RX_P" input
-			(at 124.46 117.475 180)
+			(at 124.46 116.84 180)
 			(uuid "32c77f47-f1ea-48f2-afd7-e8f8cc212736")
 			(effects
 				(font
@@ -1666,7 +1666,7 @@
 			)
 		)
 		(pin "PCIE_TX_P" input
-			(at 124.46 122.555 180)
+			(at 124.46 121.92 180)
 			(uuid "168351dd-ca2a-4acd-b015-156d3ff3149f")
 			(effects
 				(font
@@ -1676,7 +1676,7 @@
 			)
 		)
 		(pin "PCIE_TX_N" input
-			(at 124.46 125.095 180)
+			(at 124.46 124.46 180)
 			(uuid "4046e4b1-80f6-4bc3-a89e-085946bad01f")
 			(effects
 				(font
@@ -1736,7 +1736,7 @@
 			)
 		)
 		(pin "PCIE_RX_N" input
-			(at 124.46 120.015 180)
+			(at 124.46 119.38 180)
 			(uuid "9d9e72bc-e691-4eff-a360-50bc1b94db93")
 			(effects
 				(font
