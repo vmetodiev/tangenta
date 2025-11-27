@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "2309410-1-3")
+	(descr "C2761395")
 	(tags "Connector")
 	(property "Reference" "J**"
 		(at -0.3 0 0)
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "23094101"
+	(property "Value" "C2761395"
 		(at -0.3 0 0)
 		(layer "F.SilkS")
 		(hide yes)
@@ -2002,6 +2002,28 @@
 		)
 		(rotate
 			(xyz -180 180 -0)
+		)
+	)
+	(model "${KICAD_PACKETCORD}/SODIMM_DDR4/SODIMM_DDR4.3dshapes/verdin_module.step"
+		(offset
+			(xyz -34.75 7.25 6.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+	(model "${KICAD_PACKETCORD}/SODIMM_DDR4/SODIMM_DDR4.3dshapes/verdin_heatsink.step"
+		(offset
+			(xyz -34.8 42.25 10.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 180 -0 -0)
 		)
 	)
 )
