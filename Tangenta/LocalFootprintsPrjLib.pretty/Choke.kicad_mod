@@ -1,44 +1,161 @@
-(footprint "Choke" (version 20221018) (generator pcbnew)
-  (layer "F.Cu")
-  (descr "IND-SMD_L7.1-W6.6_SLO0650H footprint")
-  (tags "IND-SMD_L7.1-W6.6_SLO0650H footprint")
-  (property "Inductance" "6.8uH")
-  (property "LCSC" "C216165")
-  (property "Sheetfile" "PowerSupply.kicad_sch")
-  (property "Sheetname" "PowerSupply")
-  (property "ki_keywords" "C216165")
-  (attr through_hole)
-  (fp_text reference "REF**" (at 0.000013 -5.300025) (layer "F.SilkS") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp 7bd68d37-a6ef-4147-8820-1b69c1560a5a)
-  )
-  (fp_text value "6.8uH" (at 0.000013 5.300025) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp d148a612-7918-4487-a267-97ffdfc6f4de)
-  )
-  (fp_text user "REF**" (at 0.000013 7.300025) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp 3e54ed0a-8388-47de-9c9f-7fbfcc607ff4)
-  )
-  (fp_line (start -3.549987 -3.300025) (end 3.550013 -3.300025)
-    (stroke (width 0.254) (type solid)) (layer "F.SilkS") (tstamp 09c955a2-a894-4dd3-ab6e-2ba3d9efd33d))
-  (fp_line (start -3.549987 -1.83114) (end -3.549987 -3.300025)
-    (stroke (width 0.254) (type solid)) (layer "F.SilkS") (tstamp e7d6789b-1fcf-414c-9c6a-1b87e6c7c957))
-  (fp_line (start -3.549987 3.300025) (end -3.549987 1.83114)
-    (stroke (width 0.254) (type solid)) (layer "F.SilkS") (tstamp 4b77aac7-98f3-4af0-a4d1-cb0ca27d402d))
-  (fp_line (start -3.549987 3.300025) (end 3.550013 3.300025)
-    (stroke (width 0.254) (type solid)) (layer "F.SilkS") (tstamp 56846f59-e523-490c-8bad-5f7a4cbffb48))
-  (fp_line (start 3.550013 -1.83114) (end 3.550013 -3.300025)
-    (stroke (width 0.254) (type solid)) (layer "F.SilkS") (tstamp b2ab88e8-0f5f-49f4-a730-a21db74a446e))
-  (fp_line (start 3.550013 3.300025) (end 3.550013 1.83114)
-    (stroke (width 0.254) (type solid)) (layer "F.SilkS") (tstamp 5095f548-6b1d-4a2a-807e-141da5816670))
-  (fp_circle (center -3.550013 3.300025) (end -3.520015 3.300025)
-    (stroke (width 0.059995) (type solid)) (fill none) (layer "F.SilkS") (tstamp 9895d7e9-7933-431c-9906-a367343b13eb))
-  (pad "1" smd rect (at -2.921006 0) (size 2.4 3.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8316a48c-f1d7-406f-b54c-aa1a0b34f201))
-  (pad "2" smd rect (at 2.921006 0) (size 2.4 3.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0cf71e23-b5de-4088-812e-c3f21cb9c291))
-  (model "${KICAD7_3DMODEL_DIR}/Choke.3dshapes/IND-SMD_L7.1-W6.6_SLO0650H.wrl"
-    (offset (xyz 0 0 0.009906))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
+(footprint "Choke"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "IND-SMD_L7.1-W6.6_SLO0650H footprint")
+	(tags "IND-SMD_L7.1-W6.6_SLO0650H footprint")
+	(property "Reference" "REF**"
+		(at 0.000013 -5.300025 0)
+		(layer "F.SilkS")
+		(uuid "a5af14dc-0399-41e1-9c28-ab6d7e895956")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "IND-SMD_L7.1-W6.6_SLO0650H"
+		(at 0.000013 5.300025 0)
+		(layer "F.Fab")
+		(uuid "d9363052-ff9a-4ab2-9c1f-9ca88f986397")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dd9d794c-521a-40f2-9122-d8ad82193570")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dd037914-59d6-4f08-8403-945c978ce843")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -3.549987 -3.300025)
+		(end 3.550013 -3.300025)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "43a060bc-4a1b-41cd-9f45-9e9cfa3ccb0a")
+	)
+	(fp_line
+		(start -3.549987 -1.83114)
+		(end -3.549987 -3.300025)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fd3e412e-798c-491f-ac56-f9abedbd7cbe")
+	)
+	(fp_line
+		(start -3.549987 3.300025)
+		(end -3.549987 1.83114)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "29ccf62b-ce23-4b09-9b02-597a11ab1d3b")
+	)
+	(fp_line
+		(start -3.549987 3.300025)
+		(end 3.550013 3.300025)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8c450ccf-8c9c-485f-a836-e2c380c9cea3")
+	)
+	(fp_line
+		(start 3.550013 -1.83114)
+		(end 3.550013 -3.300025)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0b737c4d-5efa-448e-83a9-d2e3319b387c")
+	)
+	(fp_line
+		(start 3.550013 3.300025)
+		(end 3.550013 1.83114)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6f23cfd7-e3ca-4cf5-b525-6b318f9884b5")
+	)
+	(fp_circle
+		(center -3.550013 3.300025)
+		(end -3.520015 3.300025)
+		(stroke
+			(width 0.059995)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "dedf2c46-80ac-4c9d-8905-dec7040e614d")
+	)
+	(fp_text user "REF**"
+		(at 0.000013 7.300025 0)
+		(layer "F.Fab")
+		(uuid "73c8f862-5f2c-436d-9c82-4bc3095923d6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.921006 0)
+		(size 2.4 3.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2646a999-5328-4ed5-a2a1-a728c475d901")
+	)
+	(pad "2" smd rect
+		(at 2.921006 0)
+		(size 2.4 3.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "15334549-9223-4c64-b27a-0b7dddd8d35a")
+	)
+	(embedded_fonts no)
+	(model "${KICAD_PACKETCORD}/Choke/Choke.3dshapes/IND-SMD_L7.1-W6.6_SLO0650H.wrl"
+		(offset
+			(xyz 0 0 0.009905999851)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
