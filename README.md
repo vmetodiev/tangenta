@@ -28,12 +28,6 @@ To be used as a base for developing mATX motherboards for other (similar) SoMs.
 All of the above exposed over a single RJ-45 connector (to fit the maximum allowed ATX rear panel lenght)
 
 # A few images
-![screenshot](Images/tangenta.png)
-![screenshot](Images/1.jpeg)
-![screenshot](Images/2.jpeg)
-![screenshot](Images/3.jpeg)
-![screenshot](Images/4.jpeg)
-![screenshot](Images/5.jpeg)
-![screenshot](Images/6.jpeg)
-![screenshot](Images/7.jpeg)
-![screenshot](Images/8.JPG)
+![screenshot](Images/1.png)
+![screenshot](Images/2.png)
+![screenshot](Images/3.png)
