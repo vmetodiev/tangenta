@@ -37,7 +37,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/2309410-1.pdf"
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588904139330105344"
 				(at 21.59 -194.92 0)
 				(effects
 					(font
@@ -47,7 +47,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "DIMM Connectors DDR4 SODIMM 260P 5.2H RVS"
+			(property "Description" "DDR4 SODIMM 260P"
 				(at 0 0 0)
 				(effects
 					(font
@@ -56,27 +56,7 @@
 					(hide yes)
 				)
 			)
-			(property "Height" "5.45"
-				(at 21.59 -394.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "TE Connectivity"
-				(at 21.59 -494.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "2309410-1"
+			(property "MPN" "ASAA826-E8SB0-7H"
 				(at 21.59 -594.92 0)
 				(effects
 					(font
@@ -86,38 +66,8 @@
 					(hide yes)
 				)
 			)
-			(property "Mouser Part Number" "571-2309410-1"
+			(property "JLCPCB" "C2761395"
 				(at 21.59 -694.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Alcoswitch/2309410-1?qs=1mbolxNpo8eFwvXz8HzrBw%3D%3D"
-				(at 21.59 -794.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Part Number" "2309410-1"
-				(at 21.59 -894.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Arrow Price/Stock" "https://www.arrow.com/en/products/2309410-1/te-connectivity?region=nac"
-				(at 21.59 -994.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -16519,7 +16469,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/2309410-1.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588904139330105344"
 			(at 244.45 127 0)
 			(effects
 				(font
@@ -16529,12 +16479,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "DIMM Connectors DDR4 SODIMM 260P 5.2H RVS"
+		(property "Description" "DDR4 SODIMM 260P"
 			(at 49.53 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Height" "5.45"
@@ -16599,6 +16550,26 @@
 		)
 		(property "Arrow Price/Stock" "https://www.arrow.com/en/products/2309410-1/te-connectivity?region=nac"
 			(at 1044.45 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ASAA826-E8SB0-7H"
+			(at 644.45 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB" "C2761395"
+			(at 744.45 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
